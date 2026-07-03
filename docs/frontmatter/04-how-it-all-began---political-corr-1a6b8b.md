@@ -1,296 +1,209 @@
-# How it all began - Political Correctness is Cultural Marxism
-
-> 原文页码: 12-17
-
+# 这一切是怎样开始的——政治正确就是文化马克思主义
 How it all began - Political Correctness is Cultural Marxism
-Most Europeans look back on the 1950s as a good time. Our homes were safe, to the 
-point where many people did not bother to lock their doors. Public schools were generally 
-excellent, and their problems were things like talking in class and running in the halls. 
-Most men treated women like ladies, and most ladies devoted their time and effort to 
-making good homes, rearing their children well and helping their communities through 
-volunteer work. Children grew up in two–parent households, and the mother was there to 
-meet the child when he came home from school. Entertainment was something the whole 
-family could enjoy.
-What happened?
-If a man of the 1950s were suddenly introduced into Western Europe in the 2000s, he 
-would hardly recognise it as the same country. He would be in immediate danger of 
-getting mugged, carjacked or worse, because he would not have learned to live in 
-constant fear. He would not know that he shouldn’t go into certain parts of the city, that 
-his car must not only be locked but equipped with an alarm, that he dare not go to sleep 
-at night without locking the windows and bolting the doors – and setting the electronic 
-security system.
-If he brought his family with him, he and his wife would probably cheerfully pack their 
-children off to the nearest public school. When the children came home in the afternoon 
-and told them they had to go through a metal detector to get in the building, had been 
-given some funny white powder by another kid and learned that homosexuality is normal 
-and good, the parents would be uncomprehending. 
-In the office, the man might light up a cigarette, drop a reference to the “little lady,” and 
-say he was happy to see the firm employing some coloured folks in important positions. 
-Any of those acts would earn a swift reprimand, and together they might get him fired.
-When she went into the city to shop, the wife would put on a nice suit, hat, and possibly 
-gloves. She would not understand why people stared, and mocked.
-And when the whole family sat down after dinner and turned on the television, they 
-would not understand how pornography from some sleazy, blank-fronted “Adults Only” 
-kiosk had gotten on their set.
-Were they able, our 1950s family would head back to the 1950s as fast as they could, 
-with a gripping horror story to tell. Their story would be of a nation that had decayed and 
-degenerated at a fantastic pace, moving in less than a half a century from the greatest 
-countries on earth to Third World nations, overrun by crime, noise, drugs and dirt. The 
-fall of Rome was graceful by comparison.
-Why did it happen?
-Over the last fifty years, Western Europe has been conquered by the same force that 
-earlier took over Russia, China, Germany and Italy. That force is ideology. Here, as 
-elsewhere, ideology has inflicted enormous damage on the traditional culture it came to 
-dominate, fracturing it everywhere and sweeping much of it away. In its place came fear, 
-and ruin. Russia will take a generation or more to recover from Communism, if it ever 
-can.
-The ideology that has taken over Western Europe goes most commonly by the name of 
-“Political Correctness.” Some people see it as a joke. It is not. It is deadly serious. It 
-seeks to alter virtually all the rules, formal and informal, that govern relations among 
-people and institutions. It wants to change behaviour, thought, even the words we use. 
-To a significant extent, it already has. Whoever or whatever controls language also 
-controls thought. Who dares to speak of “ladies” now?
-Just what is “Political Correctness?” Political Correctness is in fact cultural Marxism 
-(Cultural Communism) – Marxism translated from economic into cultural terms. The 
-effort to translate Marxism from economics into culture did not begin with the student 
-rebellion of the 1960s. It goes back at least to the 1920s and the writings of the Italian 
-Communist Antonio Gramsci. In 1923, in Germany, a group of Marxists founded an 
-institute devoted to making the transition, the Institute of Social Research (later known 
-as the Frankfurt School). One of its founders, George Lukacs, stated its purpose as 
-answering the question, “Who shall save us from Western Civilisation?” The Frankfurt 
-School gained profound influence in European and American universities after many of its 
-leading lights fled and spread all over Europe and even to the United States in the 1930s 
-to escape National Socialism in Germany. In Western Europe it gained influence in 
-universities from 1945.
-The Frankfurt School blended Marx with Freud, and later influences (some Fascist as well 
-as Marxist) added linguistics to create “Critical Theory” and “deconstruction.” These in 
-turn greatly influenced education theory, and through institutions of higher education 
-gave birth to what we now call “Political Correctness.” The lineage is clear, and it is 
-traceable right back to Karl Marx.
-The parallels between the old, economic Marxism and cultural Marxism are evident. 
-Cultural Marxism, or Political Correctness, shares with classical Marxism the vision of a 
-“classless society,” i.e., a society not merely of equal opportunity, but equal condition. 
-Since that vision contradicts human nature – because people are different, they end up 
-unequal, regardless of the starting point – society will not accord with it unless forced. 
-So, under both variants of Marxism, it is forced. This is the first major parallel between 
-classical and cultural Marxism: both are totalitarian ideologies. The totalitarian nature of 
-Political Correctness can be seen on campuses where “PC” has taken over the college: 
-freedom of speech, of the press, and even of thought are all eliminated.
-The second major parallel is that both classical, economic Marxism and cultural Marxism 
-have single-factor explanations of history. Classical Marxism argues that all of history was 
-determined by ownership of the means of production. Cultural Marxism says that history 
-is wholly explained by which groups – defined by sex, race, religion and sexual normality 
-or abnormality – have power over which other groups.
-The third parallel is that both varieties of Marxism declare certain groups virtuous and 
-others evil a priori, that is, without regard for the actual behaviour of individuals. 
-Classical Marxism defines workers and peasants as virtuous and the bourgeoisie (the 
-middle class) and other owners of capital as evil. Cultural Marxism defines all minorities, 
-what they see as the victims; Muslims, Feminist women, homosexuals and some 
-additional minority groups as virtuous and they view ethnic Christian European men as 
-evil. (Cultural Marxism does not recognise the existence of non-Feminist women, and 
-defines Muslims, Asians and Africans who reject Political Correctness as evil, just like 
-native Christian or even atheist Europeans.).
-The fourth parallel is in means: expropriation. Economic Marxists, where they obtained 
-power, expropriated the property of the bourgeoisie and handed it to the state, as the 
-“representative” of the workers and the peasants. Cultural Marxists, when they gain 
-power (including through our own government), lay penalties on native European men 
-and others who disagree with them and give privileges to the ”victim” groups they favour. 
-Affirmative action is an example.
-Finally, both varieties of Marxists employ a method of analysis designed to show the 
-correctness of their ideology in every situation. For classical Marxists, the analysis is 
-economic. For cultural Marxists, the analysis is linguistic: deconstruction. Deconstruction 
-“proves” that any “text,” past or present, illustrates the oppression of Muslims, women, 
-homosexuals, etc. by reading that meaning into words of the text (regardless of their 
-actual meaning). Both methods are, of course, phony analyses that twist the evidence to 
-fit preordained conclusions, but they lend a ‘scientific” air to the ideology.
-These parallels are neither remarkable nor coincidental. They exist because Political 
-Correctness is directly derived from classical Marxism, and is in fact a variant of Marxism. 
-Through most of the history of Marxism, cultural Marxists were “read out” of the 
-movement by classical, economic Marxists. Today, with economic Marxism dead, cultural 
-Marxism has filled its shoes. The medium has changed, but the message is the same: a 
-society of radical egalitarianism enforced by the power of the state.
-Political Correctness now looms over Western European society like a colossus. It has 
-taken over both political wings, left and right. Among so called Western European 
-”conservative” parties the actual cultural conservatives are shown the door because being 
-a cultural conservative opposes the very essence of political correctness. It controls the 
-most powerful element in our culture, the media and entertainment industry. It 
-dominates both public and higher education: many a college campus is a small, ivy-
-covered North Korea. It has even captured the higher clergy in many Christian churches. 
-Anyone in the Establishment who departs from its dictates swiftly ceases to be a member 
-of the Establishment.
-The most vital question is: how can Western Europeans combat Political Correctness and 
-retake their society from the cultural Marxists?
-It is not sufficient just to criticise Political Correctness. It tolerates a certain amount of 
-criticism, even gentle mocking. It does so through no genuine tolerance for other points 
-of view, but in order to disarm its opponents, to let itself seem less menacing than it is. 
-The cultural Marxists do not yet have total power, and they are too wise to appear 
-totalitarian until their victory is assured. 
-Rather, those who would defeat cultural Marxism must defy it. They must use words it 
-forbids, and refuse to use the words it mandates; remember, sex is better than gender. 
-They must shout from the housetops the realities it seeks to suppress, such as our 
-opposition to Sharia on a national and local level, the Islamisation of our countries, the 
-facts that violent crime is disproportionately committed by Muslims and that most cases 
-of AIDS are voluntary, i.e., acquired from immoral sexual acts. They must refuse to turn 
-their children over to public schools. 
-Above all, those who would defy Political Correctness must behave according to the old 
-rules of our culture, not the new rules the cultural Marxists lay down. Ladies should be 
-wives and homemakers, not cops or soldiers, and men should still hold doors open for 
-ladies. Children should not be born out of wedlock. Glorification of homosexuality should 
-be shunned. Jurors should not accept Islam as an excuse for murder. 
-Defiance spreads. When other Western Europeans see one person defy Political 
-Correctness and survive – and you still can, for now – they are emboldened. They are 
-tempted to defy it, too, and some do. The ripples from a single act of defiance, of one 
-instance of walking up to the clay idol and breaking off its nose, can range far. There is 
-nothing the Politically Correct fear more than open defiance, and for good reason; it is 
-their chief vulnerability. That should lead cultural conservatives to defy cultural Marxism 
-at every turn.
-While the hour is late, the battle is not decided. Very few Western Europeans realise that 
-Political Correctness is in fact Marxism in a different set of clothes. As that realisation 
-spreads, defiance will spread with it. At present, Political Correctness prospers by 
-disguising itself. Through defiance, and through education on our own part (which should 
-be part of every act of defiance), we can strip away its camouflage and reveal the 
-Marxism beneath the window-dressing of “sensitivity,” “tolerance,” and “multiculturalism.”
-Who dares, wins. 
-The Historical Roots of “Political Correctness”
-Western Europe is today dominated by an alien system of beliefs, attitudes and values 
-that we have come to know as “Political Correctness.” Political Correctness seeks to 
-impose a uniformity of thought and behaviour on all Europeans and is therefore 
-totalitarian in nature. Its roots lie in a version of Marxism which seeks a radical inversion 
-of the traditional culture in order to create a social revolution.
-Social revolution has a long history, conceivably going as far back as Plato’s Republic. But 
-it was the French Revolution of 1789 that inspired Karl Marx to develop his theories in the 
-nineteenth century. In the twentieth century, the success of the Bolshevik Revolution of 
-1917 in Russia set off a wave of optimistic expectation among the Marxist forces in 
-Europe and America that the new proletarian world of equality was finally coming into 
-being. Russia, as the first communist nation in the world, would lead the revolutionary 
-forces to victory.
-The Marxist revolutionary forces in Europe leaped at this opportunity. Following the end 
-of World War I, there was a Communist “Spartacist” uprising in Berlin, Germany led by 
-Rosa Luxemburg; the creation of a “Soviet” in Bavaria led by Kurt Eisner; and a 
-Hungarian communist republic established by Bela Kun in 1919. At the time, there was 
-great concern that all of Europe might fall under the banner of Bolshevism. This sense of 
-impending doom was given vivid life by Trotsky’s Red Army invasion of Poland in 1919.
-However, the Red Army was defeated by Polish forces at the battle of the Vistula in 1920. 
-The Spartacist, Bavarian Soviet and Bela Kun governments all failed to gain widespread 
-support from the workers and after a brief time they were all overthrown. These events 
-created a quandary for the Marxist revolutionaries in Europe. Under Marxist economic 
-theory, the oppressed workers were supposed to be the beneficiaries of a social 
-revolution that would place them on top of the power structure. When these 
-revolutionary opportunities presented themselves, however, the workers did not respond. 
-The Marxist revolutionaries did not blame their theory for these failures. They blamed the 
-workers.
-One group of Marxist intellectuals resolved their quandary by an analysis that focused on 
-society’s cultural “superstructure” rather than on the economic substructures as Marx did. 
-The Italian Marxist Antonio Gramsci and Hungarian Marxist Georg Lukacs contributed the 
-most to this new cultural Marxism.
-Antonio Gramsci worked for the Communist International during 1923-24 in Moscow and 
-Vienna. He was later imprisoned in one of Mussolini’s jails where he wrote his famous 
-“Prison Notebooks.” Among Marxists, Gramsci is noted for his theory of cultural 
-hegemony as the means to class dominance. In his view, a new “Communist man” had to 
-be created before any political revolution was possible. This led to a focus on the efforts 
-of intellectuals in the fields of education and culture. Gramsci envisioned a long march 
-through the society’s institutions, including the government, the judiciary, the military, 
-the schools and the media. He also concluded that so long as the workers had a Christian 
-soul, they would not respond to revolutionary appeals.
-Georg Lukacs was the son a wealthy Hungarian banker. Lukacs began his political life as 
-an agent of the Communist International. His book History and Class Consciousness 
-gained him recognition as the leading Marxist theorist since Karl Marx. Lukacs believed 
-that for a new Marxist culture to emerge, the existing culture must be destroyed. He 
-said, “I saw the revolutionary destruction of society as the one and only solution to the 
-cultural contradictions of the epoch,” and, “Such a worldwide overturning of values 
-cannot take place without the annihilation of the old values and the creation of new ones 
-by the revolutionaries.”
-When he became Deputy Commissar for Culture in the Bolshevik Bela Kun regime in 
-Hungary in 1919, Lukacs launched what became known as “Cultural Terrorism.” As part 
-of this terrorism he instituted a radical sex education program in Hungarian schools. 
-Hungarian children were instructed in free love, sexual intercourse, the archaic nature of 
-middle-class family codes, the out-datedness of monogamy, and the irrelevance of 
-religion, which deprives man of all pleasures. Women, too, were called to rebel against 
-the sexual mores of the time. Lukacs’s campaign of “Cultural Terrorism” was a precursor 
-to what Political Correctness would later bring to Western European schools.
-In 1923, Lukacs and other Marxist intellectuals associated with the Communist Party of 
-Germany founded the Institute of Social Research at Frankfurt University in Frankfurt, 
-Germany. The Institute, which became known as the Frankfurt School, was modelled 
-after the Marx-Engels Institute in Moscow. In 1933, when Nazis came to power in 
-Germany, the members of the Frankfurt School fled. Most came to the United States.
-The members of the Frankfurt School conducted numerous studies on the beliefs, 
-attitudes and values they believed lay behind the rise of National Socialism in Germany. 
-The Frankfurt School’s studies combined Marxist analysis with Freudian psychoanalysis to 
-criticise the bases of Western culture, including Christianity, capitalism, authority, the 
-family, patriarchy, hierarchy, morality, tradition, sexual restraint, loyalty, patriotism, 
-nationalism, heredity, ethnocentrism, convention and conservatism. These criticisms, 
-known collectively as Critical Theory, were reflected in such works of the Frankfurt School 
-as Erich Fromm’s Escape from Freedom and The Dogma of Christ, Wilhelm’s Reich’s The 
-Mass Psychology of Fascism and Theodor Adorno’s The Authoritarian Personality.
-The Authoritarian Personality, published in 1950, substantially influenced Western 
-European psychologists and social scientists. The book was premised on one basic idea, 
-that the presence in a society of Christianity, capitalism, and the patriarchal-authoritarian 
-family created a character prone to racial and religious prejudice and German fascism. 
-The Authoritarian Personality became a handbook for a national campaign against any 
-kind of prejudice or discrimination on the theory that if these evils were not eradicated, 
-another Holocaust might occur on the European continent. This campaign, in turn, 
-provided a basis for Political Correctness.
-Critical Theory incorporated sub-theories which were intended to chip away at specific 
-elements of the existing culture, including “matriarchal theory,” “androgyny theory,” 
-“personality theory,” “authority theory,” “family theory,” “sexuality theory,” “racial theory,” 
-“legal theory,” and “literary theory.” Put into practice, these theories were to be used to 
-overthrow the prevailing social order and usher in social revolution.
-To achieve this, the Critical Theorists of the Frankfurt School recognised that traditional 
-beliefs and the existing social structure would have to be destroyed and then replaced. 
-The patriarchal social structure would be replaced with matriarchy; the belief that men 
-and women are different and properly have different roles would be replaced with 
-androgyny; and the belief that heterosexuality is normal would be replaced with the 
-belief that homosexuality is equally “normal.”
-As a grand scheme intended to deny the intrinsic worth of native Christian European, 
-heterosexual males, the Critical Theorists of the Frankfurt School opened the door to the 
-racial and sexual antagonisms of the Trotskyites. Many believed that oppressed Muslims, 
-non European minorities and others like Feminists and Homosexuals could be the 
-vanguard of a communist revolution in Europe. 
-Trotsky’s ideas were adopted by many of the student leaders of the 1960s counterculture 
-movement, who attempted to elevate minority revolutionaries to positions of leadership 
-in their movement.
-The student revolutionaries were also strongly influenced by the ideas of Herbert 
-Marcuse, another member of the Frankfurt School. Marcuse preached the “Great Refusal,” 
-a rejection of all basic Western concepts, sexual liberation and the merits of feminist and 
-black revolution. His primary thesis was that university students, ghetto blacks, the 
-alienated, the asocial, and the Third World could take the place of the proletariat in the 
-Communist revolution. In his book An Essay on Liberation, Marcuse proclaimed his goals 
-of a radical transvaluation of values; the relaxation of taboos; cultural subversion; Critical 
-Theory; and a linguistic rebellion that would amount to a methodical reversal of meaning. 
-As for racial conflict, Marcuse wrote that white men are guilty and that blacks are the 
-most natural force of rebellion.
-Marcuse may be the most important member of the Frankfurt School in terms of the 
-origins of Political Correctness, because he was the critical link to the counterculture of 
-the 1960s. His objective was clear: “One can rightfully speak of a cultural revolution, 
-since the protest is directed toward the whole cultural establishment, including morality 
-of existing society…” His means was liberating the powerful, primeval force of sex from its 
-civilised restraints, a message preached in his book, Eros and Civilisation, published in 
-1955. Marcuse became one of the main gurus of the 1960s adolescent sexual rebellion; 
-he himself coined the expression, “make love, not war.” With that role, the chain of 
-Marxist influence via the Frankfurt School was completed: from Lukacs’ service as Deputy 
-Commissar for Culture in the Bolshevik Hungarian government in 1919 to Western 
-European and American students burning the flag and taking over college administration 
-buildings in the 1960s. Today, many of these same colleges are bastions of Political 
-Correctness, and the former student radicals have become the faculties.
-One of the most important contributors to Political Correctness was Betty Friedan. 
-Through her book The Feminine Mystique, Friedantied Feminism to Abraham Maslow’s 
-theory of self-actualisation. Maslow was a social psychologist who in his early years did 
-research on female dominance and sexuality. Maslow was a friend of Herbert Marcuse at 
-Brandeis University and had met Erich Fromm in 1936. He was strongly impressed by 
-Fromm’s Frankfurt School ideology. He wrote an article, “The Authoritarian Character 
-Structure,” published in 1944, that reflected the personality theory of Critical Theory. 
-Maslow was also impressed with the work of Wilhelm Reich, who was another Frankfurt 
-School originator of personality theory. 
-The significance of the historical roots of Political Correctness cannot be fully appreciated 
-unless Betty Friedan’s revolution in sex roles is viewed for what it really was – a 
-manifestation of the social revolutionary process begun by Karl Marx. Friedan’s reliance 
-on Abraham Maslow’s reflection of Frankfurt School ideology is only one indicator. Other 
-indicators include the correspondence of Friedan’s revolution in sex roles with Georg 
-Lukacs’ annihilation of old values and the creation of new ones, and with Herbert 
-Marcuse’s transvaluation of values. But the idea of transforming a patriarchy into a 
-matriarchy – which is what a sex-role inversion is designed to do – can be connected 
-directly to Friedrich Engels book The Origin of the Family, Private Property, and the State. 
-First published in 1884, this book popularised the now-accepted feminist belief that deep-
-rooted discrimination against the oppressed female sex was a function of patriarchy. The 
-belief that matriarchy was the solution to patriarchy flows from Marx’s comments in The 
 
+大多数欧洲人回顾二十世纪五十年代，都认为那是一段美好的时光。我们的家园是安全的，以至于许多人甚至懒得锁门。公立学校普遍优秀，学生的问题也不过是在课堂上讲话和在大厅里奔跑。大多数男人对待女人如同对待淑女，而大多数淑女将她们的时间和精力投入到营造美好的家庭、好好养育子女以及通过志愿工作帮助社区上。孩子在双亲家庭中长大，孩子放学回家时母亲总会在家迎接。娱乐是全家人可以共同享受的东西。
+
+## 发生了什么？
+
+如果一个二十世纪五十年代的人突然被带到二十一世纪初的西欧，他几乎认不出这是同一个国家。他将立即面临被抢劫、劫车或更糟情况的危险，因为他没有学会生活在持续的恐惧中。他不会知道他不应该去城市的某些区域，他的车不仅要锁上，还必须安装报警器，他晚上不敢入睡前不锁好窗户、闩好门——还要开启电子安全系统。
+
+如果他把家人也带来了，他和妻子大概会兴高采烈地把孩子们送到最近的公立学校。当孩子们下午回家告诉他们，进教学楼必须通过金属探测器，被另一个孩子给了一些奇怪的白色粉末，还学到了同性恋是正常且美好的，父母将完全无法理解。
+
+在办公室里，这个男人可能会点上一支烟，提及"小女人"，并说他很高兴看到公司雇了一些有色人种担任重要职位。这些行为中的任何一项都会招致迅速的训斥，加在一起则可能让他被解雇。
+
+当妻子去市区购物时，她会穿上一套漂亮的套装，戴上帽子，可能还戴着手套。她不会理解为什么人们盯着她看并嘲笑。
+
+而当全家人晚饭后坐下来打开电视时，他们不会理解，来自某个肮脏的、无标识的"仅供成人"报亭的色情内容怎么会出现在他们的电视机上。
+
+如果可以的话，我们这个五十年代的家庭会以最快的速度冲回五十年代，带着一个令人毛骨悚然的恐怖故事要讲。他们的故事将是一个以惊人速度衰败和堕落的国家的故事，在不到半个世纪的时间里，从地球上最伟大的国家沦为第三世界国家，被犯罪、噪音、毒品和污秽所淹没。相比之下，罗马的陷落都显得优雅。
+
+## 为什么会发生？
+
+在过去五十年里，西欧被同一种力量所征服，这种力量此前已经占领了俄罗斯、中国、德国和意大利。这种力量就是意识形态。在这里，如同其他地方一样，意识形态对它开始支配的传统文化造成了巨大的破坏，使其无处不在的破裂，并扫除了其中大部分。取而代之的是恐惧和毁灭。俄罗斯将需要一代人或更长的时间才能从共产主义中恢复，如果它还能恢复的话。
+
+占领西欧的这种意识形态最常被称为"政治正确"。有些人把它当作一个笑话。它不是。它是极其严肃的。它试图改变几乎所有支配人与机构之间关系的规则，无论是正式的还是非正式的。它想要改变行为、思想，甚至我们使用的词语。在很大程度上，它已经做到了。无论谁或什么控制了语言，也就控制了思想。现在谁敢提到"淑女"呢？
+
+究竟什么是"政治正确"？政治正确实际上是文化马克思主义（文化共产主义）——将马克思主义从经济领域转译为文化领域。将马克思主义从经济学转译到文化领域的努力并非始于二十世纪六十年代的学生造反。它至少可以追溯到二十世纪二十年代以及意大利共产党人安东尼奥·葛兰西的著作。1923年，在德国，一群马克思主义者创立了一个致力于实现这一转变的机构，即社会研究所（后来被称为法兰克福学派）。其创始人之一乔治·卢卡奇将其目的表述为回答这样一个问题："谁能将我们从西方文明中拯救出来？"法兰克福学派在欧洲和美国大学中获得了深远的影响，因为其许多领军人物在二十世纪三十年代逃离德国并在整个欧洲乃至美国散布开来，以逃避德国的国家社会主义。在西欧，它从1945年开始在大学中获得了影响力。
+
+法兰克福学派将马克思与弗洛伊德混合在一起，后来的影响（一些法西斯的以及马克思主义的）加入了语言学，创造了"批判理论"和"解构"。这些又极大地影响了教育理论，并通过高等教育机构催生了我们现在所称的"政治正确"。这一谱系是清晰的，并且可以直接追溯到卡尔·马克思。
+
+旧的经济马克思主义与文化马克思主义之间的相似之处是显而易见的。文化马克思主义，或称政治正确，与古典马克思主义分享着"无阶级社会"的愿景，即一个不仅机会平等，而且条件平等的社会。由于这一愿景与人性相悖——因为人是不同的，他们最终会不平等，无论起点如何——社会除非被迫，否则不会与之相符。因此，在两种马克思主义的变体下，它都是被迫的。这是古典马克思主义与文化马克思主义之间的第一个主要相似之处：两者都是极权主义意识形态。政治正确的极权本质可以在那些"政治正确"已经占领了大学的校园里看到：言论自由、新闻自由，甚至思想自由都被消除了。
+
+第二个主要相似之处是，古典经济马克思主义和文化马克思主义都有对历史的单一因素解释。古典马克思主义认为，所有历史都是由生产资料的所有权决定的。文化马克思主义则认为，历史完全由哪些群体——按性别、种族、宗教和性正常或异常来定义——对哪些其他群体拥有权力来解释。
+
+第三个相似之处是，两种马克思主义的变体都先验地宣称某些群体是善良的，而另一些群体是邪恶的，也就是说，不顾个体的实际行为。古典马克思主义将工人和农民定义为善良的，将资产阶级（中产阶级）和其他资本所有者定义为邪恶的。文化马克思主义将所有少数群体，他们眼中的受害者——穆斯林、女权主义女性、同性恋者以及一些额外的少数群体——定义为善良的，并将基督教欧洲族裔男性视为邪恶的。（文化马克思主义不承认非女权主义女性的存在，并将拒绝政治正确的穆斯林、亚洲人和非洲人定义为邪恶的，就像本土基督教甚至无神论的欧洲人一样。）
+> 我们发展到了什么阶段了呢？
+
+第四个相似之处在于手段：剥夺。经济马克思主义者在他们获得权力的地方，剥夺了资产阶级的财产并将其交给国家，作为"代表"工人和农民。文化马克思主义者在他们获得权力时（包括通过我们自己的政府），对本地的欧洲男性和其他不同意他们的人施加惩罚，并给予他们所偏爱的"受害者"群体特权。平权行动就是一个例子。
+
+最后，两种马克思主义的变体都采用一种旨在在任何情况下都显示其意识形态正确性的分析方法。对于古典马克思主义者来说，这种分析是经济学的。对于文化马克思主义者来说，这种分析是语言学的：解构。解构"证明"任何"文本"，无论是过去还是现在，都通过将这种意义读入文本的词语中（而不顾其实际含义），说明了穆斯林、女性、同性恋者等受到压迫。这两种方法当然都是虚假的分析，它们扭曲证据来适应预先确定的结论，但它们为意识形态赋予了一种"科学"的氛围。
+
+这些相似之处既非显著也非巧合。它们存在是因为政治正确直接源自古典马克思主义，并且实际上是马克思主义的一种变体。在马克思主义历史的大部分时间里，文化马克思主义者被古典经济马克思主义者"开除"出运动。今天，随着经济马克思主义的消亡，文化马克思主义填补了它的位置。介质变了，但信息是相同的：一个由国家权力强制执行的激进平等主义社会。
+
+政治正确现在像一个巨人一样笼罩着西欧社会。它已经占领了左右两翼。在所谓的西欧"保守党"中，真正的文化保守主义者被扫地出门，因为成为文化保守主义者就违背了政治正确的本质。它控制着我们文化中最强大的元素——媒体和娱乐产业。它支配着公立教育和高等教育：许多大学校园就像一个小小的、爬满常春藤的朝鲜。它甚至俘虏了许多基督教会的高层神职人员。任何建制派中偏离其指令的人，都会迅速不再是建制派的一员。
+
+最关键的问题是：西欧人如何对抗政治正确，并从文化马克思主义者手中夺回他们的社会？
+仅仅批评政治正确是不够的。它容忍一定程度的批评，甚至温和的嘲笑。它这样做不是出于对其他观点的真正宽容，而是为了解除反对者的武装，让自己看起来比实际更少威胁。文化马克思主义者还没有完全掌握权力，他们足够聪明，在确保胜利之前不会显得极权主义。
+
+相反，那些想要击败文化马克思主义的人必须公然违抗它。他们必须使用它禁止的词语，并拒绝使用它强制的词语；记住，性别（sex）比社会性别（gender）更好。他们必须从房顶上大声喊出它试图压制的现实，比如我们在全国和地方层面对伊斯兰教法的反对，我们国家的伊斯兰化，暴力犯罪不成比例地由穆斯林实施的事实，以及大多数艾滋病病例是自愿的，即由不道德的性行为获得的事实。他们必须拒绝将孩子交给公立学校。
+>  语言的替换。看起来很熟悉？
+
+最重要的是，那些要违抗政治正确的人必须按照我们文化的旧规则行事，而不是按照文化马克思主义者制定的新规则。淑女应该做妻子和家庭主妇，而不是警察或士兵，男人仍然应该为淑女开门。孩子不应该在婚姻之外出生。对同性恋的颂扬应该被回避。陪审员不应接受将伊斯兰教作为谋杀的借口。
+
+一夫呼，百人应。当其他西欧人看到一个人违抗政治正确并活了下来——你现在仍然可以，至少目前是这样——他们就会受到鼓舞。他们也会受到诱惑去违抗它，有些人也确实这样做了。一次违抗行为的涟漪，一次走到泥塑偶像跟前折断其鼻子的行为，可以波及很远。政治正确最害怕的就是公开的违抗，理由很充分；这是它的主要弱点。这应该引导文化保守主义者在每一个转折点违抗文化马克思主义。
+
+虽然时机已完，但战斗尚未决出胜负。很少有人意识到政治正确实际上是马克思主义的异格。随着这一认识传播开来，违抗也将随之传播。目前，政治正确通过伪装自己而繁荣。通过违抗，以及通过我们自己的教育（这应该是每一次违抗行为的一部分），我们可以剥去它的伪装，揭示出在"敏感"、"宽容"和"多元文化主义"这些门面词藻之下的马克思主义。
+> 也许，我们应该反过来看，马克思主义不过是换了一套装束的进步主义。
+
+狭路相逢，勇者胜。
+
+## "政治正确"的历史根源
+今天的西欧被一种陌生的信仰、态度和价值观体系所支配，我们称之为"政治正确"。政治正确试图将思想和行为的统一性强加给所有欧洲人，因此本质上是极权主义的。它的根源在于一种旨在激进颠覆传统文化以创造社会革命的马克思主义版本。
+
+社会革命有着悠久的历史，可以想象可以追溯到柏拉图的《理想国》。但正是1789年的法国大革命激发了卡尔·马克思在十九世纪发展他的理论。在二十世纪，1917年俄国布尔什维克革命的成功在欧洲和美国的马克思主义力量中掀起了一波乐观的期望浪潮，即新的无产阶级平等世界终于要诞生了。俄国，作为世界上第一个共产主义国家，将领导革命力量走向胜利。
+
+欧洲的马克思主义革命力量抓住了这个机会。第一次世界大战结束后，在德国柏林发生了由罗莎·卢森堡领导的共产主义"斯巴达克"起义；在巴伐利亚由库尔特·艾斯纳领导创建了一个"苏维埃"；以及1919年由贝拉·库恩建立的匈牙利共产主义共和国。当时，人们普遍担心整个欧洲可能落入布尔什维克主义的旗帜之下。托洛茨基的红军在1919年入侵波兰，使这种迫在眉睫的厄运感变得生动。
+
+然而，红军在1920年的维斯瓦河战役中被波兰军队击败。斯巴达克、巴伐利亚苏维埃和贝拉·库恩政府都未能获得工人的广泛支持，短暂的时间后，他们都被推翻了。这些事件给欧洲的马克思主义革命者带来了困境。根据马克思主义经济理论，受压迫的工人本应是社会革命的受益者，被置于权力结构的顶端。然而，当这些革命机会出现时，工人却没有响应。马克思主义革命者并未因这些失败而责备他们的理论。他们责备的是工人。
+
+一群马克思主义知识分子通过一种分析解决了他们的困境，这种分析聚焦于社会的文化"上层建筑"，而不是像马克思那样聚焦于经济基础。意大利马克思主义者安东尼奥·葛兰西和匈牙利马克思主义者乔治·卢卡奇对这种新的文化马克思主义贡献最大。
+
+安东尼奥·葛兰西于1923年至1924年在莫斯科和维也纳为共产国际工作。他后来被关押在墨索里尼的一座监狱中，在那里他写下了著名的《狱中札记》。在马克思主义者中，葛兰西以其文化霸权作为阶级统治手段的理论而闻名。在他看来，在任何政治革命成为可能之前，必须先创造出一个新的"共产主义人"。这导致了将焦点集中在知识分子在教育和文化领域的努力上。葛兰西设想了一场穿越社会制度的漫长进军，包括政府、司法、军队、学校和媒体。他还得出结论，只要工人还拥有基督教灵魂，他们就不会响应革命的呼吁。
+
+乔治·卢卡奇是一位富裕匈牙利银行家的儿子。卢卡奇以共产国际特工的身份开始了他的政治生涯。他的著作《历史与阶级意识》使他被公认为自卡尔·马克思以来最重要的马克思主义理论家。卢卡奇认为，要使新的马克思主义文化出现，必须摧毁现有的文化。他说："我将社会的革命性毁灭视为解决时代文化矛盾的唯一方案"以及"这种世界范围内的价值观颠覆，若不消灭旧价值观并由革命者创造新价值观，就无法发生。"
+
+当他在1919年成为匈牙利布尔什维克贝拉·库恩政权的文化副政委时，卢卡奇发起了后来被称为"文化恐怖主义"的运动。作为这种恐怖主义的一部分，他在匈牙利学校实施了激进的性教育项目。匈牙利儿童被教授自由恋爱、性交、中产阶级家庭规范的过时性、一夫一妻制的落伍，以及宗教（它剥夺了人的一切快乐）的无关性。妇女也被号召起来反抗当时的性别道德。卢卡奇的"文化恐怖主义"运动是政治正确后来带给西欧学校的先兆。
+
+1923年，卢卡奇与德国共产党相关的其他马克思主义知识分子在德国法兰克福的法兰克福大学创立了社会研究所。该研究所后被称为法兰克福学派，是以莫斯科的马克思恩格斯研究所为蓝本建立的。1933年，当纳粹在德国掌权时，法兰克福学派的成员逃离了。大多数人来到了美国。
+
+法兰克福学派的成员进行了大量研究，探讨他们认为隐藏在国家社会主义在德国崛起背后的信仰、态度和价值观。法兰克福学派的研究将马克思主义分析与弗洛伊德精神分析相结合，以批判西方文化的基础，包括基督教、资本主义、权威、家庭、父权制、等级制、道德、传统、性约束、忠诚、爱国主义、民族主义、遗传、种族中心主义、习俗和保守主义。这些批判被统称为批判理论，反映在法兰克福学派的著作中，如埃里希·弗洛姆的《逃避自由》和《基督的教条》、威廉·赖希的《法西斯主义的群众心理学》以及西奥多·阿多诺的《权威人格》。
+
+《权威人格》出版于1950年，对西欧心理学家和社会科学家产生了重大影响。该书基于一个基本理念，即基督教、资本主义和父权-威权式家庭在社会中的存在，创造了一种倾向于种族和宗教偏见以及德国法西斯主义的人格。《权威人格》成为了一场全国性运动的手册，反对任何形式的偏见或歧视，理论是如果这些邪恶不被根除，另一次大屠杀可能会在欧洲大陆发生。这场运动反过来为政治正确提供了基础。
+
+批判理论包含了旨在逐步侵蚀现有文化特定元素的分支理论，包括"母权制理论"、"雌雄同体理论"、"人格理论"、"权威理论"、"家庭理论"、"性理论"、"种族理论"、"法律理论"和"文学理论"。在实践中，这些理论将被用来推翻现存的社会秩序，开启社会革命。
+
+为了实现这一目标，法兰克福学派的批判理论家们认识到，传统的信仰和现有的社会结构必须首先被摧毁，然后被取代。父权制社会结构将被母权制取代；男人和女人是不同的、恰当地拥有不同角色的信念将被雌雄同体取代；异性恋是正常的信念将被同性恋同样"正常"的信念取代。
+
+作为一个旨在否定本地基督教欧洲异性恋男性内在价值的大计划，法兰克福学派的批判理论家们为托洛茨基派的种族和性别对立打开了大门。许多人相信，受压迫的穆斯林、非欧洲少数群体以及其他如女权主义者和同性恋者，可以成为欧洲共产主义革命的先锋队。
+
+托洛茨基的思想被二十世纪六十年代反文化运动的许多学生领袖所采纳，他们试图将少数群体革命者提升到其运动的领导地位。
+
+学生革命者也深受赫伯特·马尔库塞思想的影响，他是法兰克福学派的另一位成员。马尔库塞宣扬"伟大的拒绝"，即对所有基本西方概念的拒绝、性解放以及女权主义和黑人革命的价值。他的主要论点是，大学生、贫民窟的黑人、被异化者、反社会者和第三世界可以在共产主义革命中取代无产阶级的位置。在他的著作《论解放》中，马尔库塞宣称他的目标是价值的彻底重估；禁忌的放松；文化颠覆；批判理论；以及一场相当于对意义进行系统性颠倒的语言造反运动。至于种族冲突，马尔库塞写道，白人是有罪的，黑人是反叛的最自然力量。
+
+就政治正确的起源而言，马尔库塞可能是法兰克福学派中最重要的成员，因为他是连接二十世纪六十年代反文化运动的关键环节。他的目标是明确的："人们可以正当地谈论一场文化革命，因为抗议是针对整个文化建制的，包括现有社会的道德……"他的手段是释放性的强大、原始力量，使其摆脱文明的束缚，这一信息在他的著作《爱欲与文明》中得到了宣扬，该书出版于1955年。马尔库塞成为二十世纪六十年代青少年性反叛运动的主要领袖之一；他本人创造了"要做爱，不要作战"这一表达。随着这一角色，马克思主义通过法兰克福学派产生影响的链条就完整了：从1919年卢卡奇在布尔什维克匈牙利政府担任文化副政委，到二十世纪六十年代西欧和美国的学生焚烧国旗并占领学院行政大楼。今天，这些学院中有许多是政治正确的堡垒，而当年的学生激进分子已经成为了教师队伍。
+
+对政治正确最重要的贡献者之一是贝蒂·弗里丹。通过她的著作《女性的奥秘》，弗里丹将女权主义与亚伯拉罕·马斯洛的自我实现理论联系起来。马斯洛是一位社会心理学家，早年从事女性支配和性方面的研究。马斯洛是赫伯特·马尔库塞在布兰代斯大学的朋友，并于1936年见过埃里希·弗洛姆。他对弗洛姆的法兰克福学派意识形态印象深刻。他写了一篇题为《权威人格结构》的文章，发表于1944年，反映了批判理论的人格理论。马斯洛对威廉·赖希的工作也很欣赏，他是法兰克福学派人格理论的另一位创始人。
+
+政治正确的历史根源的重要性无法被充分理解，除非贝蒂·弗里丹的性别角色革命被看作它真正的样子——由卡尔·马克思开始的社会革命进程的表现。弗里丹对亚伯拉罕·马斯洛反映法兰克福学派意识形态的依赖只是一个指标。其他指标包括弗里丹的性别角色革命与乔治·卢卡奇消灭旧价值观和创造新价值观的对应关系，以及与赫伯特·马尔库塞价值重估的对应关系。但将父权制转变为母权制——这正是性别角色反转旨在实现的目标——可以直接与弗里德里希·恩格斯的著作《家庭、私有制和国家的起源》联系起来。该书首次出版于1884年，普及了如今被接受的女权主义信念，即对被压迫女性性别的根深蒂固的歧视是父权制的一个功能。母权制是父权制解决方案的信念，源于马克思在《德意志意识形态》。在这部著作中，马克思提出了妻子和孩子是父权制男性的第一份财产的观点。法兰克福学派的母权制理论及其近亲——中性化理论，都起源于这些来源。
+
+在面向公众时，政治正确——或者如其实名，文化马克思主义——的倡导者以诱人的方式呈现他们的信念。他们说，这不过是对他人"敏感"的问题。他们使用"宽容"和"多样性"这样的词语，问道："我们为什么就不能好好相处呢？"
+>  Dog wistle
+
+现实是不同的。政治正确根本不是关于"友善"，除非有人认为古拉格是友善的地方。政治正确就是马克思主义，带有其全部含义：丧失言论自由、思想控制、颠覆传统社会秩序，以及最终，一个极权主义国家。如果说有什么不同的话，法兰克福学派创造的文化马克思主义比那个毁掉俄国的旧经济马克思主义更加可怕。至少经济马克思主义者没有像法兰克福学派及其后继者那样颂扬性变态并试图创建母权制。
+
+## 文化马克思主义者点将录
+
+### 格奥尔格·卢卡奇
+·他以共产国际的克里姆林宫特工身份开始了他的政治生涯。
+·他的《历史与阶级意识》使他被认可是自卡尔·马克思以来最重要的马克思主义理论家。
+·1919年，他在匈牙利的布尔什维克库恩·贝拉政权中担任文化副人民委员。他煽动了后来被称为"文化恐怖主义"的运动。
+·文化恐怖主义是后来在欧洲和美国学校中所发生之事的先兆。
+·他发起了一项"爆炸性"的性教育计划。在匈牙利学校组织了特别讲座，印刷和分发了文献，向儿童教授自由恋爱、性交的本质、资产阶级家庭规范的陈旧性质、一夫一妻制的过时性，以及宗教的无关联性——宗教剥夺了人的所有快乐。儿童被敦促拒绝和嘲笑父权权威和教会权威，并忽视道德戒律。他们被轻易而自发地变成了只有警察才能应对的少年犯。这种对匈牙利儿童的叛乱号召与对匈牙利妇女的叛乱号召相匹配。
+·在拒绝接受布尔什维主义意味着文明和文化毁灭这一观点时，卢卡奇声明："如此全球性的价值颠覆，不可能在没有消灭旧价值和由革命者创造新价值的情况下发生。"
+·卢卡奇的心态在他自己的话中得到了表达：
+——"所有我自青年时代就憎恨的社会力量，以及我精神上旨在消灭的力量，现在联合起来发动了第一次全球战争。"
+——"我视对社会的革命性摧毁为解决言论文化矛盾的唯一方案。"
+——"问题是：谁将把我们从西方文明的枷锁中解放出来？"
+——"任何能够将布尔什维主义带到西方的政治运动，都必须具有'恶魔性'。"
+——"放弃灵魂的独特性解决了'释放'潜伏在所有为实现革命所需之暴力中的魔鬼力量的问题。"
+·卢卡奇的心态是那些代表革命马克思主义力量的人的典型心态。
+·在1923年于德国举行的一次秘密会议上，卢卡奇提出了诱导"文化悲观主义"的概念，以增加西方人民的绝望感和异化感，作为革命的必要先决条件。
+·这次会议促成了1923年法兰克福大学社会研究所的成立——一个由马克思主义和共产主义取向的心理学家、社会学家和其他知识分子组成的组织，后来被称为法兰克福学派，致力于实施格奥尔格·卢卡奇的计划。
+
+### 安东尼奥·葛兰西
+·他是一位意大利马克思主义者，在智识上与格奥尔格·卢卡奇不相上下，他通过分析得出了与卢卡奇和法兰克福学派相同的结论，即知识分子在西方煽动革命中的至关重要性。
+·他在1917年布尔什维克革命后前往苏联，并做出了一些准确的观察，使他得出结论：由于西方工人基督教灵魂的特性，布尔什维克式的起义无法由他们实现。
+·安东尼奥·葛兰西成为了意大利共产党的领导人，这使他在20世纪30年代获得了墨索里尼监狱中的一个位置，在那里他撰写了《狱中札记》和其他文献。
+·这些著作以英文版本为英国人和美国人所获得。
+·他对知识分子的建议是，开始一场穿越国家教育和文化机构的漫长进军，以便在有成功的政治革命之前创造一个新苏联人。
+·这反映了他在苏联的观察：其领导人不能在布尔什维克革命之后创造出这样的新苏联人。
+·这份思想和品格改造蓝图使葛兰西成为美国教育中革命马克思主义的英雄，并为教育卡特尔在学校中创造新美国儿童铺平了道路。
+·安东尼奥·葛兰西革命战略的本质特性反映在查尔斯·A·赖希的《美国的绿化》中："一场革命正在来临。它将不像过去的革命。它将起源于个人和文化，并将以其最后行动改变政治结构。它不需要暴力来取得成功，也不能被暴力成功抵抗。这是新世代的革命。"
+
+### 威廉·赖希
+·在他1933年出版的《法西斯主义的大众心理学》一书中，他解释了法兰克福学派从将"资产阶级"对立于"无产阶级"的马克思主义社会学转向，转而将斗争置于"反动"与"革命"人格之间。
+·他还撰写了一本名为《性革命》的书，这是20世纪60年代即将发生之事的先兆。
+·他的"性经济"社会学是将弗洛伊德的心理学与马克思的经济理论协调起来的努力。
+·赖希的理论以他自己的话表达为："威权家庭是威权国家的缩影。人的威权性格结构基本上是由性抑制和恐惧嵌入性冲动的生命载体中产生的。家庭帝国主义在意识形态上被复制为国家帝国主义……威权家庭……是生产反动意识形态和反动结构的工厂。"
+·威廉·赖希的理论，与格奥尔格·卢卡奇在匈牙利的性教育相结合，可以被视为美国教育卡特尔坚持从幼儿园起的性教育以及完全否定父权家庭、外部权威和传统人格结构的来源。
+·赖希的理论涵盖了其他似乎已经渗透到美国教育中的主张：
+——基督教的有组织宗教神秘主义是导致法西斯主义的威权家庭的一个要素。
+——男性和女性内外部的父权权力都应被废黜。
+——革命性的性政治将意味着威权意识形态的彻底崩溃。
+——节育是革命性的意识形态。
+——人本质上是性动物。
+·赖希的《法西斯主义的大众心理学》截至1991年已第九次印刷，并在大多数大学书店有售。
+
+### 埃里希·弗洛姆
+·像威廉·赖希一样，弗洛姆是法兰克福学派的一位社会心理学家，于20世纪30年代来到美国。
+·他于1941年出版的书《逃避自由》是威廉·赖希《法西斯主义的大众心理学》的意识形态伴侣。
+·弗洛姆断言早期资本主义创造了一种社会秩序，其结果是加尔文的预定论，这反映了人的基本不平等原则，并在纳粹意识形态中得以复活。
+·他断言威权人格只体验统治或服从，"对他而言，差异，无论是性别还是种族，都必然是优越或低劣的。"
+·他断言"积极自由"意味着这样的原则：没有比独特的个人自我更高的力量；人是生命的中心和目的；人的个性的成长和实现是一个目的，不能从属于那些被认为具有更高尊严的目的。
+·弗洛姆在他另外许多著作中的一本——《基督的教条》——中明确了这种"积极自由"的真正含义，他在其中将像自己这样的革命性人物描述为已经将自己从血缘和土地的纽带、从母亲和父亲、从对国家、种族、政党或宗教的特殊忠诚中解放出来的人。
+·弗洛姆在《基督的教条》中非常清楚地表明了他的革命意图……"我们可以从心理学的意义上定义革命，即革命是由具有革命性人格的人领导的政治运动，并吸引具有革命性人格的人。"
+
+### 赫伯特·马尔库塞
+·像威廉·赖希和埃里希·弗洛姆一样，马尔库塞是法兰克福学派的一位知识分子，于20世纪30年代来到美国。
+·他经常被描述为一位马克思主义哲学家，但事实上他是一位彻底的社会革命者，他像卡尔·马克思和格奥尔格·卢卡奇考虑德国社会的解体一样考虑西欧和美国社会的解体："人们可以正当地谈论一场文化革命，因为抗议是针对整个文化建制的，包括现有社会的道德……有一件事我们可以完全确信地说：传统的革命观念和传统的革命策略已经终结了。这些观念是过时的……我们必须承担的是对体系进行一种弥散和分散的解体。"
+·马尔库塞于1955年出版了《爱欲与文明》，该书成为20世纪60年代反文化运动的奠基文件，并将法兰克福学派带入了西欧和美国的学院和大学。
+·他断言，逃离现代工业社会单向度性的唯一途径是解放人的爱欲面，即感性本能，以反抗"技术理性"。
+·这种爱欲解放将采取"大拒绝"的形式，即对资本主义怪兽及其全部作品——包括技术理性和仪式威权语言——的全面拒绝。
+·他提供了青少年性叛乱和"做爱，不作战"口号所需的知识辩护。
+·他的理论包括这样的信念：妇女解放运动将是对抗中最重要的组成部分，而且可能是最激进的。
+·他的革命努力将在学校和学院中发展为革命马克思主义对欧洲白人男性的全面战争。
+
+### 西奥多·阿多诺
+·他是另一位马克思主义革命者，也是法兰克福学派的成员，于20世纪30年代来到美国。
+·阿多诺与他人合著了《威权人格》，该书于1950年出版。
+·阿多诺的书受到威廉·赖希、埃里希·弗洛姆和赫伯特·马尔库塞著作中揭示的同类型理论断言的启发，这些断言基于1923年启动的对德国社会的分析研究。
+·基本主题是相同的。存在一种被称为威权人格的东西，它与期望的革命人格相反。这种威权人格是资本主义、基督教、保守主义、父权家庭和性压抑的产物。根据法兰克福学派的理论，在德国，这种组合诱发了偏见、反犹主义和法西斯主义。
+·碰巧的是，大多数西欧人和美国人在其青年时期都是资本主义、基督教、保守主义、父权家庭和性压抑的产物。因此，西奥多·阿多诺和法兰克福学派的其他成员拥有了一个黄金机会来执行格奥尔格·卢卡奇和安东尼奥·葛兰西的计划，在西欧和美国而不是德国制造社会革命。
+·他们将假定西欧人和美国人中存在具有偏见倾向的威权人格，然后利用这一点以根除偏见为借口，强制对西欧人和美国人进行"科学规划再教育"。
+·这种科学规划的再教育将成为总体计划，将欧洲和美国的基本价值体系转化为其在欧洲教育中的相反的革命价值，使学童成为法兰克福学派革命人格的复制品，从而创造新西方儿童。
+·这可以通过注意到《威权人格》是本杰明·布卢姆1964年《教育目标分类学》情感领域的关键来源来确认，该分类学此后指导了教育卡特尔。
+
+## 高等教育中的政治正确
+在越来越多的大学校园中，表达和讨论思想的自由——这一自苏格拉底时代以来一直是高等教育基石的原则——正在以惊人的速度被侵蚀。仅考虑一个日益增长的趋势：数百份（有时数千份）保守派学生报纸要么被学生激进分子偷走，要么被公开焚烧。在许多案例中，这些行为得到了教师和管理人员心照不宣的支持。肇事者很少受到纪律处分。
+
+虽然将这些"宽容"的展示视为学生恶作剧不予考虑很容易，但这些事件是一个更普遍和更暗中为害的趋势的表面表现——这一趋势的目标是摧毁那些帮助创造和维持西方文明的文科传统。
+
+尽管一些权威人士声称被称为政治正确的意识形态不宽容的普遍性被夸大了，但事实恰恰相反。政治正确已在西欧和美国高等教育中变得如此根深蒂固，以至于许多校园现在被不确定和担忧的氛围所主导。越来越多的专注学生和教师现在生活在恐惧之中，担心他们对真理的知识追求会冒犯政治正确的大审判官们。
+
+政治正确的技术现在已经众所周知：以"多元文化主义"的名义攻击课程，强加限制性和措辞模糊的"言论准则"，以及针对本科生的强制性"敏感性培训"课程，这些课程不过是系统性的意识形态灌输努力。但政治正确的影响已经以其他令人不安的方式蔓延开来。
+
+## 高等教育中政治正确的起源
+虽然政治正确的意识形态几乎不仅限于我们的校园，但它无疑起源于那里。这一现象的知识根源可以追溯到几个世纪之前。归根结底，政治正确的起源可以追溯到现代意识形态的兴起及其对权力的追求。与强调人需要理解道德秩序并使自己符合于它的古典传统和犹太-基督教传统相反，现代意识形态试图支配和控制世界。在二十世纪，这些意识形态在共产主义国家获得了政治权力。
+
+但在西方，意识形态未能对我们有序自由的传统发起如此直接的攻击。相反，激进知识分子试图从基础上破坏知识本身，将他们的努力集中在大学的转型上。
+> 从八十年代与九十年代，其实国内也很贴近了。
+
+学界的转折点出现在20世纪60年代，当时激进的学生对西方文化和文科传统发动了游击战。看到他们不能单靠示威获得持久权力，许多这些激进分子选择留在"体制内"，继续成为教授。这一代"文化马克思主义激进分子"现在已经成为我们绝大多数高等学府中的建制派。作为大学校长、院长和系主任，他们开始按照自己的形象雇用其他意识形态分子，并煽动我们称之为政治正确的压制性政策。这些政治化的学者将极难被从他们当前的权力位置上赶走。
+
+## 意识形态 vs. 自由教育
+这场思想战争的赌注很高，因为它们包括了自由本身的概念。西欧人和美国人一直理解自由教育与政治自由之间亲密而重要的联系。这就是为什么政治正确不亚于对准我们国家心脏的致命一击。
+
+在其开创性著作《大学的理念》中，红衣主教约翰·亨利·纽曼将"文科"定义为**为知识本身而追求知识**。作为对比，他将"奴役技艺"定义为那些只服务于特定直接目的的研究模式。纽曼论证说，文科是解放性的，因为它们使人能够发现引导我们走向智慧和美德的基本原则。
+
+如果纽曼今天还活着，他会将政治正确视为"奴役性的"，因为其目的是将政治议程推进到国家权力的位置。越来越多的激进教授正毫无羞耻地将他们的讲台变成说教坛，放弃对客观真理的探索，着手对学生的灌输任务。
+
+## 被摧毁的课程
+政治正确的支持者将他们的努力集中在自由教育的核心——课程上。他们的努力将彻底改变新一代西欧人和美国人将要学习的内容。在这场战斗中，政治正确的婢女一直是"多元文化"运动。许多批评者正确地指出，多元文化主义不仅仅是关注那些曾处于不利地位或受压迫群体的课程主张。相反，多元文化主义涉及课程的体系性重构，以阻碍学生学习西方传统。由于政治正确背后的隐秘动机是按平等主义路线重塑西欧和美国社会的尝试，因此其支持者必须向学生头脑中灌输彻底的文化相对主义。
+
+也许政治正确对课程攻击中最令人不安的方面是，它发生在我们许多精英大学中。以斯坦福大学为例，这所长期在美国高等教育中扮演领导角色的机构。斯坦福大学在1988年取消了其长期的西方文明要求，取而代之的是一个名为"文化、思想和价值观"的多元文化项目。在这个新项目下，斯坦福大学的新生可以同样容易地研究中美洲的马克思主义革命者，就像他们可以研究柏拉图、莎士比亚或牛顿一样。
+
+斯坦福大学还引领了远离严肃历史研究的运动。斯坦福大学的学生，与美国前50所大学中除一所之外的所有学生一样，不需要修读任何一门历史课。相反，他们被提供的是一系列"美国文化"标题下的课程选择。根据斯坦福大学一位最近的毕业生说，通过研究新教、爱尔兰裔美国人或美国西部来满足"美国文化"要求是不可能的，而确实满足要求的课程包括"电影与文学：美墨边境表征"和"当代族裔戏剧"。斯坦福大学的学生还必须修读"世界文化"和"性别研究"课程，其中包括"奇卡纳表达文化"和"文艺复兴时期的厌女症与女权主义"。
+
+由于像斯坦福这样的精英机构为美国及欧洲其他高等教育树立了榜样，其他大学热切地采纳这些毁灭性的攻击。
+
+> 译注： 非常抱歉这章合并了许多章节，我误以为是DeepSeek故意拆分的，没有料想到是Breivik写的这么碎。

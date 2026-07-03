@@ -1,50 +1,138 @@
-# About the compendium - 2083
+# 述略 — 2083
 
-> 原文页码: 3-4
+## About the compendium - 2083
 
-About the compendium - 2083
-“The men the European public admires most extravagantly are the most daring liars; the 
-men they detest most violently are those who try to tell them the truth.”
-You can see a movie presentation of the compendium by visiting the below links. It will 
-not be available for a long period so consider taking a backup copy of it:
-http://www.youtube.com/watch?v=vQOfH8Dj1mw
-http://www.veoh.com/watch/v21123164bZCBQeZ8
-After years of work the first edition of the compendium “2083 – A European Declaration 
-of Independence” is completed. If you have received this book, you are either one of my 
-former 7000 patriotic Facebook friends or you are the friend of one of my FB friends. If 
-you are concerned about the future of Western Europe you will definitely find the 
-information both interesting and highly relevant. 
-I have spent several years writing, researching and compiling the information and I have 
-spent most of my hard earned funds in this process (in excess of 300 000 Euros). I do 
-not want any compensation for it as it is a gift to you, as a fellow patriot. 
-Much of the information presented in this compendium (3 books) has been deliberately 
-kept away from the European peoples by our governments and the politically correct 
-mainstream media (MSM).  More than 90% of the EU and national parliamentarians and 
-more than 95% of journalists are supporters of European multiculturalism and therefore 
-supporters of the ongoing Islamic colonisation of Europe; yet, they DO NOT have the 
-permission of the European peoples to implement these doctrines. 
-The compendium, - “2083 – A European Declaration of Independence” - documents 
-through more than 1000 pages that the fear of Islamisation is all but irrational. 
-It covers the following main topics:
-1.
-The rise of cultural Marxism/multiculturalism in Western Europe
-2.
-Why the Islamic colonization and Islamisation of Western Europe began
-3.
-The current state of the Western European Resistance Movements (anti-Marxist/anti-Jihad 
-movements)
-4.
-Solutions for Western Europe and how we, the resistance, should move forward in the 
-coming decades
-5.
-+ Covering all, highly relevant topics including solutions and strategies for all of the 8 
-different political fronts
-The compendium/book presents advanced ideological, practical, tactical, organisational 
-and rhetorical solutions and strategies for all patriotic-minded individuals/movements. 
-The book will be of great interest to you whether you are a moderate or a more 
-dedicated cultural conservative/nationalist.
-Included are also demographical studies, historical statistics, forecasts and insights on 
-various subjects related to the ongoing and future struggle of Europe. It covers most 
-topics related to historical events and aspects of past and current Islamic Imperialism, 
-which is now removed or falsified by our academia by instruction of Western Europe’s 
+欧洲公众最狂热崇拜的人，正是那些最胆大妄为的说谎者；
+他们最为深恶痛绝的人，则是那些试图告诉他们真相的人。
+> 译注：原作者安德斯·贝林·布雷维克先生在此给出了YouTube的视频链接。
 
+
+经过多年的努力，《2083——一份欧洲独立宣言》纂要的第一版终于完成了。如果你收到了这本书，你要么是我以前七千名爱国的脸书好友之一，要么是认识这些人。如果你关心西欧的未来，你肯定会发现这些信息有趣又有用。
+
+我花费了数年时间撰写、研究和编纂这些信息，并在此过程中投入了大部分辛苦赚来的资金（超过三十万欧元）。我不求任何回报，因为这是我送给你——一位爱国同胞——的礼物。
+
+本纂要（共三册）中呈现的许多信息，一直被我们的政府和政治正确的所谓主流媒体（MSM）刻意隐瞒，不让欧洲人民知晓。超过90%的欧盟和国家议会议员，以及超过95%的记者，都是欧洲多元文化主义的支持者，因此也是正在进行的伊斯兰殖民欧洲的支持者；然而，他们并没有获得欧洲人民的授权来实施这些教条。
+
+本纂要——《2083——一份欧洲独立宣言》——以通过超过一千页的篇幅证明，对伊斯兰化的恐惧绝非毫无理性。
+> 译注：时至今日，在欧洲，绿教问题仍然是主要话题。
+
+它涵盖以下主要主题：
+
+1. 文化马克思主义/多元文化主义在西欧的兴起
+2. 为什么伊斯兰殖民和西欧伊斯兰化开始了
+3. 西欧抵抗运动（反马克思主义/反圣战运动）的现状
+4. 西欧的解决方案，以及抵抗力量在未来几十年应如何前进
+5. 涵盖所有高度相关的主题，包括所有八个不同政治战线的解决方案和策略
+     本纂要/书籍为所有具有爱国思想的个人/运动提供了先进的意识形态、实践、战术、组织和修辞解决方案与策略。无论你是一个温和派，还是一个更为坚定的文化保守主义者/民族主义者，本书都会让你受益匪浅。
+     
+     书中还包括**人口统计**研究、历史数据、预测，以及对与欧洲当前和未来斗争相关的各种主题的洞见。它涵盖了与历史上和当前的伊斯兰帝国主义事件和方面相关的大部分主题，这些内容如今已被我们的学术界按照西欧文化相对主义精英（文化相对主义=文化马克思主义）的指示删除或篡改。
+
+     
+> 2011年7月22日14时左右，本书籍被电子邮件发送到1003个邮件地址。
+> 
+> 2011年7月22日15时26分左右，位于挪威奥斯陆市中心的挪威政府办公大楼门前发生爆炸。
+>
+> 2011年7月22日17时21分，布雷维克已经扣下扳机。
+>
+> 2011年7月22日18时01分，布雷维克宣布投降并继续射击。
+> 
+> 2011年7月22日18时34分，布雷维克被逮捕。
+>
+
+
+文化相对主义精英（文化相对主义=文化马克思主义）它对伊斯兰教进行了深入分析，而大多数欧洲人对此一无所知。它记录了被称为多元文化主义/文化马克思主义/文化相对主义的政治教条是如何被创造和实施的。多元文化主义者/文化马克思主义者通常以人道主义为伪装行事。他们中大多数是反民族主义者，想要解构欧洲的身份认同、传统、文化，甚至民族国家。
+> 世界皆如此
+
+众所周知，欧洲问题的根源在于缺乏文化自信（民族主义）。大多数人仍然惧怕民族主义的政治教条，认为如果我们再次接受这些原则，新的"希特勒"就会突然出现并发动全球末日决战……不用说，西欧日益增长的民族主义者正在被当前的文化马克思主义/多元文化主义政治体制系统性地嘲笑、压制和迫害。这是一个自1945年开始并持续至今的过程。这种对民族主义教条的非理性恐惧，正在阻止我们阻止自己的民族/文化自杀，因为伊斯兰殖民正逐年加剧。本书为我们当前的问题提供了唯一的解决方案。
+
+如果不首先铲除通过多元文化主义/文化马克思主义表现出来的**政治教条**，你就无法击败伊斯兰化，也无法阻止或逆转西欧的伊斯兰殖民……
+
+本纂要大约一半的内容是我亲自撰写的。其余部分是对世界各地多位勇敢个体的作品的编纂。我原本计划添加一个高质量插图图片的数据库。然而，这样会使得文件（文档）过大，不利于有效传播。
+
+本纂要的内容真正属于每一个人，可以以任何方式或形式自由传播。事实上，我只请求你帮我一个忙：我请求你将这本书传给你认识的每一个人。请不要认为别人会去做这件事。恕我直言，那样是行不通的。如果我们西欧抵抗力量失败了，或者变得冷漠，那么西欧就会沦陷，你的自由和我们孩子的自由也会随之沦陷……至关重要的是，在未来的二十到七十年内我们的体系崩溃之前，至少要让每个人都了解真相。所以，我再次恳请你将这本书重新传播给你能找到的尽可能多的具有爱国思想的人。我百分之百确信，将这本纂要传播给大部分欧洲爱国者将有助于确保我们最终的胜利。因为在这三册书中，包含了赢得当前西欧文化战争所需的工具。
+
+如前所述，本纂要是世界各地多位勇勇士的作品纂要。我花了三年多的时间撰写和摘录了大部分内容。出于实际和安全原因，其他作者都没有被邀请参与这个项目，但他们中的大多数已经允许其材料可供传播。多数人的需求胜过少数人的需求。这就是我决定允许这本纂要的内容被自由重新传播和翻译的原因。请将其视为我送给所有欧洲人的个人礼物和贡献。出于这个原因，来源没有嵌入到文档中（以便更容易使用和传播各种文章）。然而，在使用这些材料时，**必须注明作者**。
+
+因此，这本纂要的知识产权属于整个欧洲世界的所有欧洲人，可以不受限制地传播和翻译。如果那些至少同意其中部分内容、原则或思想的人贡献于传播这些信息，有效的传播和流通将成为可能。如果你正在阅读这些文字，你就会知道很多人会有兴趣获取这本纂要（共三册）。让我们利用这种势头为我们服务，因为它肯定会有益于我们的斗争。我指望你将这本书或其部分/全部内容传播给尽可能多的爱国欧洲政治活动家。让他们知道正在发生什么，以及我们每一个人需要做什么。毕竟，我们不仅有权利抵抗当前的发展，我们作为欧洲人还有义务阻止我们身份认同、文化和传统以及我们民族国家的毁灭！请尽你所能将这本纂要传播给所有二十六个欧洲国家中尽可能多的具有爱国思想的欧洲人。这仅仅是开始……！
+
+通过在"第三册"中包含"法律免责声明"，所有人都可以在不违反任何欧洲法律的情况下传播内容。如果你仍有疑虑，在传播之前可以随意删除或修改某些章节的措辞。
+
+请帮忙通过各类种子网站、博客、网站、脸书、推特、论坛和其他渠道使这本书可得。它确实是一个独一无二的、独特的、伟大的工具，可供所有文化保守主义者在未来几十年中使用和应当使用。
+
+优先目标——将本书翻译成德语、法语和西班牙语。
+
+我强烈建议，特别是一位法国、德国和西班牙的爱国者承担责任，确保这本纂要被传播和/或翻译成你们各自的语言。应该将其传播到种子网站、网站、脸书群组和其他文化保守主义者/民族主义者/爱国者高度集中的政治团体。由于语言障碍，我一直未能有效地将本纂要传播给特别是讲法语、德语和西班牙语的人。因此，至关重要的是有人站出来承担责任，尽最大努力将其传播给尽可能多的人。如果你自己太忙、无法分身或无法帮助翻译，请务必联系你所在国家的众多文化保守主义/民族主义知识分子/作家/记者之一。联系那些你认识的、不惧怕在政治正确的边界之外运作的人。我们，欧洲的右翼抵抗运动，依赖于本纂要中这一重要信息的有效再传播。将这本书有效地传播给所有欧洲民族主义者，可能会对未来政权更迭产生重大贡献。因为在这本纂要中，包含了关于如何取代我们当前政权的确切工具和知识。我真的希望有人会接受这项非常重要的任务并做出贡献；因为如果你不这样做，没有人会这样做……
+
+从文档中提取信息或将Word文件转换为PDF文件 + 翻译服务
+
+将文档从Word文件转换为PDF文件或任何其他格式很容易，前提是你拥有Microsoft Word/Office软件（最好是Word 2007或更高版本）。如果你没有这个软件，你可以下载免费的"Word Viewer"，它允许你查看、打印和复制Word文档，即使你没有安装Word。只需在以下网站搜索关键词"Word Viewer"：http://www.microsoft.com/downloads 或使用以下直接下载链接：http://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=3657ce88-7cfa-457a-9aec-f4f827f20cac
+你也可以购买完整的Office套装，或从微软网站下载免费试用版：http://office.microsoft.com 或者，可以去以下种子网站之一免费下载：
+
+1. thepiratebay.org
+3. torrentreactor.net
+5. torrentz.com
+2. btscene.com
+4. extratorrent.com
+6. btmon.com
+
+你必须首先下载一个种子应用程序。最好的种子应用程序（uTorrent）可以从这里下载：www.utorrent.com 如果你希望使用Word 2007超过60天的试用期，你可能需要下载一个序列号来永久解锁软件，或至少将试用期延长6到12个月。
+
+我选择将纂要以Word文件形式发送，原因如下：
+
+1. MS Word是最常见和最流行的软件格式之一
+2. 与PDF相比，编辑文档要容易得多
+3. Word文件比PDF文件小得多（3.5 MB对比8-10 MB）
+4. 图片质量的保存效果比PDF好得多
+5. 传播：小于5 MB的文件更容易避免垃圾邮件过滤器
+
+既然我选择了以Word格式发送文档，你可以轻松地从Word文件中提取所有信息和图片。我特意没有锁定文档，正是因为这个原因。如果你想从Word中提取图片，你可以按以下步骤操作：
+
+- 只需打开MS Paint（标准Windows程序），从Word中复制图片并粘贴到Paint中。然后在Paint中将图片保存为jpg或任何其他格式。
+  如果需要，可以轻松地将文件转换为PDF文件或任何其他格式。只需将Word文件另存为PDF文件即可。至于从PDF文件中提取内容；包括较新版本的Adobe Acrobat在内的多种软件程序都允许转换和提取。只需在谷歌上搜索"PDF to Word converter"或下载以下免费转换软件：http://www.hellopdf.com/download.php
+  至于免费且强大的翻译服务；谷歌翻译服务提供了一个功能强大且相对准确的工具：http://translate.google.com
+
+- 使用Kindle/Nook/iPad显示
+  Kindle、Nook或iPad是一种非常适合阅读电子书和其他数字媒体的硬件平台（液晶显示屏）。在二手市场只需100到200美元。此外，还有其他手持设备如iPhone。你只需选择Word作为输入，Kindle/Nook/iPad/iPhone作为输出，然后传输文件即可。
+
+- 将Word文件转换为纸质书
+  当今成功的自助出版者利用按需印刷服务提供的优势，他们无需在印刷成本或库存和仓储费上浪费金钱。
+  "按需印刷"（POD）服务，有时也称为按需出版，是一种印刷技术和业务流程，其中新书副本只有在收到订单后才印刷。许多传统小出版社已经用POD设备取代了他们的传统印刷设备，或将印刷外包给POD供应商。
+  当客户订购书籍时，自助出版平台如Cafepress.com及其他平台（见列表）将按需印刷所需数量的书籍，并将这些书籍发货，同时从订购者处收取付款。这些自助出版服务接受上传的数字内容，如Word或PDF文件。然而，由于本书内容的争议性，进行初始安排的个人必须谨慎行事，可能需要在利用此类商业服务之前删减某些章节。
+  自助出版服务/按需印书服务：
+  > 略
+  
+---
+译注：
+冷存储的确是必要，而传播需要考虑门槛。
+
+至少在现在，GithubPages仍然是一个最简单而且可靠的传播方式。通过随手的Fork和冷存储的Clone，本译本也非常容易进行保存。
+
+对于显示需求而言，在本读者语境下，唯一的推荐是长期离线的设备，如果做不到，推荐非云上贵州的Apple设备或FOSS-OS的设备。
+
+---
+
+## 创建本书时所做出的牺牲
+
+我总共花了九年的时间在这个项目上。前五年用于研究和建立财务基础，后三年全职投入研究、纂要和写作。创建这部纂要的个人成本总计317,000欧元（从我个人口袋中支出130,000欧元，以及三年间收入损失187,500欧元）。然而，与本书分发相关——即实际营销行动——所做出的牺牲相比，这一切几乎微不足道；）
+
+传播真理和分发可靠战略的重要性绝不能被低估，因为这是我们当前抵抗努力的核心。我真诚希望你能花时间阅读它。这部作品的多个方面是真正独一无二的，今天不存在类似的著作。许多话题在今天可能看起来完全荒谬或过于激进，但几十年后，你将开始理解它与我们斗争的相关性。
+
+尽管如此，如果你觉得太哈人了，以至于你想删除它，我强烈建议你将其保存在一个U盘上，并将芯片放在一个安全的地方。因为很可能在某个时刻你会想要阅读它。毕竟，我们只能忽略现实的核心方面这么久。
+
+## 寄语
+我希望你喜欢本书。它目前提供了最全面的面向解决方案的主题数据库。如前所述，我只要求你一件事：将这本书分发给你的朋友，并请他们转发给"他们"的朋友，尤其是那些具有爱国心态的人。请帮助我们，也帮助你自己、你的家人和朋友，通过贡献于传播将确保我们胜利的工具；因为真相必须被知晓……阻止持续的伊斯兰化，以维护我们的身份、我们的文化和我们的国家主权，不仅是我们的权利，也是我们的义务。如果像我们这样的个人拒绝做出贡献，就不存在抵抗运动……
+
+如你可能所知，多元文化主义（文化马克思主义/政治正确）是欧洲持续伊斯兰化的根源，这已导致通过人口战争（由我们自己的领导人促成）对欧洲进行持续的伊斯兰殖民。这部著作呈现了解决方案，并确切解释了在未来几十年中对每个人所要求的是什么。每个人都可以并且应该以某种方式做出贡献；这只是一个意愿问题。
+
+时间至关重要。我们只有几十年时间来塑造足够水平的抵抗力量。确保将这部纂要成功分发给尽可能多的欧洲人，将极大地促进我们的成功。这可能是避免我们在自己的国家中遭受伊斯兰多数统治下现在和将来之齐米地位（奴役）的唯一途径。
+
+由于各种原因，我一直无法将这部纂要发送给许多人，所以我真诚地希望你们愿意做出贡献。
+
+应当指出，英语是我的第二语言，并且由于某些安全预防措施，我无法让专业人士对文件进行编辑和校对。不用说，在文学方面还有改进的潜力。因此，请将其视为"第一版草案"。现在责任落在你们身上，因为出于显而易见的原因，我将无法进一步发展它。
+
+任何及所有具备适当技能的个人都被鼓励通过改进和扩展所需之处，为这部纂要的第二版做出贡献。
+
+诚挚的爱国问候，
+安德鲁·贝里克，英国伦敦，2011年
+欧洲圣殿骑士团正义骑士指挥官，全国及泛欧爱国抵抗运动的几位领导人之一
+在来自英国、法国、德国、瑞典、奥地利、意大利、西班牙、芬兰、比利时、荷兰、丹麦、美国等国家的兄弟姐妹的协助下。

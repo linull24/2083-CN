@@ -1,107 +1,22 @@
-# Further Readings on the Frankfurt School
+# 关于法兰克福学派的进一步读物
+Further Readings on the Frankfurt School
 
-> 原文页码: 32-33
+这是自由国会基金会关于政治正确——或者用其真实名称来称呼，文化马克思主义——一书的第六章，也是最后一章。这是一篇简短的参考文献性文章，其目的不是作为学者的详尽资源，而是为想要更多地了解这一正在接管西欧和美国的意识形态的感兴趣的公民提供的指南。
 
-Further Readings on the Frankfurt School 
-This is the sixth and final chapter in the Free Congress Foundation’s book on Political 
-Correctness, or – to call it by its real name – cultural Marxism. It is a short 
-bibliographical essay intended not as an exhaustive resource for scholars but as a guide 
-for interested citisens who want to learn more about the ideology that is taking over 
-Western Europe and America. 
-To understand Political Correctness or so called cultural Marxism and the threat it poses it 
-is necessary to understand its history, particularly the history of the institution most 
-responsible for creating it, the Frankfurt School. The Frankfurt School, or the Institute for 
-Social Research as it was formally known, was established at Frankfurt University in 
-Germany in 1923. This fact alone is important, because it tells us that Political 
-Correctness is not merely a leftover of the European student rebellions of the 1960s and 
-1970s. 
-Another fact from that long-ago year, 1923, is equally significant: the intended name for 
-the Frankfurt School was the Institute for Marxism. The Institute’s father and funder, 
-Felix Weil, wrote in 1971 that he “wanted the Institute to become known, and perhaps 
-famous, due to its contributions to Marxism as a scientific discipline…” Beginning a 
-tradition Political Correctness still carries on, Weil and others decided that they could 
-operate more effectively if they concealed their Marxism; hence, on reflection, they chose 
-the neutral-sounding name, the Institute for Social Research (Institut für 
-Sozialforschung). But “Weil’s heartfelt wish was still to create a foundation similar to the 
-Marx-Engels Institute in Moscow – equipped with a staff of professors and students, with 
-libraries and archives – and one day to present it to a German Soviet Republic.” In 1933, 
-this disguised “Institute for Marxism” left Germany and reestablished itself in New York 
-City, where in time it shifted its focus to injecting its ideology into Western European and 
-American society. 
-The most readable English-language history of the Frankfurt School is Martin Jay’s book, 
-The Dialectical Imagination: A History of the Frankfurt School and the Institute for Social 
-Research, 1932 - 1950 (University of California Press, Berkeley, CA, 1973 – new edition 
-in 1996). This book is in print in paperback and can be ordered through any bookstore. 
-The reader should be aware that Jay’s book is, in the words of another work on the 
-Frankfurt School, a “semiofficial” history, which is to say that it is largely uncritical. Like 
-virtually all other English-language authors on the Institute, Jay is on the political left. 
-Nonetheless, the book provides a solid factual introduction to the Frankfurt School, and 
-the reader should have little trouble discerning in it the roots and origins of today’s 
-Political Correctness. 
-In his first chapter, “The Creation of the Institut für Sozialforschung and Its First 
-Frankfurt Years,” Jay lays bare the Institute’s Marxist origins and nature, and equally its 
-efforts to conceal both: “The original idea of calling it the Institut für Marxismus 
-(Institute for Marxism) was abandoned as too provocative, and a more Aesopian 
-alternative was sought (not for the last time in the Frankfurt School’s history).” Of the 
-Institute’s first director, Carl Grünberg, Jay writes, “Grünberg concluded his opening 
-address by clearly stating his personal allegiance to Marxism as a scientific methodology. 
-Just as liberalism, state socialism, and the historical school had institutional homes 
-elsewhere, so Marxism would be the ruling principle at the Institut.” Jay’s first chapter 
-also introduces the Institute’s critical shift that laid the basis for today’s Political 
-Correctness, a.k.a. cultural Marxism: “if it can be said that in early years of its history the 
-Institut concerned itself primarily with an analysis of bourgeois society’s socio-economic 
-substructure, in the years after 1930 its prime interest lay in its cultural superstructure.” 
-The second chapter, “The Genius of Critical Theory,” gets at the heart of the “Critical 
-Studies” departments that now serve as the fonts of Political Correctness on college 
-campuses. All of these are branches and descendants of the Critical Theory first 
-developed in the 1930s by the Frankfurt School. The term “Critical Theory” is itself 
-something of a play on words. One is tempted to ask, “OK, what is the theory?” The 
-answer is, “The theory is to criticise.” Jay writes, “Critical Theory, as its name implies, 
-was expressed through a series of critiques of other thinkers and philosophical 
-traditions…Only by confronting it in its own terms, as a gadly of other systems, can it be 
-fully understood.” The goal of Critical Theory was not truth, but praxis, or revolutionary 
-action: bringing the current society and culture down through unremitting, destructive 
-criticism. According to Jay, “The true object of Marxism, Horkheimer argued (Max 
-Horkheimer succeeded Carl Grünberg as director of the Institute in July, 1930), was not 
-the uncovering of immutable truths, but the fostering of social change.” 
-The central question facing the Institute in the early 1930s was how to apply Marxism to 
-the culture. The title of Jay’s third chapter gives the answer: “The Integration of 
-Psychoanalysis.” Here, Jay’s book falls down to some extent, in that it does not offer a 
-clear understanding of how the Institute integrated Marx and Freud. The answer appears 
-to be that Freud’s later critiques were made conditional on a capitalist, bourgeois order: a 
-revolutionary, post-capitalist society could “liberate” man from his Freudian repression. 
-Here again one sees key aspects of Political Correctness emerging, including a demand 
-for sexual “liberation” and the attack on “patriarchal” Western culture. 
-If the precise nature of the blending of Marx and Freud is left open by Jay, his next 
-chapter makes the blend’s application clear: “The Institute’s First Studies of Authority.” 
-The Institute left Germany for New York in 1933 because the Nazis came to power in 
-Germany. Not surprisingly, one of the Institute’s first tasks in New York was to oppose 
-Nazism. It did so largely by concocting a psychological “test” for an “authoritarian 
-personality.” Supposedly, people with this authoritarian personality were likely to support 
-Nazism. Both the concept and the methodology were doubtful at best. But the Institute’s 
-work laid down an important tool for the left, namely a notion that anyone on the right 
-was psychologically unbalanced. And it marked a key turning for the Institute in the birth 
-of Political Correctness in Western Europe and America, in that the empirical research the 
-studies demanded was done on Western Europeans and Americans. Ultimately, the result 
-was Institute member Theodor Adorno’s vastly influential book, The Authoritarian 
-Personality, published in 1950. 
-Jay’s fifth chapter, “The Institute’s Analysis of Nazism,” continues the theme of the 
-“authoritarian personality.” But his sixth, “Aesthetic Theory and the Critique of Mass 
-Culture,” provides an answer to the question of why most “serious” modern art and music 
-is so awful. It is intended to be. Theodor Adorno was the Institute’s lead figure on high 
-culture – he began life as a music critic and promoter of Schönberg – and his view was 
-that in the face of the “repressiveness” of bourgeois society, art could only be “true” if it 
-were alienating, reflecting the alienated society around it. Jay quotes Adorno: “A 
-successful work is not one which resolves objective contradictions in a spurious harmony, 
-but one which expresses the idea of harmony negatively by embodying the 
-contradictions, pure and uncompromised, in its innermost structure.” 
-Adorno despised the new mass culture – film, radio, and jazz – in what seems to be a 
-case of missed opportunity: today, the entertainment industry is the single most powerful 
-promoter of Political Correctness. Another key Frankfurt School figure, Walter Benjamin, 
-did see the potential: “he paradoxically held out hope for the progressive potential of 
-politicised, collectivised art.” At some point, someone – the question of who lies beyond 
-the boundaries of Jay’s book – put Benjamin’s perception together with the Frankfurt 
-School’s general view, which Jay summarises as “the Institut came to feel that the 
-culture industry enslaved men in far more subtle and effective ways than the crude 
-methods of domination practiced in earlier eras.” 
+要理解政治正确或所谓的文化马克思主义及其构成的威胁，就必须理解其历史，特别是对创造它负有最大责任的机构——法兰克福学派——的历史。法兰克福学派，或称社会研究所（其正式名称），于1923年在德国法兰克福大学成立。仅这一事实本身就很重要，因为它告诉我们政治正确不仅仅是1960年代和1970年代欧洲学生叛乱的残余产物。
 
+来自那个遥远年代1923年的另一个事实同样意义重大：法兰克福学派原本打算命名为马克思主义研究所。该研究所的创始人和资助者费利克斯·韦尔在1971年写道，他"希望研究所因其对马克思主义作为一门科学学科的贡献而闻名，甚至出名……"韦尔和其他人决定，如果他们隐藏自己的马克思主义，就可以更有效地运作，从而开启了一项政治正确至今仍在延续的传统；因此，经过深思熟虑，他们选择了听起来中性的名称——社会研究所（Institut für Sozialforschung）。但"韦尔内心深处的愿望仍然是创建一个类似于莫斯科马克思-恩格斯研究所的基金会——配备教授和学生，拥有图书馆和档案——并有一天将其献给一个德意志苏维埃共和国。"1933年，这个伪装的"马克思主义研究所"离开了德国，在纽约市重新建立起来，在那里，随着时间的推移，它将其重点转向了将其意识形态注入西欧和美国社会。
+
+关于法兰克福学派最可读的英文历史是马丁·杰伊的《辩证的想象：法兰克福学派和社会研究所的历史，1932-1950》（加州大学出版社，加州伯克利，1973年——1996年出新版）。这本书有平装本在售，可以通过任何书店订购。读者应当了解，用另一部关于法兰克福学派的著作的话来说，杰伊的书是一部"半官方"的历史，也就是说它在很大程度上是不加批判的。像几乎所有其他关于该研究所的英文作者一样，杰伊在政治上是左派。尽管如此，这本书为法兰克福学派提供了坚实的、事实性的介绍，读者应该不难在其中辨别出当今政治正确的根源和起源。
+
+在他的第一章"社会研究所的创建及其最初的法兰克福岁月"中，杰伊揭示了该研究所的马克思主义起源和性质，以及同样重要的是它掩盖两者的努力："最初将其命名为马克思主义研究所（Institut für Marxismus）的想法因过于挑衅而被放弃，转而寻求一个更具伊索寓言式色彩的替代名称（这在法兰克福学派的历史上并非最后一次）。"关于该研究所的第一任所长卡尔·格林贝格，杰伊写道："格林贝格在开幕词结束时明确表示了他个人对马克思主义作为科学方法论的忠诚。正如自由主义、国家社会主义和历史学派在其他地方拥有制度性的家园一样，马克思主义将成为该研究所的统治原则。"杰伊的第一章还介绍了该研究所的关键转变，这为今天的政治正确（即文化马克思主义）奠定了基础："如果说在该研究所历史的早期，它主要关注的是对资产阶级社会经济基础结构的分析，那么在1930年之后的岁月里，它的主要兴趣在于其文化上层建筑。"
+
+第二章"批判理论的天才"触及了如今在校园中充当政治正确源头的"批判研究"系科的核心。所有这些都是法兰克福学派在1930年代首次发展的批判理论的分支和后代。"批判理论"这个术语本身在某种程度上是一种文字游戏。人们不禁要问："好吧，这个理论是什么？"答案是："这个理论就是批判。"杰伊写道："批判理论，如其名称所示，是通过对其他思想家和哲学传统的一系列批判来表达的……只有以它自己的方式面对它，作为其他体系的牛虻，它才能被完全理解。"批判理论的目标不是真理，而是实践，即革命行动：通过不懈的、破坏性的批判来推翻当前的社会和文化。据杰伊所述，"霍克海默（马克斯·霍克海默于1930年7月接替卡尔·格林贝格担任研究所所长）认为，马克思主义的真正目标不是揭示永恒不变的真理，而是促进社会变革。"
+
+1930年代初期该研究所面临的核心问题是如何将马克思主义应用于文化。杰伊第三章的标题给出了答案："精神分析的整合"。在这里，杰伊的书在某种程度上有所不足，因为它没有清楚地说明该研究所如何整合了马克思和弗洛伊德。答案似乎是弗洛伊德后来的批判是以资本主义的资产阶级秩序为条件的：一个革命的、后资本主义的社会可以将人从他的弗洛伊德式压抑中"解放"出来。在这里，人们再次看到政治正确的关键方面正在出现，包括对性"解放"的要求和对"父权制"西方文化的攻击。
+
+如果马克思和弗洛伊德融合的确切性质被杰伊留下悬而未决，那么他的下一章则清楚地说明了这种融合的应用："研究所对权威的首次研究"。该研究所于1933年离开德国前往纽约，因为纳粹在德国上台执政。毫不奇怪，该研究所在纽约的首要任务之一就是反对纳粹主义。它在很大程度上是通过编造一种针对"权威主义人格"的心理"测试"来做到这一点的。据称，具有这种权威主义人格的人很可能支持纳粹主义。这个概念和方法论往好里说是可疑的。但该研究所的工作为左派奠定了一个重要的工具，即任何右派人士都有心理不平衡的概念。而且这标志着该研究所在政治正确在西欧和美国诞生过程中的一个关键转折点，因为研究所要求进行的实证研究是在西欧人和美国人身上完成的。最终的结果是研究所成员西奥多·阿多诺于1950年出版的影响巨大的著作《权威主义人格》。
+
+杰伊的第五章"研究所对纳粹主义的分析"延续了"权威主义人格"的主题。但他的第六章"审美理论与大众文化批判"回答了一个问题：为什么大多数"严肃"的现代艺术和音乐如此糟糕。它是故意的。西奥多·阿多诺是该研究所在高雅文化方面的领军人物——他最初以音乐评论家和勋伯格的推广者起家——他的观点是，面对资产阶级社会的"压迫性"，艺术只有在让人疏离的情况下才能是"真实的"，反映其周围异化的社会。杰伊引用阿多诺的话说："一部成功的作品不是用一种虚假的和谐来解决客观矛盾的，而是通过在其最深层的结构中体现那些纯粹的、毫不妥协的矛盾，从而以否定的方式表达和谐的理念。"
+
+阿多诺鄙视新的大众文化——电影、广播和爵士乐——这似乎是一个错失的机会：今天，娱乐业是政治正确最强大的推动者。法兰克福学派的另一位关键人物瓦尔特·本雅明确实看到了潜力："他矛盾地对政治化的、集体化的艺术的进步潜力抱有希望。"在某个时刻，有人——是谁的问题超出了杰伊书的范围——将本雅明的洞察力与法兰克福学派的总体观点结合起来，杰伊将这种观点总结为"该研究所逐渐感到，文化产业以远比早期时代所实行的粗鄙统治方法更为微妙和有效的方式奴役着人们。"

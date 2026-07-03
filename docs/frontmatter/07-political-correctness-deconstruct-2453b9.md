@@ -1,55 +1,19 @@
-# Political Correctness: Deconstruction and Literature
+# 政治正确：解构与文学
+Political Correctness: Deconstruction and Literature
 
-> 原文页码: 27-27
+文学，如果不是最重要的文化指标，至少也是一个社会文明程度的重要基准。我们的天性与环境结合形成了每个个体的心灵，而心灵又通过文字表达出来。文学，作为社会集体推崇为典范的文字，因此是一个起点——一扇窥视文化的窗口。
 
-Political Correctness: Deconstruction and Literature 
-Literature is, if not the most important cultural indicator, at least a significant benchmark 
-of a society’s level of civilisation. Our nature and environment combine to form each 
-individual mind, which in turn expresses itself in words. Literature, as the words society 
-collectively holds up as exemplary, is then a starting point of sorts – a window into the 
-culture. 
-Today’s literary field is therefore worth examining for the insights it provides into our 
-current cultural milieu. The contemporary Western European and American literary field is 
-awash in “isms:” Marxism, Freudianism, feminism, and so on. Most of these are the 
-academic cousins of what is called in the common culture “Political Correctness.” Literary 
-theorists take their particular brand of criticism and apply it to literature in an effort to 
-find self-affirmation in a “discovered” meaning of the text. For a feminist critic, for 
-example, no longer does Andrew Marvel’s “Upon Appleton House” have the beauty of the 
-grounds as its theme; it speaks instead of the evils of a patriarchal line of inheritance. 
-These “cultural critics,” so named because they critique literature based on the point of 
-view of a particular culture, arose in the 1960s, but their schools of criticism only truly 
-began to pick up steam with the arrival of the school of deconstruction in the 1970s. 
-The works of the father of deconstruction, Jacques Derrida, began to be translated from 
-the French by American professor Gayatri Spivak in the mid-1970s, a time when the U.S. 
-literary scene was ripe for its influence. The economic Marxists were alive and well on 
-Western European and American campuses, and the cultural critics were still being fed by 
-the radicalism of the times. Feminists had gained a foothold in the earlier decade, but 
-they had in their meagre arsenals only a vague feeling of repression. What they lacked 
-was philosophical backing – the courage prompted by having their own logos. The arrival 
-of deconstruction from France provided that philosophy. 
-At that time, that generation of academics was doing what all academics do, telling the 
-previous generation that it had it all wrong. In this case the rebellion was against the 
-New Critics – so-called even now, decades after their prime. The New Critics specialised 
-in finding the meaning of texts without regard to background information such as 
-authorial intent, a process that had “the text is everything” as its guiding principle. 
-The new generation of critics set out to turn that principle on its head. Instead of “the 
-text is everything,” the new generation claimed that “everything is text” and turned to 
-analysing anything and everything in relation to the literary work. If a poet wrote a poem 
-that included a female character, the critics would look into the poet’s relationship with 
-his mother, his wife, his sister and so on in an effort to offer up an interpretation of the 
-work. This could have (and often did have) the positive effect of using biographic 
-information to gain new understanding of the work; however, these new interpretations 
-were not attempts to discern the true meaning of the work (as the New Critics had done) 
-or even to discover the author’s intended meaning (as traditional readings attempted). 
-This new generation of critics instead became prime practitioners of what is known in 
-literary circles as “cultural criticism.” They strained to view literature from the “woman’s 
-point of view” or the “victims” or the “radical minority point of view.” Their attempts were 
-not to find meaning – they were influenced too greatly by relativists for that – but to find 
-sexism, racism or “homophobia” in the works of male, European or heterosexual authors. 
-Derridean deconstruction became a tool for these cultural critics. Simply stated, 
-deconstruction is a school of thought that posits that words have no meaning. Instead, 
-words have “traces” of meaning. The meaning of a word is continually disappearing, 
-leaving us with only the memory, or trace, of what that meaning once was. 
-Once they realised the power of this school of thought, the cultural critics embraced it 
-readily, for here they discovered a method of attack on the traditional interpretations of 
+因此，今天的文学领域值得审视，因为它提供了对我们当前文化环境的洞察。当代西欧和美国的文学领域充斥着各种"主义"：马克思主义、弗洛伊德主义、女性主义等等。这些大多是通俗文化中所谓"政治正确"的学术表亲。文学理论家将自己特定品牌的批评应用于文学，试图在文本"发现"的意义中寻找自我肯定。例如，对于一个女性主义批评家来说，安德鲁·马维尔的《阿普尔顿庄园颂》不再以庄园之美为主题；相反，它述说的是父系继承制度的罪恶。
+> 可以关注教材与试卷的题材。
 
+这些"文化批评家"——之所以如此命名，是因为他们基于特定文化的观点来批评文学——兴起于1960年代，但他们的批评学派直到1970年代解构学派的到来才真正开始获得势头。
+
+解构之父雅克·德里达的著作在1970年代中期开始由美国教授佳亚特里·斯皮瓦克从法文翻译过来，当时美国的文学界正处于接受其影响的成熟时机。经济马克思主义者在西欧和美国的校园中依然活跃，文化批评家仍被当时的激进主义所滋养。女性主义者在更早的十年中已经获得了立足点，但她们微薄的武器库中只有一种模糊的压迫感。她们所缺乏的是哲学支撑——拥有自己的理性逻各斯所带来的勇气。解构主义从法国的到来提供了那种哲学。
+
+在那时，那一代学者正在做所有学者都会做的事情：告诉上一代他们全都错了。在这种情况下，反叛的对象是新批评派——即使在他们的鼎盛期过了几十年后仍被如此称呼。新批评派专门在不考虑作者意图等背景信息的情况下寻找文本的意义，这是一个以"文本就是一切"为指导原则的过程。
+
+新一代批评家着手将这一原则彻底颠覆。不是"文本就是一切"，新一代声称"一切都是文本"，并转而分析与文学作品相关的任何和所有事物。如果一位诗人写了一首包含女性角色的诗，批评家们会调查诗人与母亲、妻子、姐妹等的关系，试图提供对作品的解读。这本来可以（而且往往确实有）利用传记信息获得对作品新理解的积极效果；然而，这些新解读并非试图辨别作品的真正意义（如新批评派所做的那样），甚至也不是发现作者的本意（如传统阅读所尝试的）。这一代新批评家反而成为文学界所谓"文化批评"的主要实践者。他们竭力从"女性视角"或"受害者"或"激进少数群体视角"来看待文学。他们的尝试不是要找到意义——他们受到相对主义者的影响太深而无法做到这一点——而是要在男性和欧洲或异性恋作者的作品中发现性别歧视、种族主义或"恐同症"。
+
+德里达式的解构成为这些文化批评家的工具。简单地说，解构是一种思想学派，它假定词语没有意义。相反，词语有意义之"痕迹"。一个词的意义不断消失，只留给我们关于那个意义曾经是什么的记忆，或者说痕迹。
+
+一旦文化批评家们意识到这一思想学派的力量，他们便欣然接受了它，因为在这里他们发现了一种攻击文学作品传统解读的方法。**他们用解构来移除传统意义，然后用新的意义取而代之**。那种意义就是今天侵扰我们社会的政治正确。

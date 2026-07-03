@@ -1,5 +1,5 @@
 site_name: 2083-CN
-site_description: 2083 — 欧洲独立宣言 中文译本
+site_description: 2083 – A European Declaration of Independence 中文译本
 repo_url: https://github.com/linull24/2083-CN
 theme:
   name: material
@@ -20,17 +20,14 @@ markdown_extensions:
 nav:
   - "首页": index.md
   - "前言":
-    - "About the compendium - 2083": 前言/00-about-the-compendium---2083.md
-    - "Distribution of the book": 前言/01-distribution-of-the-book.md
-    - "A message from the author/creator of the compendium": 前言/02-a-message-from-the-authorcreator--cd5f53.md
-    - "Introduction - What is “Political Correctness”?": 前言/03-introduction---what-is-political--ce74ac.md
-    - "How it all began - Political Correctness is Cultural Marxism": 前言/04-how-it-all-began---political-corr-1a6b8b.md
-    - "Cultural Marxist profiles": 前言/05-cultural-marxist-profiles.md
-    - "The Movement for Academic Reform": 前言/06-the-movement-for-academic-reform.md
-    - "Political Correctness: Deconstruction and Literature": 前言/07-political-correctness-deconstruct-2453b9.md
-    - "Radical Feminism and Political Correctness": 前言/08-radical-feminism-and-political-co-bce941.md
-    - "Further Readings on the Frankfurt School": 前言/09-further-readings-on-the-frankfurt-school.md
-    - "Additional works on the Frankfurt School": 前言/10-additional-works-on-the-frankfurt-school.md
+    - "述略": frontmatter/00-about-the-compendium---2083.md
+    - "引言——什么是\"政治正确\"": frontmatter/03-introduction---what-is-political--ce74ac.md
+    - "这一切是怎样开始的——政治正确就是文化马克思主义": frontmatter/04-how-it-all-began---political-corr-1a6b8b.md
+    - "学术改革运动": frontmatter/06-the-movement-for-academic-reform.md
+    - "政治正确：解构与文学": frontmatter/07-political-correctness-deconstruct-2453b9.md
+    - " 激进女性主义与政治正确": frontmatter/08-radical-feminism-and-political-co-bce941.md
+    - "关于法兰克福学派的进一步读物": frontmatter/09-further-readings-on-the-frankfurt-school.md
+    - "关于法兰克福学派的其他著作": frontmatter/10-additional-works-on-the-frankfurt-school.md
   - "第一册：你需要知道的":
     - "1.1 Historical revisionism (negationism)": book1/g01-1-what-you-need-to-c4b1b5/1.1-historical-revisionism-negationism.md
     - "1.2 General characteristics of European Islamic Negationism": book1/g01-1-what-you-need-to-c4b1b5/1.2-general-characteristics-of-europe-3210d1.md

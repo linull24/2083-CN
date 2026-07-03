@@ -1,40 +1,17 @@
-# Introduction - What is “Political Correctness”?
+# 什么是"政治正确"？
 
-> 原文页码: 11-11
+引言章节解释了"文化"马克思主义如何逐步渗透到我们二战后的社会中。理解它的起源对于理解我们当前的问题是至关重要的。该章节是专门为美国撰写的，但同样适用于西欧。
 
-Introduction to the compendium - “2083” -
-The introductory chapter explains how “cultural” Marxism gradually infiltrated our post-
-WW2 societies. It is essential to understand how it started in order to comprehend our 
-current issues. The chapter was written for the US specifically but applies to Western 
-Europe as well.  
-Introduction - What is “Political Correctness”?
-One of conservatism’s most important insights is that all ideologies are wrong. Ideology 
-takes an intellectual system, a product of one or more philosophers, and says, “This 
-system must be true.” Inevitably, reality ends up contradicting the system, usually on a 
-growing number of points. But the ideology, by its nature, cannot adjust to reality; to do 
-so would be to abandon the system.
-Therefore, reality must be suppressed. If the ideology has power, it uses its power to 
-undertake this suppression. It forbids writing or speaking certain facts. Its goal is to 
-prevent not only expression of thoughts that contradict what “must be true,” but thinking 
-such thoughts. In the end, the result is inevitably the concentration camp, the gulag and 
-the grave.
-But what happens today to Europeans who suggest that there are differences among 
-ethnic groups, or that the traditional social roles of men and women reflect their different 
-natures, or that homosexuality is morally wrong? If they are public figures, they must 
-grovel in the dirt in endless, canting apologies. If they are university students, they face 
-star chamber courts and possible expulsion. If they are employees of private 
-corporations, they may face loss of their jobs. What was their crime? Contradicting the 
-new EUSSR ideology of “Political Correctness.”
-But what exactly is “Political Correctness?” Marxists have used the term for at least 80 
-years, as a broad synonym for “the General Line of the Party.” It could be said that 
-Political Correctness is the General Line of the Establishment in Western European 
-countries today; certainly, no one who dares contradict it can be a member of that 
-Establishment. But that still does not tell us what it really is.
-We must seek to answer that question. The only way any ideology can be understood, is 
-by looking at its historical origins, its method of analysis and several key components, 
-including its place in higher education and its ties with the Feminist movement. 
-If we expect to prevail and restore our countries to full freedom of thought and 
-expression, we need to know our enemy. We need to understand what Political 
-Correctness really is. As you will soon see, if we can expose the true origins and nature 
-of Political Correctness, we will have taken a giant step toward its overthrow.
+引言——什么是"政治正确"？
 
+保守主义最重要的洞见之一就是所有意识形态都是错误的。意识形态将一个智识体系——一个或多个哲学家的产物——拿来，然后说"这个体系必定是真的"。不可避免地，现实最终会与该体系相矛盾，通常是在越来越多的方面。但意识形态，由于其本性，无法适应现实；这样做就意味着放弃该体系。
+
+因此，现实必须被压制。如果意识形态掌握了权力，它就会利用其权力来实施这种压制。它禁止书写或谈论某些事实。它的目标不仅是阻止表达那些与"必须为真"的东西相矛盾的思想，而且是阻止人们思考这样的思想。最终，其结果不可避免地是集中营、古拉格和坟墓。
+
+但是，今天那些暗示各族群之间存在差异、或男女的传统社会角色反映了他们不同的本性、或同性恋在道德上是错误的欧洲人，会面临什么？如果他们是公众人物，他们必须在无尽的虚伪道歉中伏地求饶。如果他们是大学生，他们将面临刑事法庭审判和可能的开除。如果他们是私营公司的雇员，他们可能面临失业。他们的罪行是什么？与新的EUSSR"政治正确"意识形态相矛盾。
+
+但"政治正确"究竟是什么呢？马克思主义者使用这个词至少已有80年，作为"Party的总路线"的广义同义词。可以说，政治正确是当今西欧国家建制派的总路线；当然，任何敢于与之相矛盾的人都不能成为该建制派的成员。但这仍然没有告诉我们它到底是什么。
+
+我们必须寻求回答这个问题。理解任何意识形态的唯一方式，是审视其历史起源、其分析方法以及几个关键组成部分，包括其在高等教育中的地位及其与女权主义运动的联系。
+
+如果我们期望获胜并将我们的国家恢复到完全的思想和言论自由状态，我们就需要了解我们的敌人。我们需要理解政治正确到底是什么。你很快就会看到，如果我们能够揭露政治正确的真正起源和本质，我们就已经朝着推翻它迈出了一大步。

@@ -1,192 +1,64 @@
-# Radical Feminism and Political Correctness
+# 激进女性主义与政治正确
+Radical Feminism and Political Correctness
 
-> 原文页码: 28-31
+文学作品。他们用解构来移除传统意义，然后用新的意义取而代之。那种意义就是今天侵扰我们社会的政治正确。例如，在《我如何爱你？》的传统意义通过上述过程被颠覆之后，一位女性主义批评家可能会站出来，在缺乏稳定传统解读的情况下宣称：这首诗"实际上"关注的是19世纪英格兰的女性如何被训练得将自己视为男性的附属品。
 
-literary works. They used deconstruction to remove traditional meaning and replaced it 
-with new meaning. That meaning was the Political Correctness that infests our society 
-today. For example, after the traditional meaning of “How Do I Love Thee?” has been 
-destabilised in the process described above, a feminist critic might come along and - in 
-the absence of a stable traditional interpretation – declare that the poem is “really” 
-concerned with how women in nineteenth-century England were conditioned to see 
-themselves as secondary to men. 
-The intelligentsia had forgotten its literature in its haste to promote its politics. 
-Unfortunately, that has not stopped the cultural critics from indoctrinating this new 
-generation in feminist interpretation, Marxist philosophy and so-called “queer theory.” 
-Requirements for reading Shakespeare, Milton, Chaucer, and other dead white males are 
-disappearing, to be replaced by options to take studies in “The Roles of Women in the 
-Renaissance” (an excuse to lament the sexism of the past) or “The Bible as Literature” (a 
-course designed to denigrate the Bible as cleverly crafted fiction instead of God’s truth). 
-The reliable saviour of the intelligentsia is the common man and his common sense. 
-Common sense dictates that words do mean things, and as deconstruction posits 
-otherwise it will be relegated to the margins of society. Sadly, its effects will linger on – it 
-has given a sense of validity to cultural criticism and established a marketplace for its 
-ideas. 
-Radical Feminism and Political Correctness 
-Perhaps no aspect of Political Correctness is more prominent in Western European life 
-today than feminist ideology. Is feminism, like the rest of Political Correctness, based on 
-the cultural Marxism imported from Germany in the 1930s? While feminism’s history in 
-Western Europe certainly extends longer than sixty years, its flowering in recent decades 
-has been interwoven with the unfolding social revolution carried forward by cultural 
-Marxists. 
-Where do we see radical feminism ascendant? It is on television, where nearly every 
-major offering has a female “power figure” and the plots and characters emphasise 
-inferiority of the male and superiority of the female. It is in the military, where expanding 
-opportunity for women, even in combat positions, has been accompanied by double 
-standards and then lowered standards, as well as by a decline in enlistment of young 
-men, while “warriors” in the services are leaving in droves. It is in government-mandated 
-employment preferences and practices that benefit women and use “sexual harassment” 
-charges to keep men in line. It is in colleges where women’s gender studies proliferate 
-and “affirmative action” is applied in admissions and employment. It is in other 
-employment, public and private, where in addition to affirmative action, “sensitivity 
-training” is given unprecedented time and attention. It is in public schools, where “self 
-awareness” and “self-esteem” are increasingly promoted while academic learning 
-declines. And sadly, we see that several European countries allow and fund free 
-distribution of contraceptive pills combined with liberal abortion policies.  
-While the radical feminist movement is embraced by present day Political Correctness 
-ideology, derived from cultural Marxism, feminism as such does have earlier roots. 
-Feminism was conceived and birthed in the 1830s, in the generation experiencing the 
-first stage of the industrial revolution. Women, who for centuries had shared the 
-challenges of surviving in an agrarian life, were becoming part of a middle-class gentry 
-with more time and energy to spend writing newspaper articles and novels for their 
-“sisters.” The initial stages of the feminisation of European culture had started. 
-These feminists, radical in their time, supported women’s rights, egalitarianism, anti-
-colonialism, pacifism and other causes which we now observe in popular culture. In 
-contrast to today’s radical feminists, social feminists of the 1890s and early 20th century 
-were of a less totalitarian character. They stood for women’s suffrage but also advocated 
-the strengthening of the family. 
-Today, the feminisation of European culture, moving rapidly since the 1960s continues to 
-intensify. Indeed, the present-day radical feminist assault through support for mass 
-Muslim immigration has a political parallel to the their anti-colonial efforts. This current 
-assault is in part a continuation of a century-old effort to destroy traditional European 
-structures, the very foundation of European culture. 
-There is no doubt in the media that the “man of today” is expected to be a touchy-feely 
-subspecies who bows to the radical feminist agenda. He is a staple of Hollywood, the 
-television network sitcoms and movies, and the political pundits of talk shows. The 
-feminisation is becoming so noticeable that newspapers and magazines are picking up on 
-it. For example, the Washington Times and National Review magazine combined to tell us 
-that “behind the breezy celebration of ‘guy stuff’ in today’s men’s magazine lurks a crisis 
-of confidence. What does it mean to be masculine in the 90s?” It is revealed that today’s 
-men’s magazines (Esquire, GQ, Men’s Health, Men’s Fitness, Men’s Journal, Details, 
-Maxim, Men’s Perspective)”are all geared to a new feminised man….” Some examples? 
-The old masculine attitude toward personal appearance is disappearing. If memory 
-serves, our fathers’ acts of personal upkeep were mostly limited to shaving and putting 
-on a tie. According to Lowry: 
-It’s hard to imagine [them] interested in articles on ‘A Flat Belly for the Beach’ (Verge), or 
-the three new men’s fragrances for the fall season (GQ), or even ‘The New Fall Suit’ 
-(Esquire). But somewhere along the line men became less concerned with being strong and 
-silent, and more worried about making themselves pretty. 
-Indeed the feminisation of European culture is nearly completed. And the last bastion of 
-male domination, the police force and the military, is under assault. 
-If this “feminisation” trend were driven only by radical feminists seeking to pull down a 
-perceived male-dominated hierarchy, there would be more hope that the cycles of history 
-would move Europe toward a stable accommodation between men and women. But the 
-drive is deeper, and it will not be satisfied by any accommodation. The radical feminists 
-have embraced and been embraced by the wider and deeper movement of cultural 
-Marxism. For dedicated Marxists, the strategy is to attack at every point where an 
-apparent disparity leaves a potential constituency of “oppressed” victim groups – 
-Muslims, women etc. Cultural Marxists, men and women, are making the most of it, and 
-the theory developed by the Frankfurt School provides the ideology. 
-The Frankfurt School theorised that the authoritarian personality is a product of the 
-patriarchal family. This idea is in turn directly connected to Engels’s The Origins of the 
-Family, Private Property and the State, which promotes matriarchy. Furthermore, it was 
-Karl Marx who wrote in The Communist Manifesto about the radical notion of a 
-“community of women.” He also, in 1845, wrote disparagingly in his The German 
-Ideology of the idea that the family was the basic unit of society. 
-The concept of the “authoritarian personality” is not just to be interpreted as a model for 
-the conduct of warfare against prejudice as such. It is a handbook for psychological 
-warfare against the European male, to render him unwilling to defend traditional beliefs 
-and values. In other words, the aim was to emasculate him. Undoubtedly the Institute for 
-Social Research at Frankfurt University meant this, as it used the term “psychological 
-techniques for changing personality.” 
-The “authoritarian personality,” studied in the 1940s and 1950s by Western Europeans 
-and American followers of the Frankfurt School, prepared the way for such psychological 
-warfare against the male gender role. The aim was promoted by Herbert Marcuse and 
-others under the guise of “women’s liberation” and in the New Left movement in the 
-1960s. Evidence that psychological techniques for changing personality are intended to 
-focus in particular on the emasculation of the European male has also been provided by 
-Abraham Maslow, founder of “third force humanist psychology” and promoter of 
-psychotherapeutic techniques in public school classrooms. He wrote that “the next step in 
-personal evolution is a transcendence of both masculinity and femininity to general 
-humanness.” 
-Cultural Marxist stalwarts apparently know exactly what they want to do and how they 
-plan to do it. They have actually already succeeded in accomplishing much of their 
-agenda. 
-How did this situation come about in European universities? Gertrude Himmelfarb has 
-observed that it slipped past traditional academics almost unobserved until it was too 
-late. It occurred so “quietly” that when they “looked up”, postmodernism was upon them 
-with a vengeance. “They were surrounded by such a tidal wave of multicultural subjects 
-such as radical feminism, deconstructed relativism as history and other courses” which 
-undermine the perpetuation of Western civilisation. Indeed, this tidal wave slipped by just 
-as Antonio Gramsci and the Frankfurt School had envisioned – a quiet revolution 
-propagating a European hate ideology with the goal of destroying Western civilisation and 
-which was: anti-God, anti-Christian, anti-family, anti-nationalist, anti-patriot, anti 
-conservative, anti-hereditarian, anti-ethnocentric, anti-masculine, anti-tradition, and 
-anti-morality. 
-“Cultural Marxism,” as preached by the Frankfurt School has thus spurred the widely 
-popular and destructive concepts of “affirmative action,” “multiculturalism” and 
-“diversity.” One can’t escape these terms today. These concepts have destroyed every 
-defensive structure of European society which has laid the foundation for the Islamisation 
-of Europe. 
-Conclusions
-Critical Theory as applied mass psychology has led to the deconstruction of gender in the 
-European culture. Following Critical Theory, the distinction between masculinity and 
-femininity will disappear. The traditional roles of the mothers and fathers are to be 
-dissolved so that patriarchy will be ended. Children are not to be raised according to their 
-biological genders and gender roles according to their biological differences. This reflects 
-the Frankfurt School rationale for the disintegration of the traditional family. 
-Thus, one of the basic tenets of Critical Theory was the necessity to break down the 
-traditional family. The Frankfurt School scholars preached: 
-Even a partial breakdown of parental authority in the family might tend to increase the 
-readiness of a coming generation to accept social change. 
-The transformation of European culture envisioned by the cultural Marxists goes further 
-than pursuing gender equality. Embodied in their agenda is “matriarchal theory,” under 
-which they purpose to transform European culture to be female-dominated. This is a 
-direct throwback to Wilhelm Reich, a Frankfurt School member who considered 
-matriarchal theory in psychoanalytic terms. In 1933, he wrote in “The Mass Psychology of 
-Fascism” that matriarchy was the only genuine family type of “natural society.” 
-Richard Bernstein has written in his book on multiculturalism, “the Marxist revolutionary 
-process for the past several decades in Europe and America has centered on race and sex 
-warfare rather than class warfare” as in earlier times. This reflects a scheme more total 
-than economics to restructure the society. As the social revolutionaries readily proclaim, 
-their purpose is to destroy the hegemony of white males. To accomplish this, all barriers 
-to the introduction of more women and minorities throughout the “power structure” are 
-to be brought down by all means available. Laws and lawsuits, intimidation, and 
-demonising of white males as racists and sexists are pursued through the mass media 
-and the universities. The psycho–dynamic of the revolutionary process aims for psychic 
-disempowerment – decapitation – of those who oppose. 
-The US’s founders recognised three primal values in the Declaration of Independence, 
-and they ranked them properly: Life, liberty, and the pursuit of happiness. 
-If the order of these fundamental human rights is switched – with happiness before 
-liberty or liberty before life – we come to moral chaos and social anarchy. 
-This very condition is what Judge Robert Bork describes as “modern liberalism.” He 
-defines its characteristics as “‘radical egalitarianism’ (equality of outcomes rather than of 
-opportunities) and ‘radical individualism’ (the drastic reduction of limits to personal 
-gratification).” 
-Judge Bork also identifies radical feminism as “the most destructive and fanatical” 
-element of this modern liberalism. He further describes radical feminism as “totalitarian 
-in spirit.” 
-Most Western Europeans and Americans do 
-not realise that they, through their 
-institutions, are being led by social 
-revolutionaries who think in terms of the 
-continuing destruction of the existing social 
-order in order to create a new one. The 
-revolutionaries are New Age Elite Boomers. 
-They now control the public institutions in 
-Western Europe and the United States. Their 
-“quiet” revolution, beginning with the counter-
-culture revolution of their youth, is nearing completion. A key, or even a dominant 
-element because purportedly it represents that largest political and social constituency 
-among their potential followers, is feminism. The Marxist movement in its “quiet” cultural 
-latter-day phase is seemingly sweeping all before it. With its sway over the media, fully 
-in the grip of feminism, it is hard to discern the stirrings of a counter-culture. The current 
-cultural Marxist/multiculturalist elites, the New Totalitarians, are the most dangerous 
-generation in Western history. Not only have they managed to destroy fundamental 
-structures of European society. They are allowing millions of Muslims to colonise Europe. 
-In just five decades Muslim populations have increased from a few thousand to more 
-than 25 million.
-Who will rise to challenge Political Correctness? The fate of European civilisation depends 
-on European men steadfastly resisting Politically Correct feminism. Even more, they must 
-resourcefully oppose the wider grip of Political Correctness, the cultural Marxism for 
-which radical feminism is only one avenue of attack.
+知识分子们急于推销自己的政治，忘记了自己的文学。不幸的是，这并没有阻止文化批评家用女性主义解读、马克思主义哲学和所谓的"酷儿理论"来向这一代人进行灌输。阅读莎士比亚、弥尔顿、乔叟和其他已故白人男性作品的要求正在消失，取而代之的是可以选择修读"文艺复兴时期女性角色"（为哀叹过去的性别歧视提供借口）或"作为文学的圣经"（一门旨在将《圣经》贬低为巧妙虚构作品而非上帝真理的课程）。
 
+知识分子值得信赖的拯救者是普通人和他的常识。常识告诉我们词语确实有意义，而由于解构主义假定并非如此，它将被放逐到社会的边缘。可悲的是，它的影响将久久不散——它赋予了文化批评一种有效性的感觉，并为其思想建立了市场。
+
+## 激进女性主义与政治正确
+
+也许在当今西欧生活中，政治正确的任何一个方面都不如女性主义意识形态那样突出。女性主义，像政治正确的其余部分一样，是否也基于1930年代从德国引进的文化马克思主义？虽然女性主义在西欧的历史肯定延伸超过六十年，但它在近几十年中的蓬勃发展一直与文化马克思主义者推动的社会革命交织在一起。
+
+我们在哪里看到激进女性主义的崛起？在电视上，几乎每个主要节目都有一个女性"权力人物"，情节和角色强调男性的低劣和女性的优越。在军队中，扩大女性的机会，甚至包括战斗岗位，伴随而来的是双重标准，然后是降低的标准，以及年轻男性入伍人数的下降，而军中的"战士"们正在大批离开。在政府强制的就业优惠和做法中，这些使女性受益，并用"性骚扰"指控来管束男性。在大学里，女性性别研究激增，"平权行动"被用于招生和就业。在其他公共和私营就业中，除了平权行动之外，"敏感性培训"获得了前所未有的时间和关注。在公立学校中，"自我意识"和"自尊"日益受到推崇，而学业学习却在下降。可悲的是，我们看到一些欧洲国家允许并资助免费分发避孕药片，同时实行自由堕胎政策。
+
+虽然激进女性主义运动被当今源自文化马克思主义的政治正确意识形态所拥护，但女性主义本身确实有更早的根源。女性主义孕育并诞生于1830年代，那一代人正经历着工业革命的第一阶段。几个世纪以来一直分担农业生活生存挑战的女性，正成为中产阶级士绅的一部分，有更多的时间和精力为她们的"姐妹们"撰写报纸文章和小说。欧洲文化女性化的初始阶段已经开始。
+
+这些在当时属于激进的女性主义者支持女性权利、平等主义、反殖民主义、和平主义以及其他我们现在在流行文化中观察到的事业。与今天的激进女性主义者相比，1890年代和20世纪初的社会女性主义者具有较少极权主义的特征。她们支持妇女选举权，但也倡导加强家庭。
+
+如今，自1960年代以来迅速推进的欧洲文化女性化继续加剧。事实上，今天激进女性主义者通过支持大规模穆斯林移民发起的攻击，在政治上与她们的反殖民努力有着相似之处。这场当前的攻击部分是一个世纪以来摧毁传统欧洲结构——欧洲文化之根基——的努力的延续。
+
+媒体中毫无疑问，今天的"男人"被期望成为一个感情用事、服从激进女性主义议程的亚种。他是好莱坞、电视网络情景喜剧和电影以及谈话节目中政治评论员的固定角色。女性化变得如此明显，以至于报纸和杂志都在关注它。例如，《华盛顿时报》和《国家评论》杂志共同告诉我们："在今天男性杂志对'男性事物'的轻松庆祝背后，潜伏着一场信心危机。在90年代，男性气质意味着什么？"据揭示，今天的男性杂志（《时尚先生》、《GQ》、《男性健康》、《男性健身》、《男性期刊》、《Details》、《Maxim》、《男性视角》）"全部面向一种新的女性化男性……"。有哪些例子？旧的男性对待个人外表的态度正在消失。如果记忆没错的话，我们父辈的个人打理基本上仅限于刮胡子和打领带。据洛瑞所说：
+
+"很难想象（他们）会对《海滩上的平坦腹部》（《Verge》）或秋季的三款新男士香水（《GQ》），甚至《新款秋季西装》（《时尚先生》）等文章感兴趣。但在某个时候，**男性变得不那么关心坚强和沉默，而更担心让自己变得漂亮**。"
+
+确实，欧洲文化的女性化几近完成。而男性统治的最后堡垒——警察力量和军队——正在受到攻击。
+
+如果这种"女性化"趋势仅仅由那些寻求推翻被认为的男性主导等级制度的激进女性主义者推动，那么历史的循环将欧洲推向男女之间稳定适应的希望会更大。但这种驱动力更深层，它不会被任何适应所满足。激进女性主义者已经拥抱并被更广泛、更深层的文化马克思主义运动所拥抱。对于专注的马克思主义者来说，策略是在每一个明显的差异可能留下"被压迫"受害者群体——穆斯林、女性等——的潜在支持者群体的地方发动攻击。文化马克思主义者，无论男女，都在充分利用这一点，而法兰克福学派发展的理论提供了意识形态。
+
+法兰克福学派的理论认为，权威主义人格是父权制家庭的产物。这一思想反过来直接与恩格斯的《家庭、私有制与国家的起源》相关联，该书推崇母权制。此外，正是卡尔·马克思在《共产党宣言》中写到了"妇女共有"这一激进概念。他还在1845年的《德意志意识形态》中轻蔑地写到家庭是社会基本单位这一观念。
+
+"权威主义人格"的概念不应仅仅被解读为对偏见进行战争的实施模式。它是一本针对欧洲男性的心理战手册，旨在使他不愿捍卫传统信念和价值观。换句话说，目标是阉割他。毫无疑问，法兰克福大学社会研究所正是此意，因为它使用了"改变人格的心理技术"这一术语。
+
+法兰克福学派的西欧和美国追随者在1940年代和1950年代研究的"权威主义人格"，为针对男性性别角色的这种心理战铺平了道路。这一目标由赫伯特·马尔库塞等人在"女性解放"的名义下以及1960年代的新左派运动中得到推进。亚伯拉罕·马斯洛——"第三势力人本主义心理学"的创始人以及公立学校课堂中心理治疗技术的推广者——也提供了证据，表明改变人格的心理技术旨在特别关注欧洲男性的阉割。他写道："个人进化的下一步是超越男性气质和女性气质，走向普遍人性。"
+
+文化马克思主义的中坚分子显然确切地知道他们想要做什么以及他们计划如何做。他们实际上已经成功地完成了他们议程的很大一部分。
+
+这种情况是如何在欧洲大学中发生的？格特鲁德·希梅尔法布观察到，它在几乎未被注意的情况下溜过了传统学者，直到为时已晚。它发生得如此"悄无声息"，以至于当他们"抬起头"时，后现代主义已经猛烈地降临到他们身上。"他们被一波多元文化学科的浪潮所包围，如激进女性主义、解构相对主义作为历史以及其他课程"，这些课程破坏了对西方文明的传承。确实，这一浪潮正如安东尼奥·葛兰西和法兰克福学派所设想的那样悄悄溜过——一场传播欧洲仇恨意识形态的静悄悄的革命，其目标是摧毁西方文明，它是：反上帝、反基督教、反家庭、反民族主义、反爱国主义者、反保守主义、反遗传论、反种族中心主义、反男性气质、反传统、反道德。
+
+法兰克福学派所宣扬的"文化马克思主义"因此催生了广泛流行且具有破坏性的"平权行动"、"多元文化主义"和"多样性"概念。如今人们无法逃避这些术语。这些概念已经摧毁了欧洲社会每一个防御性结构，而这些结构为欧洲的伊斯兰化奠定了基础。
+
+## **结论**
+
+批判理论作为应用大众心理学，导致了欧洲文化中性别角色的解构。按照批判理论，男性气质和女性气质之间的区别将消失。母亲和父亲的传统角色将被消解，以使父权制终结。儿童不再根据他们的生物性别和基于生物差异的性别角色来养育。这反映了法兰克福学派瓦解传统家庭的理据。
+
+因此，批判理论的基本原则之一就是有必要打破传统家庭。法兰克福学派的学者们宣扬：
+
+"即使是家庭中父母权威的部分崩溃，也可能倾向于增加未来一代接受社会变革的意愿。"
+
+文化马克思主义者所设想的欧洲文化转型超越了追求性别平等。他们的议程中体现的是"母权制理论"，根据这一理论，他们意图将欧洲文化转变为女性主导。这直接回溯到法兰克福学派成员威廉·赖希，他以精神分析的术语思考了母权制理论。1933年，他在《法西斯主义的大众心理学》中写道，母权制是"自然社会"唯一真正的家庭类型。
+
+理查德·伯恩斯坦在他关于多元文化主义的书中写道："过去几十年来欧洲和美国的马克思主义革命进程集中在种族和性别战争上，而非像早期那样集中在阶级斗争上。"这反映了一种比经济学更全面的社会重组方案。正如社会革命者所公开宣称的，他们的目的是摧毁白人男性的霸权。为了实现这一目标，必须通过一切可用手段拆除所有将更多女性和少数族裔引入"权力结构"的障碍。通过大众媒体和大学，利用法律和诉讼、恐吓以及将白人男性妖魔化为种族主义者和性别歧视者来进行。革命过程的心理动力旨在对那些反对者进行**心理去权**——斩首。
+
+美国的建国者在《独立宣言》中确认了三种首要价值，并正确地对其进行了排序：生命、自由和追求幸福。
+
+如果这些基本人权的顺序被调换——幸福摆在自由之前，或自由摆在生命之前——我们就会陷入道德混乱和社会无政府状态。
+
+罗伯特·博克法官将这种情况描述为"现代自由主义"。他将其特征定义为"'激进平等主义'（结果的平等而非机会的平等）和'激进个人主义'（对个人满足的限制大幅减少）。"
+
+博克法官还指出激进女性主义是这种现代自由主义中"最具破坏性和最狂热"的成分。他进一步将激进女性主义描述为"在精神上是极权主义的"。
+
+大多数西欧人和美国人没有意识到，他们正通过自己的机构，被那些以持续摧毁现有社会秩序以便创造新秩序来思考的社会革命者所领导。这些革命者是新时代精英婴儿潮一代。他们现在控制着西欧和美国的公共机构。他们从青年时代的反文化革命开始的"静悄悄"的革命已接近完成。其关键甚至主导性的元素是女性主义，因为它据称代表了其潜在追随者中最大的政治和社会群体。马克思主义运动在其"静悄悄"的文化后期阶段，似乎正在势不可挡地席卷一切。凭借它对媒体——完全处于女性主义的掌控中——的支配力，很难分辨出反文化的任何萌芽。当前的文化马克思主义/多元文化主义精英，即新极权主义者，是西方历史上最危险的一代。他们不仅设法摧毁了欧洲社会的基本结构，还正在允许数百万穆斯林殖民欧洲。在仅仅五十年内，穆斯林人口从几千人增加到超过2500万。
+
+谁将奋起挑战政治正确？欧洲文明的命运取决于欧洲男性坚定不移地抵制政治正确的女性主义。更重要的是，他们必须足智多谋地反对政治正确——即文化马克思主义——的更广泛的掌控，激进女性主义只是其中的一条攻击途径。

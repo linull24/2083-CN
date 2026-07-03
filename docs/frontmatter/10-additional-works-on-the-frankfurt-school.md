@@ -1,179 +1,59 @@
-# Additional works on the Frankfurt School
+# 关于法兰克福学派的其他著作
 
-> 原文页码: 34-37
+在该书的其余部分中，杰伊追溯了该研究所在1940年代某种实证性的工作，这些工作遭受到与他们早期调查研究同样的问题，并跟随着该研究所在二战后返回德国法兰克福。但到了这一点，读者已经了解了全貌。他将看到马克思主义如何从经济术语转化为文化术语；辨别出构成当今政治正确的性解放、女性主义、"受害者"等主题；并在批判理论中发现了"PC"所源源不断发出的关于"种族主义、性别歧视和恐同症"的无尽哀嚎的起源。有一个关键的历史片段缺失了："对马尔库塞在1960年代将法兰克福学派的工作有影响力地传播给新一代西欧和美国听众的分析，"正如杰伊在其后记中所说的那样。此外，杰伊奇怪地只用最简略的讨论略过了该研究所以霍克海默和阿多诺为代表在战争期间有效迁往洛杉矶的情况。他们在那里建立的关系是否在将法兰克福学派的哲学注入西欧和美国的电影以及战后电视方面发挥了任何作用？杰伊没有触及这个主题。
 
-In the remainder of the book, Jay traces the (sort of) empirical work of the Institute in 
-the 1940s, which was beset by the same problems as their earlier survey “research,” and 
-follows the Institute in its return to Frankfurt, Germany after World War II. But by this 
-point, the reader will already have the picture. He will have seen how Marxism was 
-translated from economic into cultural terms; discerned the themes of sexual liberation, 
-feminism, “victims” and so on that make up today’s Political Correctness; and found in 
-Critical Theory the origins of the endless wailing about “racism, sexism and homophobia” 
-that “PC” pours forth. One key piece of history is missing: “an analysis of Marcuse’s 
-influential transmission of the Frankfurt School’s work to a new Western European and 
-American audience in the 1960s,” as Jay puts it in his epilogue. Also, Jay curiously passes 
-over with only the most minimal discussion the effective move of the Institute, in the 
-persons of Horkheimer and Adorno, to Los Angeles during the war. Did the connections 
-they built there play any role in injecting the Frankfurt School’s philosophy into Western 
-European and American film and, after the war, television? Jay does not touch upon the 
-subject. 
-But for the reader new to the Frankfurt School as the source of today’s Political 
-Correctness, Jay’s The Dialectical Imagination offers a solid base. The book concludes 
-with an extensive (though not annotated) bibliography of works by and about the 
-Frankfurt School. 
-As to other accessible works about the Frankfurt School, the definitive modern work in 
-German has recently been translated into English: The Frankfurt School: Its History, 
-Theories and Political Significance by Rolf Wiggershaus, (translated by Michael Robertson, 
-The MIT Press, Cambridge, MA, first paperback edition 1995). This covers much of the 
-same ground as Martin Jay’s book, although it also follows the Institute from its post-war 
-return to Germany up to Adorno’s death in 1969. Wiggershaus is more detailed than Jay, 
-and, although he too is on the left politically, he is more critical than Jay. In the book’s 
-Afterword, Wiggershaus offers a brief look (and a hostile one) at some German 
-conservative critiques of the Frankfurt School. A picture emerges that will seem familiar 
-to Western Europeans and Americans entrapped in the coils of Political Correctness: 
-Since the publication in 1970 of his book The Poverty of Critical Theory, Rohrmoser has 
-promulgated, in constantly varying forms, the view that Marcuse, Adorno, and 
-Horkheimer were the terrorists’ intellectual foster-parents, who were using Cultural 
-Revolution to destroy the traditions of the Christian West. Academics such as Ernst 
-Topitsch and Kurt Sontheimer, who saw themselves as educators and liberal democrats, 
-followed in Rohrmoser’s footsteps. In 1972 Topitsch, a critical rationalist who was 
-Professor of Philosophy in Graz, had stated that behind the slogans of “rational 
-discussion” and “dialogue free of domination” there was being established at the 
-universities “a distinct terrorism of political convictions such as never existed before, 
-even under Nazi tyranny.” 
-Additional works on the Frankfurt School 
-• The Frankfurt School by T.B. Bottomore (Tavistock, London, 1984). Another history 
-written by a sympathiser; you are better off with Jay or Wiggershaus. 
-• “The New Dark Age: The Frankfurt School and ‘Political Correctness’” by Michael 
-Minnicino, in Fidelio, Vol. 1, No. 1, Winter 1992 (KMW Publishing, Washington, DC) One 
-of the few looks at the Frankfurt School by someone not a sympathiser, this long journal 
-article explains the role of the Institute for Social Research in creating the ideology we 
-now know as “Political Correctness.” Unfortunately, its value is reduced by some 
-digressions that lack credibility. 
-• Angela Davis: An Autobiography by Angela Davis (Random House, New York 1974) 
-Angela Davis, a leading American black radical and Communist Party member, was 
-described by Frankfurt School member Herbert Marcuse as “my best student.” She also 
-studied in Frankfurt under Adorno. This book shows the link between the Institute for 
-Social Research and the New Left of the 1960s through the eyes of a key participant. 
-• The Young Lukacs and the Origins of Western Marxism by Andrew Arato (Seabury 
-Press, New York, 1979). The author is, as usual, a sympathiser, but this work shows the 
-key role Lukacs played in the thinking of the Frankfurt School and, later, the New Left. 
-• The Origin of Negative Dialectics: Theodor W. Adorno, Walter Benjamin and the 
-Frankfurt Institute by Susan Buck-Morss (Free Press, New York, 1977). An important 
-book on the relationship of the Frankfurt School and Critical Theory to the New Left. 
-• Introduction to Critical Theory: Horkheimer to Habermas by David Held (University of 
-California Press, Berkeley, 1980). Yet another history by a fan of the Frankfurt School, 
-but valuable for its discussion of the impact of Nietzsche on key Frankfurt School figures. 
-• Adorno: A Political Biography by Lorenz Jager (translated by Stewart Spencer, Yale 
-University Press, New Haven, 2004) This recent study of Theodor Adorno, the Frankfurt 
-School’s most important “creative spirit,” offers a highly readable introduction to the 
-origins of Political Correctness, perhaps the best available to the layman. Lorenz Jager is 
-an editor of the Frankfurter Allgemeine, one of Germany’s most influential newspapers. 
-He is no uncritical admirer of the Frankfurt School, and thus offers a balanced treatment 
-of Adorno instead of the usual hagiography. 
-Beyond these secondary works lies the vast literature produced by members of the 
-Frankfurt School itself. Some key works were written in English, and many of those 
-written in German are available in translation. As is usually the case with Marxist works, 
-the prose style and vocabulary are often so convoluted as to make them almost 
-unreadable. Further, the refusal of the Frankfurt School to make its own future vision 
-plain led many of its members to write in aphorisms, which adds yet another layer of 
-impenetrableness. 
-One work, however, is of such importance that it must be recommended despite its 
-difficulty: Eros and Civilisation by Herbert Marcuse (Beacon Press, Boston, first paperback 
-edition in 1974 and still in print). Subtitled A Philosophical Inquiry into Freud, this book 
-holds center stage for two reasons. First, it completes the task of integrating Marx and 
-Freud. While the Marxism is sotto voce, the whole framework of the book is in fact 
-Marxist, and it is through the framework that Freud is considered. Second, Eros and 
-Civilisation and its author were the key means of transmission by which the intellectual 
-work of the Frankfurt School was injected into the student rebellion of the 1960s. This 
-book became the bible of the young radicals who took over Western European and 
-America’s college campuses from 1965 onward, and who are still there as faculty 
-members. 
-In brief, Eros and Civilisation urges total rebellion against traditional Western culture – 
-the “Great Refusal” – and promises a Candyland utopia of free sex and no work to those 
-who join the revolution. About two-thirds of the way through the book, Marcuse offers 
-this summary of its arguments: 
-Our definition of the specific historical character of the established reality principle led to 
-a re-examination of what Freud considered to be universal validity. We questioned this 
-validity in view of the historical possibility of the abolition of the repressive controls 
-imposed by civilisation. The very achievements of this civilisation seemed to make the 
-performance principle obsolete, to make the repressive utilisation of the instincts archaic. 
-But the idea of a non-repressive civilisation on the basis of the achievements of the 
-performance principle encountered the argument that instinctual liberation (and 
-consequently total liberation) would explode civilisation itself, since the latter is sustained 
-only through renunciation and work (labour) – in other words, through the repressive 
-utilisation of instinctual energy. Freed from these constraints, man would exist without 
-work and without order; he would fall back into nature, which would destroy culture. To 
-meet this argument, we recalled certain archetypes of imagination which, in contrast to 
-the culture-heroes of repressive productivity, symbolised creative receptivity. These 
-archetypes envisioned the fulfilment of man and nature, not through domination and 
-exploitation, but through release of inherent libidinal forces. We then set ourselves the 
-task of “verifying” these symbols – that is to say, demonstrating their truth value as 
-symbols of a reality beyond the performance principle. We thought that the 
-representative content of the Orphic and Narcissistic images was the erotic reconciliation 
-(union) of man and nature in the aesthetic attitude, where order is beauty and work is 
-play. 
-Marcuse continues after this summary to lay out the erotic content of the “reality beyond 
-the performance principle,” i.e., a new civilisation where work and productivity were 
-unimportant. “The basic experience in this (aesthetic) dimension is sensuous rather than 
-conceptual,” that is, feelings are more important than logic: “The discipline of aesthetics 
-installs the order of sensuousness as against the order of reason.” 
-“In German, sensuousness and sensuality are still rendered by one and the same term: 
-Sinnlichkeit. It connotes instinctual (especially sexual) gratification… No longer used as a 
-full-time instrument of labour, the body would be re-sexualised… (which) would first 
-manifest itself in a reactivation of all erotogenic zones and, consequently, in a resurgence 
-of pre-genital polymorphous sexuality and in a decline of genital supremacy. The body in 
-its entirety would become an object of cathexis, a thing to be enjoyed – an instrument of 
-pleasure. This change in the value and scope of libidinal relations would lead to a 
-disintegration of the institutions in which the private interpersonal relations have been 
-organised, particularly the monogamic and patriarchal family.” 
-This in a book which Marcuse dedicated to Sophie Marcuse, his wife of fifty years! 
-It is easy to see how this message – “If it feels good, do it” – published in 1955 
-resonated with the student rebels of the 1960s. Marcuse understood what most of the 
-rest of his Frankfurt School colleagues did not: the way to destroy Western civilisation – 
-the objective set forth by George Lukacs in 1919 – was not through abstruse theory, but 
-through sex, drugs, and rock ‘n’ roll. Marcuse wrote other works for the new generation 
-that spawned the New Left – One Dimensional Man (1964), Critique of Pure Tolerance 
-(1965), An Essay on Liberation (1969), Counterrevolution and Revolt (1972). But Eros 
-and Civilisation was and remains the key work, the one that put the match to the tinder. 
-Other central works by members of the Frankfurt School include: 
-• The Authoritarian Personality by Theodor Adorno (Harper, New York, 1950). This book is 
-the basis for everything that followed that portrayed conservatism as a psychological 
-defect. It had enormous impact, not least on education theory. 
-• Dialectic of Enlightenment by Theodor Adorno and Max Horkheimer (trans. By John 
-Cumming, Verso, London, 1979). A complex philosophical work written during World War 
-II largely in response to Nazism (and extensively devoted to discussions of anti-
-Semitism), this work seeks to find a kernel of “liberating” reason in the ruins of the 
-Enlightenment. 
-• Minima Moralia: Reflections from a Damaged Life by Theodor Adorno (trans. E.F.N. 
-Jophcott, New Left Books, London, 1974). A book of aphorisms, almost entirely 
-incomprehensible, but the effective conclusion of Adorno’s work. 
-• Escape from Freedom by Erich Fromm (Farrar & Rinehart, New York, 1941, still in print 
-in paperback) Fromm was the Institute’s “happy face,” and this book was often required 
-reading at colleges in the 1960s. The thesis is that man’s nature causes him to throw his 
-freedom away and embrace fascism unless he “masters society and subordinates the 
-economic machine to the purposes of human happiness,” i.e., adopts socialism. At this 
-point Fromm was in the process of breaking away from the Institute and his subsequent 
-works cannot be considered as part of the Frankfurt School corpus. 
-• Eclipse of Reason (Oxford University Press, New York, 1947). Essentially a sequel to 
-Dialectic of Enlightenment, the book is heavily the work of Adorno and other Frankfurt 
-School personages, although only Horkheimer’s name appeared on it. Its contents are 
-based on a series of lectures Horkheimer gave at Columbia University in 1944. The prose 
-style is surprisingly readable, but the contents are odd; there is throughout a strong 
-nostalgia, which was normally anathema to the Frankfurt School. The key chapter, “The 
-Revolt of Nature,” reflects a strange Retro anarchism: “The victory of civilisation is too 
-complete to be true. Therefore, adjustment in our times involves an element of 
-resentment and suppressed fury.” 
-• Critical Theory: Selected Essays by Max Horkheimer (trans. Matthew O’Connell, 
-Seabury Press, New York, 1972). The essay, “Traditional and Critical Theory” is especially 
-important. 
-This small bibliography will be enough to get an interested reader started; the full 
-literature on and by the Frankfurt School is immense, as the bibliographies in Jay’s and 
-Wiggershaus’s books attest. What has been missing from it, at least in English, is a 
-readable book, written for the layman, that explains the Frankfurt School and its works in 
-terms of the creation of Political Correctness. This short volume is at least a start in filling 
-that gap. 
-Source:
+但对于初次了解作为当今政治正确之源的法兰克福学派的读者来说，杰伊的《辩证的想象》提供了坚实的基础。该书以一个详尽的（尽管未加注释的）法兰克福学派著作及关于该学派的著作的参考文献作为结尾。
+
+至于其他关于法兰克福学派的可获取著作，一部权威的德文现代著作最近已被翻译成英文：《法兰克福学派：其历史、理论与政治意义》，罗尔夫·维格斯豪斯著（由迈克尔·罗伯逊翻译，麻省理工学院出版社，马萨诸塞州剑桥，第一版平装本1995年）。这本书涵盖了许多与马丁·杰伊的书相同的内容，尽管它也追述了该研究所从战后返回德国到1969年阿多诺去世的历史。维格斯豪斯比杰伊更详细，虽然他在政治上也是左派，但他比杰伊更具批判性。在该书的后记中，维格斯豪斯对德国一些保守派对法兰克福学派的批判进行了简短的（且敌意的）审视。一幅对被政治正确之桎梏所困的西欧人和美国人来说似乎很熟悉的画面浮现出来：
+
+"自1970年他的《批判理论的贫困》一书出版以来，罗尔莫泽以不断变化的形式宣扬了这样一种观点：马尔库塞、阿多诺和霍克海默是恐怖分子的思想养父，他们正在利用文化革命来摧毁基督教西方的传统。像恩斯特·托皮奇和库尔特·松特海默这样视自己为教育者和自由民主党派的学者，追随了罗尔莫泽的脚步。1972年，作为格拉茨哲学教授的批判理性主义者托皮奇曾指出，在'理性讨论'和'不受支配的对话'等口号背后，大学里正在建立起'一种前所未有的政治信念恐怖主义，即使在纳粹暴政下也未曾存在过'。"
+
+- 《法兰克福学派》，T.B. 巴托莫尔著（塔维斯托克出版社，伦敦，1984年）。另一部由同情者撰写的历史；你读杰伊或维格斯豪斯更好。
+
+- "新黑暗时代：法兰克福学派与'政治正确'"，迈克尔·米尼奇诺著，载于《费德里奥》，第1卷第1期，1992年冬季（KMW出版社，华盛顿特区）。这是少数几篇由非同情者撰写的对法兰克福学派的审视之一，这篇长篇期刊文章解释了社会研究所在创造我们现在称为"政治正确"的意识形态中所扮演的角色。不幸的是，其价值因一些缺乏可信度的离题论述而降低。
+
+- 《安吉拉·戴维斯：自传》，安吉拉·戴维斯著（兰登书屋，纽约，1974年）。安吉拉·戴维斯，一位美国黑人激进分子和共产党员领袖，被法兰克福学派成员赫伯特·马尔库塞描述为"我最好的学生"。她还在法兰克福师从阿多诺学习。这本书通过一位关键参与者的眼睛展示了社会研究所与1960年代新左派之间的联系。
+
+- 《青年卢卡奇与西方马克思主义的起源》，安德鲁·阿拉托著（西伯里出版社，纽约，1979年）。作者照例是一位同情者，但这部著作展示了卢卡奇在法兰克福学派以及后来的新左派思想中所扮演的关键角色。
+
+- 《否定辩证法的起源：西奥多·W·阿多诺、瓦尔特·本雅明与法兰克福研究所》，苏珊·巴克-莫尔斯著（自由出版社，纽约，1977年）。一本关于法兰克福学派和批判理论与新左派关系的重要著作。
+
+- 《批判理论导论：从霍克海默到哈贝马斯》，戴维·赫尔德著（加州大学出版社，伯克利，1980年）。又是一部由法兰克福学派粉丝撰写的历史，但其对尼采对法兰克福学派关键人物影响的讨论很有价值。
+
+- 《阿多诺：一部政治传记》，洛伦茨·耶格著（斯图尔特·斯宾塞翻译，耶鲁大学出版社，纽黑文，2004年）。这部近期对法兰克福学派最重要的"创造精神"西奥多·阿多诺的研究，为政治正确的起源提供了一个高度可读的介绍，也许是可供普通读者使用的最好的介绍。洛伦茨·耶格是德国最有影响力的报纸之一《法兰克福汇报》的编辑。他不是法兰克福学派的不加批判的崇拜者，因此对阿多诺提供了平衡的论述，而非通常的圣徒传记。
+
+除了这些二手著作之外，还有法兰克福学派成员自己创作的浩瀚文献。一些关键著作是用英文写的，许多用德文写的著作都有译本。与马克思主义著作通常的情况一样，其散文风格和词汇往往如此晦涩以至于几乎无法阅读。此外，法兰克福学派拒绝清楚地表明其自身的未来愿景，导致其许多成员以格言警句的方式写作，这又增加了另一层不可穿透性。
+
+然而，有一部著作尽管艰涩却如此重要，以至于必须推荐：《爱欲与文明》，赫伯特·马尔库塞著（灯塔出版社，波士顿，第一版平装本1974年，仍在印刷中）。该书的副标题为"对弗洛伊德的哲学探究"，它之所以占据中心地位有两个原因。首先，它完成了整合马克思和弗洛伊德的任务。虽然马克思主义是低声暗示的（sotto voce），但该书的整个框架实际上是马克思主义的，弗洛伊德正是通过这一框架来被审视的。其次，《爱欲与文明》及其作者是法兰克福学派的思想工作被注入1960年代学生叛乱的关键传播途径。这本书成为1965年以后接管西欧和美国大学校园的年轻激进分子的圣经，而这些人如今仍在校园里担任教职。
+
+简而言之，《爱欲与文明》敦促对传统西方文化进行全面反叛——"大拒绝"——并向加入革命的人承诺一个自由性爱和无需工作的糖果乐园乌托邦。在该书大约三分之二处，马尔库塞对其论点进行了这样的总结：
+
+"我们对既定的现实原则的特定历史性质的界定，导致了对弗洛伊德认为具有普遍有效性的内容的重新审视。鉴于消除由文明所强加的压抑性控制的历史可能性，我们质疑了这种有效性。正是这种文明的成就似乎使绩效原则变得过时，使对本能进行压抑性利用变得陈旧过时。但是，在绩效原则所取得的成就基础上建立一个非压抑性文明的想法，遇到了以下论点：本能解放（以及由此带来的全面解放）会炸毁文明本身，因为后者只有通过放弃和工作（劳动）——换句话说，通过对本能能量的压抑性利用——才能得以维持。摆脱了这些约束，人将无需工作也没有秩序地存在；他将退回到自然中，这将摧毁文化。为了回应这一论点，我们回顾了某些想象的原始型（archetypes），它们与压抑性生产力的文化英雄形成对比，象征着创造性的接受性。这些原始型设想人与自然的实现不是通过统治和剥削，而是通过释放内在的力比多力量。然后，我们给自己设定了'验证'这些象征的任务——也就是说，展示它们作为超越绩效原则的现实的象征的真理价值。我们认为，俄耳甫斯和那喀索斯意象的代表性内容是人与自然的爱欲和解（结合），处于审美态度中，在那里秩序是美，工作则是游戏。"
+
+马尔库塞在此总结之后继续阐述"超越绩效原则的现实"的爱欲内容，即一个工作和生产力都不重要的新文明。"在这个（审美）维度中的基本体验是感性的而非概念性的，"也就是说，感受比逻辑更重要："美学学科建立的是感性秩序，以对抗理性秩序。"
+
+"在德语中，感性和感官性仍然由同一个词来表示：Sinnlichkeit。它意味着本能的（尤其是性的）满足……身体不再被用作劳动的全时工具，将被重新性化……这首先会表现为所有性感带的重新激活，并因此在多形态前生殖器性欲的复苏中体现出来，以及生殖器至上性的下降。整个身体将成为投注（cathexis）的对象，一件可以享受的东西——一种快乐的工具。力比多关系的价值和范围的这种变化将导致私人人际关系所组织于其中的制度的解体，特别是一夫一妻制和父权制家庭。"
+
+这竟然在一本马尔库塞献给他五十年妻子的书中！
+
+很容易看出这一信息——"如果感觉好，就去做"——在1955年出版时如何引起了1960年代学生反叛者的共鸣。马尔库塞理解了他的大多数法兰克福学派同事所不理解的事情：摧毁西方文明——乔治·卢卡奇在1919年提出的目标——的方式不是通过深奥的理论，而是通过性、毒品和摇滚乐。马尔库塞为滋生了新左派的新一代撰写了其他著作——《单向度的人》（1964年）、《纯粹宽容批判》（1965年）、《解放论》（1969年）、《反革命与反叛》（1972年）——但《爱欲与文明》过去是、现在仍然是关键著作，是点燃火种的那一部。
+
+法兰克福学派成员的其他核心著作包括：
+
+- 《权威主义人格》，西奥多·阿多诺著（哈珀出版社，纽约，1950年）。这本书是将保守主义描绘成心理缺陷的一切后来发展的基础。它产生了巨大的影响，尤其是在教育理论方面。
+
+- 《启蒙辩证法》，西奥多·阿多诺和马克斯·霍克海默著（约翰·卡明翻译，维索出版社，伦敦，1979年）。这是一部写于二战期间的复杂哲学著作，主要回应纳粹主义（并大量讨论反犹主义），该著作试图在启蒙运动的废墟中找到"解放性"理性的内核。
+
+- 《最低限度的道德：来自受损生活的反思》，西奥多·阿多诺著（E.F.N. 约普科特翻译，新左派图书，伦敦，1974年）。一本格言集，几乎完全不可理解，但却是阿多诺工作的实际结论。
+
+- 《逃避自由》，埃里希·弗洛姆著（法拉尔与莱因哈特出版社，纽约，1941年，平装本仍在印刷中）。弗洛姆是该研究所的"笑脸"，这本书在1960年代经常是大学必读书目。其论点是人的天性使他会抛弃自由并拥抱法西斯主义，除非他"掌控社会并使经济机器服从于人类幸福的目的"，即采用社会主义。此时弗洛姆正处于脱离研究所的过程中，他后来的著作不能被视为法兰克福学派语料库的一部分。
+
+- 《理性的黯然失色》（牛津大学出版社，纽约，1947年）。基本上是《启蒙辩证法》的续集，该书主要是阿多诺和其他法兰克福学派人物的著作，尽管只有霍克海默的名字出现在上面。其内容基于霍克海默1944年在哥伦比亚大学发表的一系列演讲。散文风格出人意料地可读，但内容古怪；全书中有一种强烈的怀旧情绪，这通常是法兰克福学派所厌恶的。关键章节"自然的反叛"反映了一种奇怪的复古无政府主义："文明的胜利太彻底了，以至于不真实。因此，我们这个时代的适应包含着一种怨恨和被压抑的愤怒的元素。"
+
+- 《批判理论：选集》，马克斯·霍克海默著（马修·奥康奈尔翻译，西伯里出版社，纽约，1972年）。其中特别重要的是"传统理论与批判理论"一文。
+
+这份小小的参考书目将足以让感兴趣的读者起步；关于法兰克福学派以及由该学派创作的文献浩瀚如海，杰伊和维格斯豪斯书中的参考文献目录足以证明。在英文文献中一直缺失的是一部为普通人撰写、从政治正确的创造角度解释法兰克福学派及其著作的可读书籍。这本薄册子至少是填补这一空白的一个开端。
+
+来源：
 http://en.wikipedia.org/wiki/Frankfurt_School
 http://www.freecongress.org/centers/cc/pcessay.aspx
-

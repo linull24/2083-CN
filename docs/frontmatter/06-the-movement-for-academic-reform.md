@@ -1,95 +1,39 @@
+# 学术改革运动
 # The Movement for Academic Reform
 
-> 原文页码: 25-26
+这种"涓滴效应"将对未来几代西欧人和美国人的教育方式产生持久影响。
 
-on the curriculum. This “trickle-down” effect will have a long-lasting impact on the way 
-future generations of Western Europeans and Americans will be educated.
-Intolerance and the Assault on Freedom
-The two pillars that have traditionally sustained the liberal arts are academic freedom 
-and freedom of speech. Without the freedom to pursue the truth and to write and speak 
-freely, authentic scholarship is impossible. But both of these fundamental freedoms have 
-been routinely abrogated by the establishment of speech codes, “sensitivity” classes, and 
-a general atmosphere of fear and intimidation on campus.
-For example, younger professors who have not received tenure must not only be careful 
-of what they say, but of what they publish. Ideological university administrators in the 
-1990s have created an environment dominated by suspicion that is far more intense than 
-anything spawned by anti-Communist Senator Joseph McCarthy in the 1950s.
-The most tragic victims of this age of political correctness are the students. The 
-traditional goal of a liberal arts education – acculturation, whereby students absorb the 
-inherited wisdom of the past – has been set aside. Increasingly, a university education 
-today seems to involve political indoctrination. When all is said and done, political 
-correctness substitutes smug feelings of righteousness for the traditional habits of critical 
-thinking. One distinguished scholar recently lamented that “higher education is 
-increasingly about acquiring attitudes and opinions that one puts on like a uniform.”
-Because the academy is a relatively isolated world, it can allow politicised administrators 
-to turn the campus into a laboratory for experiments in social transformation. When 
-critics of political correctness have compared the atmosphere on campus to that of a 
-totalitarian state, liberal pundits have been quick to denounce them as hysterical. Few of 
-these pundits have any first-hand experience of daily life on campus.
-The Movement for Academic Reform 
-Despite the institutional power of the campus radicals, forces are at 
-work seeking to spur authentic academic reform. The academic 
-reform movement relies on the principles of accountability, 
-communication, and a commitment to authentic scholarship. One 
-force of academic reform is a growing demand among parents for 
-greater accountability from colleges and universities. At a time when 
-studies show that students are paying more and learning less than 
-ever before, parents in increasing numbers are becoming 
-discriminating consumers.
-Another force is independent student newspapers whose journalists publicise the antics 
-of political correctness on campus. In many universities, campus radicals are still 
-unchallenged in the enclosed world of the university.
-However, there are alternatives. Alternative student organisations have identified abuses 
-at all levels of academic life and engaged in investigative journalism that has been 
-remarkably fair and accurate. Perhaps the most well-known “scoop” came from Yale 
-University’s alternative paper, Light & Truth, a publication supported by the Collegiate 
-Network. The editors of Light & Truth discovered that the $20 million gift of alumnus Lee 
-Bass was not being used for its intended purpose of supporting an integrated course in 
-Western civilisation. Their report broke open the scandal, which ended when Yale 
-returned Mr. Bass’s money. The subsequent furor cost Yale a great deal more than Mr. 
-Bass’s $20 million – both in monetary terms and in the loss of confidence of many Yale 
-donors that the current administration can be trusted.
-Not all the scandals uncovered by alternative campus papers are of this magnitude, but 
-there are innumerable abuses that can be exposed by investigative student journalism. 
-The law school at the University of North Carolina, Chapel Hill, banned representatives of 
-the U.S. military from setting up recruiting tables there, despite receiving federal tax 
-dollars from the Defence Department. An article about this outrageous assault on 
-freedom that ran in both the student-run Carolina Review and in the national student 
-newspaper published by ISI, CAMPUS, raised a hue and cry on and off campus. North 
-Carolina legislators took immediate action and passed a bill prohibiting taxpayer-
-supported schools from discriminating against the military when prospective employers 
-come to the university.
-At the University of Wisconsin, Madison, the UWM Times, a conservative student 
-newspaper, revealed that a university administrator had been soliciting signatures for 
-local Democrat candidates for public office, in direct violation of a state law forbidding 
-university employees from engaging in political campaigning. The university refused to 
-reprimand the administrator in question – perhaps because the chancellor himself 
-violated both the state law and his own directive by signing one of the petitions while at 
-work. The story was picked up by the Milwaukee Journal-Sentinel and the abuse was 
-brought to an end.
-Now that alternative newspapers and organisations dedicated to academic reform are 
-spreading the word, the larger communities that surround our institutions of higher 
-education are getting more involved in serious academic reform. For example, the 
-National Association of Scholars is encouraging university trustees to take a more active 
-and vocal role in opposing the excesses of political correctness. Efforts of this type must 
-be expanded and intensified. 
-In the long run, the most direct method of defeating the inquisitors of political 
-correctness is simply to stand up to them. Individual acts of defiance often entail serious 
-risks: students can face star-chamber proceedings that are humiliating and demoralising 
-while faculty can lose their bids to receive tenure. But every act of resistance causes a 
-ripple, encouraging others to stand up to ideological intimidation. With the support of a 
-significant number of parents, donors, and alumni, these David’s may yet slay the 
-Goliaths who tower over them.
-The Fire of True-Learning
-Perhaps the strongest force for true academic reform is that which seeks to defeat the 
-ideological depredations of political correctness by winning the war of ideas. Moreover, 
-some colleges and universities continue to swim against the ideological tides of our time.
-One of Edmund Burke’s most famous sayings is that “the only thing necessary for the 
-triumph of evil is for good men to do nothing.” For generations, Western Europeans and 
-Americans have treated higher education with awe – a token of their faith in the 
-liberating power of the liberal arts. But in the face of political correctness, it is time for 
-the Western European and American public to temper its respect with a critical sensibility, 
-and to undertake a more direct effort to call academia to account. It is time for good men 
-and women to demand that Western European higher education live up to its best 
-traditions and eschew the tyranny of political correctness.
+## 不宽容与对自由的攻击
 
+传统上支撑人文教育的两大支柱是学术自由和言论自由。没有追求真理、自由写作和自由言论的自由，真正的学术是不可能的。但这两项基本自由已经通过言论规范、"敏感性"课程以及校园中普遍存在的恐惧和恐吓气氛而经常遭到践踏。
+
+例如，尚未获得终身教职的年轻教授不仅要小心自己的言论，还要小心自己所发表的文章。1990年代的意识形态化大学管理者创造了一种充满猜疑的环境，其氛围远比1950年代反共参议员约瑟夫·麦卡锡所引发的任何东西都要强烈得多。
+
+这个政治正确时代最悲惨的受害者是学生。人文教育的传统目标——文化涵化，即让学生吸收过去传承下来的智慧——已经被搁置一旁。如今，大学教育越来越像政治灌输。归根结底，政治正确用自鸣得意的正义感取代了批判性思维的传统习惯。一位杰出学者最近感叹道："高等教育越来越关乎获取某种态度和观点，就像穿上一套制服一样。"
+
+由于学术界是一个相对封闭的世界，它使得政治化的管理者可以将校园变成社会转型实验的实验室。当政治正确的批评者将校园气氛比作极权主义国家时，自由主义评论员迅速指责他们是歇斯底里。这些评论员中很少有人对校园日常生活有过亲身经历。
+
+## 学术改革运动
+
+尽管校园激进分子拥有体制性的权力，但仍有力量在努力推动真正的学术改革。学术改革运动依赖于问责制、沟通和对真正学术的承诺。学术改革的一股力量是家长们对高校更大问责日益增长的需求。在研究表明学生比以往任何时候都支付得更多却学得更少的时代，越来越多的家长正在成为挑剔的消费者。
+
+另一股力量是独立的学生报纸，其记者公开报道校园中政治正确的荒诞行为。在许多大学里，校园激进分子在封闭的大学世界中仍然没有受到挑战。
+
+然而，存在替代方案。替代性的学生组织已经识别出学术生活各个层面的弊端，并进行了报道精准、异常公正的调查性新闻工作。也许最著名的"独家新闻"来自耶鲁大学的替代性报纸《光与真理》，这是一份由学院网络支持的出版物。《光与真理》的编辑发现，校友李·巴斯捐赠的2000万美元并未被用于其预期的支持西方文明整合课程的目的。他们的报道揭开了这一丑闻，最终以耶鲁退还巴斯先生的资金而告终。随后的风波让耶鲁付出了远比巴斯先生的2000万美元更多的代价——无论是从金钱角度，还是从许多耶鲁捐赠者对现任管理层是否值得信任的信心的丧失来看。
+> QQ的搬运生态，然而出版物最主要的问题是忠实的读者群体。
+
+替代性校园报纸揭露的丑闻并非都达到这种规模，但调查性学生新闻可以曝光无数弊端。北卡罗来纳大学教堂山分校的法学院禁止美国军方代表在那里设立招募台，尽管它接受了国防部的联邦税款资金。一篇关于这种对自由令人愤慨的攻击的文章同时在学生办的《卡罗来纳评论》和ISI出版的全美学生报纸《CAMPUS》上发表，引发了校内外的强烈抗议。北卡罗来纳州的立法者立即采取行动，通过了一项法案，禁止纳税人支持的学校在有潜在雇主前来大学时歧视军队。
+
+在威斯康星大学麦迪逊分校，保守派学生报纸《UWM时报》揭露了一名大学管理者为当地民主党公职候选人征集签名，直接违反了禁止大学员工参与政治竞选活动的州法律。该大学拒绝谴责涉事管理者——也许是因为校长本人就在工作时签署了其中一份请愿书，既违反了州法律也违反了他自己的指令。这一报道被《密尔沃基哨兵报》转载，该弊行才得以终止。
+
+如今，随着致力于学术改革的替代性报纸和组织正在传播信息，围绕我们高等教育机构的更大社区正越来越多地参与到严肃的学术改革中来。例如，全美学者协会正在鼓励大学校董在反对政治正确的过度行为中发挥更积极和更直言不讳的作用。这类努力必须得到扩大和加强。
+
+从长远来看，击败政治正确的裁判官的最直接方法就是挺身面对他们。个体的反抗行为往往伴随着严重的风险：学生可能面临羞辱性和打击士气的星室法庭程序，而教师可能失去获得终身教职的机会。但每一次抵抗行为都会激起涟漪，鼓励其他人挺身面对意识形态恐吓。在有相当数量的家长、捐赠者和校友的支持下，这些大卫们或许终将杀死凌驾于他们之上的歌利亚。
+
+## 真正学问之火
+
+也许推动真正学术改革的最强大力量是那种试图通过赢得思想战争来击败政治正确的意识形态掠夺的力量。此外，一些高等院校继续逆时代意识形态的潮流而行。
+
+埃德蒙·伯克最著名的名言之一是："邪恶得胜的唯一条件就是好人无所作为。"几代人以来，西欧人和美国人对高等教育怀有敬畏——这是他们对人文教育解放力量信念的象征。但在面对政治正确之际，西欧和美国公众是时候用批判性感知来调节自己的尊重，并做出更直接的努力来让学术界承担责任了。现在是善良的男男女女要求西欧高等教育不负其最佳传统、摒弃政治正确的暴政的时候了。
+> 我们要指望所谓的综合性大学或者Elite学校能产生什么吗？
+> 我的答案是否定的。
