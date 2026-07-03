@@ -17,3 +17,311 @@ markdown_extensions:
   - pymdownx.superfences
   - admonition
   - footnotes
+nav:
+  - "首页": index.md
+  - "前言":
+    - "About the compendium - 2083": 前言/00-about-the-compendium---2083.md
+    - "Distribution of the book": 前言/01-distribution-of-the-book.md
+    - "A message from the author/creator of the compendium": 前言/02-a-message-from-the-authorcreator--cd5f53.md
+    - "Introduction - What is “Political Correctness”?": 前言/03-introduction---what-is-political--ce74ac.md
+    - "How it all began - Political Correctness is Cultural Marxism": 前言/04-how-it-all-began---political-corr-1a6b8b.md
+    - "Cultural Marxist profiles": 前言/05-cultural-marxist-profiles.md
+    - "The Movement for Academic Reform": 前言/06-the-movement-for-academic-reform.md
+    - "Political Correctness: Deconstruction and Literature": 前言/07-political-correctness-deconstruct-2453b9.md
+    - "Radical Feminism and Political Correctness": 前言/08-radical-feminism-and-political-co-bce941.md
+    - "Further Readings on the Frankfurt School": 前言/09-further-readings-on-the-frankfurt-school.md
+    - "Additional works on the Frankfurt School": 前言/10-additional-works-on-the-frankfurt-school.md
+  - "第一册：你需要知道的":
+    - "1.1 Historical revisionism (negationism)": book1/g01-1-what-you-need-to-c4b1b5/1.1-historical-revisionism-negationism.md
+    - "1.2 General characteristics of European Islamic Negationism": book1/g01-1-what-you-need-to-c4b1b5/1.2-general-characteristics-of-europe-3210d1.md
+    - "1.3 The Failure of Western Universities": book1/g01-1-what-you-need-to-c4b1b5/1.3-the-failure-of-western-universities.md
+    - "1.4 Review 1: Religion of Peace? Islam’s war against the world - Islam 101": book1/g01-1-what-you-need-to-c4b1b5/1.4-review-1-religion-of-peace-islams-afca78.md
+    - "1.5 Al-Taqiyya – Religious/political deception": book1/g01-1-what-you-need-to-c4b1b5/1.5-al-taqiyya-religiouspolitical-deception.md
+    - "1.6 Naskh - Quranic abrogation": book1/g01-1-what-you-need-to-c4b1b5/1.6-naskh---quranic-abrogation.md
+    - "1.7 Review 2: Islam – What the West needs to know": book1/g01-1-what-you-need-to-c4b1b5/1.7-review-2-islam-what-the-west-need-3cbdb9.md
+    - "1.8 European Slaves, Arab Masters": book1/g01-1-what-you-need-to-c4b1b5/1.8-european-slaves-arab-masters.md
+    - "1.9 Hindu Kush, the largest Genocides in the history of man": book1/g01-1-what-you-need-to-c4b1b5/1.9-hindu-kush-the-largest-genocides--dfb7d7.md
+    - "1.10 Additional info - Hindu Kush": book1/g01-1-what-you-need-to-c4b1b5/1.10-additional-info---hindu-kush.md
+    - "1.11 What the Crusades Were Really Like": book1/g01-1-what-you-need-to-c4b1b5/1.11-what-the-crusades-were-really-like.md
+    - "1.12 The Crusades and today": book1/g01-1-what-you-need-to-c4b1b5/1.12-the-crusades-and-today.md
+    - "1.13 The factors that led to the Crusades": book1/g01-1-what-you-need-to-c4b1b5/1.13-the-factors-that-led-to-the-crusades.md
+    - "1.14 Modern Aftermath of the Crusades": book1/g01-1-what-you-need-to-c4b1b5/1.14-modern-aftermath-of-the-crusades.md
+    - "1.15 History of the Islamic Ottoman Turkish Empire I (1299-1876)": book1/g01-1-what-you-need-to-c4b1b5/1.15-history-of-the-islamic-ottoman-tu-50440e.md
+    - "1.16 Jus Primae Noctis - Institutionalised rape of Christians under the Ottoman Empire": book1/g01-1-what-you-need-to-c4b1b5/1.16-jus-primae-noctis---institutional-40fe0b.md
+    - "1.17 Jihadi Genocides of Christians in the Ottoman Empire and Turkey - The Armenian, Greek and Assyrian Genocides": book1/g01-1-what-you-need-to-c4b1b5/1.17-jihadi-genocides-of-christians-in-86703d.md
+    - "1.18 Turkey: Back to the Future?": book1/g01-1-what-you-need-to-c4b1b5/1.18-turkey-back-to-the-future.md
+    - "1.19 The fall of the Christian state of Lebanon": book1/g01-1-what-you-need-to-c4b1b5/1.19-the-fall-of-the-christian-state-o-937aa9.md
+    - "1.20 Battle of Poitiers (Battle of Tours) – First Islamic Wave – Year 732": book1/g01-1-what-you-need-to-c4b1b5/1.20-battle-of-poitiers-battle-of-tour-cb22ec.md
+    - "1.21 Battle of Vienna – Second Islamic wave – Year 1683": book1/g01-1-what-you-need-to-c4b1b5/1.21-battle-of-vienna-second-islamic-w-bffc91.md
+    - "1.22 European Crusader heroes, champions, legends": book1/g01-1-what-you-need-to-c4b1b5/1.22-european-crusader-heroes-champion-17a201.md
+    - "1.23 Western vs. Islamic Science and Religion": book1/g01-1-what-you-need-to-c4b1b5/1.23-western-vs-islamic-science-and-religion.md
+    - "1.24 Historically - Bosnia is Serbian Land": book1/g01-1-what-you-need-to-c4b1b5/1.24-historically---bosnia-is-serbian-land.md
+    - "1.25 Who are the “Bosniaks”?": book1/g01-1-what-you-need-to-c4b1b5/1.25-who-are-the-bosniaks.md
+    - "1.26 Historical Islamic demographic warfare in Kosovo": book1/g01-1-what-you-need-to-c4b1b5/1.26-historical-islamic-demographic-wa-c2dc97.md
+    - "1.27 Myths and Politics - Origin or the Myth of a Tolerant Pluralistic Islamic Society": book1/g01-1-what-you-need-to-c4b1b5/1.27-myths-and-politics---origin-or-th-360e5b.md
+    - "1.28 Palestine for the Syrians?": book1/g01-1-what-you-need-to-c4b1b5/1.28-palestine-for-the-syrians.md
+    - "1.29 Overview – Historical acts of high treason by European Governments": book1/g01-1-what-you-need-to-c4b1b5/1.29-overview-historical-acts-of-high--12c4f2.md
+    - "1.30 Further studies": book1/g01-1-what-you-need-to-c4b1b5/1.30-further-studies.md
+  - "第二册：燃烧的欧洲":
+    - "2.1 EU’s Eurabia Project (The Eurabia Code) - Documenting EU’s deliberate strategy to Islamise Europe": book2/g02-in-this-book-we-re-53c0d9/2.1-eus-eurabia-project-the-eurabia-c-06c935.md
+    - "2.2 The Eurabia Code – 2008 Updates": book2/g02-in-this-book-we-re-53c0d9/2.2-the-eurabia-code-2008-updates.md
+    - "2.3 Ten Reasons to Get Rid of the European Union": book2/g02-in-this-book-we-re-53c0d9/2.3-ten-reasons-to-get-rid-of-the-eur-581459.md
+    - "2.4 Why the EU Needs to be Destroyed, and Soon": book2/g02-in-this-book-we-re-53c0d9/2.4-why-the-eu-needs-to-be-destroyed--69e861.md
+    - "2.5 Boycott the United Nations!": book2/g02-in-this-book-we-re-53c0d9/2.5-boycott-the-united-nations.md
+    - "2.6 The European Court of Human Rights (ECtHR) in Strasbourg is a cultural Marxist controlled political entity": book2/g02-in-this-book-we-re-53c0d9/2.6-the-european-court-of-human-right-f79b5d.md
+    - "2.7 Waiting for Churchill or Godot?": book2/g02-in-this-book-we-re-53c0d9/2.7-waiting-for-churchill-or-godot.md
+    - "2.8 The Failure of Western Feminism": book2/g03-the-name-of-the-de-ed2c0d/2.8-the-failure-of-western-feminism.md
+    - "2.9 How the Feminists’ “War against Boys” Paved the Way for Islam": book2/g03-the-name-of-the-de-ed2c0d/2.9-how-the-feminists-war-against-boy-997523.md
+    - "2.10 Feminism Leads to the Oppression of Women": book2/g03-the-name-of-the-de-ed2c0d/2.10-feminism-leads-to-the-oppression--752f20.md
+    - "2.11 What is the Cause of Low Birth Rates?": book2/g03-the-name-of-the-de-ed2c0d/2.11-what-is-the-cause-of-low-birth-rates.md
+    - "2.12 The Fatherless Civilisation": book2/g03-the-name-of-the-de-ed2c0d/2.12-the-fatherless-civilisation.md
+    - "2.13 The Western European cultural Marxist/multiculturalist intellectual elite – who are they?": book2/g03-the-name-of-the-de-ed2c0d/2.13-the-western-european-cultural-mar-ef9fff.md
+    - "2.14 Labour wants mass immigration to engineer multicultural UK, says former Blair and Straw adviser.": book2/g03-the-name-of-the-de-ed2c0d/2.14-labour-wants-mass-immigration-to--227d77.md
+    - "2.15 The outrageous truth slips out: Labour cynically plotted to transform the entire make-up of Britain without telling us": book2/g03-the-name-of-the-de-ed2c0d/2.15-the-outrageous-truth-slips-out-la-a5f200.md
+    - "2.16 Why the discipline of Sociology must be completely removed from Academia": book2/g03-the-name-of-the-de-ed2c0d/2.16-why-the-discipline-of-sociology-m-b3b0c0.md
+    - "2.17 The psychology of cultural Marxists": book2/g03-the-name-of-the-de-ed2c0d/2.17-the-psychology-of-cultural-marxists.md
+    - "2.18 Democracy and the Media Bias": book2/g03-the-name-of-the-de-ed2c0d/2.18-democracy-and-the-media-bias.md
+    - "2.19 a. The EUSSR/USASSR Media hegemony": book2/g03-the-name-of-the-de-ed2c0d/2.19-a-the-eussrusassr-media-hegemony.md
+    - "2.20 Pro Muslim media strategies": book2/g03-the-name-of-the-de-ed2c0d/2.20-pro-muslim-media-strategies.md
+    - "2.21 Questions and polls your government and news agencies have disallowed": book2/g03-the-name-of-the-de-ed2c0d/2.21-questions-and-polls-your-governme-3b0bd4.md
+    - "2.22 Dealing with journalists - authorising your own character assassination by the multiculturalist PC press.": book2/g03-the-name-of-the-de-ed2c0d/2.22-dealing-with-journalists---author-a53fed.md
+    - "2.23 Understanding the fundaments behind multiculturalism; From Titans To Lemmings: The Suicide of Europe": book2/g03-the-name-of-the-de-ed2c0d/2.23-understanding-the-fundaments-behi-c19bf9.md
+    - "2.24 Ignorance and Multiculturalism must be destroyed": book2/g03-the-name-of-the-de-ed2c0d/2.24-ignorance-and-multiculturalism-mu-45f914.md
+    - "2.25 Is Capitalism Always a Force for Freedom?": book2/g04-globalised-capital-6f8449/2.25-is-capitalism-always-a-force-for-freedom.md
+    - "2.26 Big Business, a Driving Force behind Immigration": book2/g04-globalised-capital-6f8449/2.26-big-business-a-driving-force-behi-988bd4.md
+    - "2.27 Migration has brought 'zero' economic benefit": book2/g04-globalised-capital-6f8449/2.27-migration-has-brought-zero-econom-69bde1.md
+    - "2.28 What Does Muslim Immigration Cost Europe?": book2/g04-globalised-capital-6f8449/2.28-what-does-muslim-immigration-cost-europe.md
+    - "2.29 Current and recent Jihads in Asia and Africa": book2/g05-modern-jihad/2.29-current-and-recent-jihads-in-asia-551515.md
+    - "2.30 Overview of Jihadi terror attacks": book2/g05-modern-jihad/2.30-overview-of-jihadi-terror-attacks.md
+    - "2.31 Muslim Persecution of Christians": book2/g05-modern-jihad/2.31-muslim-persecution-of-christians.md
+    - "2.32 Christians in the Middle East": book2/g05-modern-jihad/2.32-christians-in-the-middle-east.md
+    - "2.33 Fighting for their survival - A Christian Exodus from the Arab World": book2/g05-modern-jihad/2.33-fighting-for-their-survival---a-c-d0b048.md
+    - "2.34 Converts in the Muslim world": book2/g05-modern-jihad/2.34-converts-in-the-muslim-world.md
+    - "2.35 Text book Jihad in Egypt": book2/g05-modern-jihad/2.35-text-book-jihad-in-egypt.md
+    - "2.36 The Afghan-Bosnian Mujahideen Network in Europe": book2/g05-modern-jihad/2.36-the-afghan-bosnian-mujahideen-net-cfc6b9.md
+    - "2.37 Justification of Muslim crime against non-Muslims": book2/g05-modern-jihad/2.37-justification-of-muslim-crime-aga-9093f3.md
+    - "2.38 The Real Roots of Muslim Hatred": book2/g05-modern-jihad/2.38-the-real-roots-of-muslim-hatred.md
+    - "2.39 The ongoing Civil War in Europe – Muslims want autonomous territory, not better integration": book2/g05-modern-jihad/2.39-the-ongoing-civil-war-in-europe-m-49ac24.md
+    - "2.40 Muslim atrocities committed against Western Europeans 1960-2010 (2020)": book2/g05-modern-jihad/2.40-muslim-atrocities-committed-again-887311.md
+    - "2.41 Various forms of Jihad": book2/g05-modern-jihad/2.41-various-forms-of-jihad.md
+    - "2.42 The Islamisation process in European countries": book2/g05-modern-jihad/2.42-the-islamisation-process-in-europ-8d38af.md
+    - "2.43 Islamisation process of Western countries from 1% to 100%": book2/g05-modern-jihad/2.43-islamisation-process-of-western-c-c723af.md
+    - "2.44 List of Muslim demands for Sharia in Europe": book2/g05-modern-jihad/2.44-list-of-muslim-demands-for-sharia-a80920.md
+    - "2.45 Saudi Arabia – The serpents head": book2/g05-modern-jihad/2.45-saudi-arabia-the-serpents-head.md
+    - "2.46 How many Muslims worldwide support militant Islam or Jihadi Salafism?": book2/g05-modern-jihad/2.46-how-many-muslims-worldwide-suppor-851a18.md
+    - "2.47 Europe's Wahhabi Lobby": book2/g05-modern-jihad/2.47-europes-wahhabi-lobby.md
+    - "2.48 Leaving Islam – interview with an ex-Muslim": book2/g05-modern-jihad/2.48-leaving-islam-interview-with-an-e-361de6.md
+    - "2.49 Moderate Muslims and the Islamisation of Europe": book2/g05-modern-jihad/2.49-moderate-muslims-and-the-islamisa-c5a144.md
+    - "2.50 Why We Cannot Rely on Moderate Muslims": book2/g05-modern-jihad/2.50-why-we-cannot-rely-on-moderate-muslims.md
+    - "2.51 Is Islam Compatible With Democracy?": book2/g05-modern-jihad/2.51-is-islam-compatible-with-democracy.md
+    - "2.52 Demography and the Islamisation of Europe": book2/g06-demography/2.52-demography-and-the-islamisation-o-dc323b.md
+    - "2.53 Statistics and the Islamisation of Europe": book2/g07-statistics/2.53-statistics-and-the-islamisation-o-6e10d1.md
+    - "2.54 Europe’s Decline – Hurrah! We Capitulate!": book2/g08-europe-today/2.54-europes-decline-hurrah-we-capitulate.md
+    - "2.55 Jihad Destroys the Swedish Model": book2/g08-europe-today/2.55-jihad-destroys-the-swedish-model.md
+    - "2.56 Islamisation and Cowardice in Scandinavia": book2/g08-europe-today/2.56-islamisation-and-cowardice-in-sca-a26ee5.md
+    - "2.57 Our Offensive National Flag": book2/g08-europe-today/2.57-our-offensive-national-flag.md
+    - "2.58 Will Netherland Survive the 21st Century?": book2/g08-europe-today/2.58-will-netherland-survive-the-21st-century.md
+    - "2.59 The Spanish and the Portuguese — Once and Future Dhimmis?": book2/g08-europe-today/2.59-the-spanish-and-the-portuguese-on-0a6664.md
+    - "2.60 Collusion between British Government and Muslim Terrorists": book2/g08-europe-today/2.60-collusion-between-british-governm-ea2aa7.md
+    - "2.61 Kosovo - Just another step in the Islamisation of Europe": book2/g08-europe-today/2.61-kosovo---just-another-step-in-the-7eb42f.md
+    - "2.62 The Norwegian Inquisition - Sunset in the Land of the Midnight Sun": book2/g08-europe-today/2.62-the-norwegian-inquisition---sunse-e3a066.md
+    - "2.63 The Anti-Racist Witch-Hunts": book2/g08-europe-today/2.63-the-anti-racist-witch-hunts.md
+    - "2.64 Discrimination and harassment against cultural conservatives": book2/g08-europe-today/2.64-discrimination-and-harassment-aga-7dd876.md
+    - "2.65 ANTIFA/Labour Jugend – State sponsored Marxist lynch mobs": book2/g08-europe-today/2.65-antifalabour-jugend-state-sponsor-f6dd8f.md
+    - "2.66 The only English charity organisation is branded as racist while 215 Somali organizations are welcomed": book2/g08-europe-today/2.66-the-only-english-charity-organisa-3fc843.md
+    - "2.67 How the diversity industry/ethnic industries/sub-cultures such as Hip-Hop in combination with unrestricted media rights contributes to destroy society": book2/g08-europe-today/2.67-how-the-diversity-industryethnic--f98389.md
+    - "2.68 How the West Lost the Cold War": book2/g08-europe-today/2.68-how-the-west-lost-the-cold-war.md
+    - "2.69 The Closing of Civilisation in Europe": book2/g08-europe-today/2.69-the-closing-of-civilisation-in-europe.md
+    - "2.70 Give the Nobel Peace Prize to Ayaan Hirsi Ali": book2/g08-europe-today/2.70-give-the-nobel-peace-prize-to-aya-a6aa5d.md
+    - "2.71 Nobel Peace Prize Awarded for Appeasement of Jihad… again": book2/g08-europe-today/2.71-nobel-peace-prize-awarded-for-app-447e6e.md
+    - "2.72 Green is the new Red - Stop Enviro-Communism!": book2/g08-europe-today/2.72-green-is-the-new-red---stop-envir-f0ba5e.md
+    - "2.73 Consolidating the moderate cultural conservative forces of Europe": book2/g09-effective-communic-2fd25f/2.73-consolidating-the-moderate-cultur-2ce276.md
+    - "2.74 Organisational strategy for phase 1; Better communication and cooperation among cultural conservative groups": book2/g09-effective-communic-2fd25f/2.74-organisational-strategy-for-phase-fd2c3a.md
+    - "2.75 Copying Marxist organisational strategies and networks – locally, nationally and internationally": book2/g09-effective-communic-2fd25f/2.75-copying-marxist-organisational-st-146b03.md
+    - "2.76 Public opposition to Islamisation translated into success for political parties": book2/g09-effective-communic-2fd25f/2.76-public-opposition-to-islamisation-501bf0.md
+    - "2.77 Cultural conservative/nationalist rhetorical strategies": book2/g09-effective-communic-2fd25f/2.77-cultural-conservativenationalist--9bd780.md
+    - "2.78 US and European nationalist rhetorical differences": book2/g09-effective-communic-2fd25f/2.78-us-and-european-nationalist-rheto-6d4c06.md
+    - "2.79 Educating the European patriots who lacks ideological confidence": book2/g09-effective-communic-2fd25f/2.79-educating-the-european-patriots-w-937f74.md
+    - "2.80  3 point guide to convert your right wing blog/site to a newspaper/magazine with national distribution": book2/g09-effective-communic-2fd25f/2.80-3-point-guide-to-convert-your-rig-d34306.md
+    - "2.81 The Strategy of Western Survivalists": book2/g10-because-our-surviv-0f6ac3/2.81-the-strategy-of-western-survivalists.md
+    - "2.82 Christianity, Pros and Cons": book2/g10-because-our-surviv-0f6ac3/2.82-christianity-pros-and-cons.md
+    - "2.83 The Church – Part of the Problem or Part of the Solution?": book2/g10-because-our-surviv-0f6ac3/2.83-the-church-part-of-the-problem-or-6257cd.md
+    - "2.84 Thou Shalt Hate Christianity and Judaism": book2/g10-because-our-surviv-0f6ac3/2.84-thou-shalt-hate-christianity-and-judaism.md
+    - "2.85 A future Christian identity for Europe?": book2/g10-because-our-surviv-0f6ac3/2.85-a-future-christian-identity-for-europe.md
+    - "2.86 Conflict avoidance and how to avoid it": book2/g10-because-our-surviv-0f6ac3/2.86-conflict-avoidance-and-how-to-avoid-it.md
+    - "2.87 ”Western”, modern countries that never adopted multiculturalism - Japan, South Korea and Taiwan": book2/g10-because-our-surviv-0f6ac3/2.87-western-modern-countries-that-nev-2f01c1.md
+    - "2.88 Democracy not working": book2/g10-because-our-surviv-0f6ac3/2.88-democracy-not-working.md
+    - "2.89 The Rape of Europe – emigration of indigenous Europeans?": book2/g10-because-our-surviv-0f6ac3/2.89-the-rape-of-europe-emigration-of--16bb37.md
+    - "2.90 Suggestions for the Future": book2/g10-because-our-surviv-0f6ac3/2.90-suggestions-for-the-future.md
+    - "2.91 What Do We Fight For?": book2/g10-because-our-surviv-0f6ac3/2.91-what-do-we-fight-for.md
+    - "2.92 Who Are We, Who Are Our Enemies - The Cost of Historical Amnesia": book2/g10-because-our-surviv-0f6ac3/2.92-who-are-we-who-are-our-enemies----e3b71c.md
+    - "2.93 A European Declaration of Independence": book2/g10-because-our-surviv-0f6ac3/2.93-a-european-declaration-of-independence.md
+    - "2.94 Conservatives discussing future solutions for Europe": book2/g10-because-our-surviv-0f6ac3/2.94-conservatives-discussing-future-s-0732a5.md
+    - "2.95 Islamisation of Europe – possible outcomes": book2/g10-because-our-surviv-0f6ac3/2.95-islamisation-of-europe-possible-outcomes.md
+    - "2.96 From the death of Multiculturalism": book2/g10-because-our-surviv-0f6ac3/2.96-from-the-death-of-multiculturalism.md
+    - "2.97 Europe heading for Civil War": book2/g10-because-our-surviv-0f6ac3/2.97-europe-heading-for-civil-war.md
+    - "2.98 Are all European men weak minded cowards or are they just brainwashed?": book2/g10-because-our-surviv-0f6ac3/2.98-are-all-european-men-weak-minded--60f251.md
+    - "2.99 The Self-Defeat of the United States": book2/g10-because-our-surviv-0f6ac3/2.99-the-self-defeat-of-the-united-states.md
+    - "2.100 Continued discussion on US-European relations": book2/g10-because-our-surviv-0f6ac3/2.100-continued-discussion-on-us-europe-943c05.md
+    - "2.101 Preserve or replace the European monarchies?": book2/g10-because-our-surviv-0f6ac3/2.101-preserve-or-replace-the-european--6eb283.md
+    - "2.102 Not a war between capitalism and socialism but a cultural war between nationalism and internationalism": book2/g10-because-our-surviv-0f6ac3/2.102-not-a-war-between-capitalism-and--bf3689.md
+    - "2.103 Democracy needs a Reformation": book2/g10-because-our-surviv-0f6ac3/2.103-democracy-needs-a-reformation.md
+    - "2.104 Future deportations of Muslims from Europe": book2/g11-comments-lonestranger/2.104-future-deportations-of-muslims-fr-6a34d5.md
+    - "2.105 Change of investment/education mentality in the coming decades": book2/g11-comments-lonestranger/2.105-change-of-investmenteducation-men-bd31e1.md
+    - "2.106 The ideological journey – from indoctrinated multiculturalist zealot to Conservative Revolutionary": book2/g11-comments-lonestranger/2.106-the-ideological-journey-from-indo-88bb25.md
+    - "2.107 Further studies": book2/g11-comments-lonestranger/2.107-further-studies.md
+  - "第三册：先发制人的战争宣言":
+    - "3.1 A phase of dialogue has come to an end (1955-1999)": book3/g12-the-conservative-r-5a0dad/3.1-a-phase-of-dialogue-has-come-to-a-5e7c24.md
+    - "3.2 Charges against all cultural Marxist/multiculturalist elites of Europe (category A and B traitors)": book3/g12-the-conservative-r-5a0dad/3.2-charges-against-all-cultural-marx-4dcd3d.md
+    - "3.3 The European Resistance Movement/Indigenous Rights Movement – PCCTS, Knights Templar offer a full pardon to the Western European multiculturalist regimes, the MA 100 alliance (political parties) and all category A and B individual traitors if they capitulate to our military forces by January 1st, 2020": book3/g12-the-conservative-r-5a0dad/3.3-the-european-resistance-movementi-9d23d7.md
+    - "3.4 Why armed resistance against the cultural Marxist/multiculturalist regimes of Western Europe is the only rational approach": book3/g12-the-conservative-r-5a0dad/3.4-why-armed-resistance-against-the--029899.md
+    - "3.5 A new era has come - the time for dialogue is now over": book3/g12-the-conservative-r-5a0dad/3.5-a-new-era-has-come---the-time-for-bc9d05.md
+    - "3.6 Explanation of the European Civil War - Phase 1, 2 and 3": book3/g12-the-conservative-r-5a0dad/3.6-explanation-of-the-european-civil-f173c3.md
+    - "3.7 There are four potential outcomes of Phase 2 and 3": book3/g12-the-conservative-r-5a0dad/3.7-there-are-four-potential-outcomes-046ceb.md
+    - "3.8 Differentiating between and dealing with category A, B and C traitors: hardcore Marxists, cultural Marxists, suicidal humanists/career cynicists and capitalist globalists": book3/g12-the-conservative-r-5a0dad/3.8-differentiating-between-and-deali-7d28b2.md
+    - "3.9 Demands/requests/pleas to our National Military Commands": book3/g12-the-conservative-r-5a0dad/3.9-demandsrequestspleas-to-our-natio-b3d7d5.md
+    - "3.10 Assimilation policy/demands/offer for Muslim individuals living in Europe (this offer will expire on Jan 1st, 2020)": book3/g12-the-conservative-r-5a0dad/3.10-assimilation-policydemandsoffer-f-1fe1ef.md
+    - "3.11 The history of Pauperes commilitones Christi Templique Solomonici (Knights Templar)": book3/g12-the-conservative-r-5a0dad/3.11-the-history-of-pauperes-commilito-e449f6.md
+    - "3.12 Re-founding of Pauperes commilitones Christi Templique Solomonici – PCCTS, the Knights Templar": book3/g12-the-conservative-r-5a0dad/3.12-re-founding-of-pauperes-commilito-70d5d7.md
+    - "3.13 Founding principles of the Order/Tribunal": book3/g12-the-conservative-r-5a0dad/3.13-founding-principles-of-the-ordertribunal.md
+    - "3.14 PCCTS, the Knights Templar ranks – Phase 1": book3/g12-the-conservative-r-5a0dad/3.14-pccts-the-knights-templar-ranks-phase-1.md
+    - "3.15 What is a “Justiciar Knight” and how do I attain the rank?": book3/g12-the-conservative-r-5a0dad/3.15-what-is-a-justiciar-knight-and-ho-4b4179.md
+    - "3.16 PCCTS - Purpose and objectives of re-founding": book3/g12-the-conservative-r-5a0dad/3.16-pccts---purpose-and-objectives-of-6bde44.md
+    - "3.17 Justiciar Knights tasks and requirements": book3/g12-the-conservative-r-5a0dad/3.17-justiciar-knights-tasks-and-requirements.md
+    - "3.18 ”Open source” warfare - clandestine cell systems - the most efficient way of warfare in Phase 1": book3/g12-the-conservative-r-5a0dad/3.18-open-source-warfare---clandestine-a5dcd9.md
+    - "3.19 Cell structure - Cell Commander": book3/g12-the-conservative-r-5a0dad/3.19-cell-structure---cell-commander.md
+    - "3.20 PCCTS, Knights Templar - Organisational overview": book3/g12-the-conservative-r-5a0dad/3.20-pccts-knights-templar---organisat-2c77ae.md
+    - "3.21 7 Deadly mistakes to be avoided": book3/g12-the-conservative-r-5a0dad/3.21-7-deadly-mistakes-to-be-avoided.md
+    - "3.22 Using terror as a method for waking up the masses – many of our people will hate us for it": book3/g12-the-conservative-r-5a0dad/3.22-using-terror-as-a-method-for-waki-1a159b.md
+    - "3.23 The cruel nature of our operations": book3/g12-the-conservative-r-5a0dad/3.23-the-cruel-nature-of-our-operations.md
+    - "3.24 Principle of Proportionality": book3/g12-the-conservative-r-5a0dad/3.24-principle-of-proportionality.md
+    - "3.25 Funding your operation": book3/g12-the-conservative-r-5a0dad/3.25-funding-your-operation.md
+    - "3.26 Avoiding suspicion from relatives, neighbours and friends": book3/g12-the-conservative-r-5a0dad/3.26-avoiding-suspicion-from-relatives-5e1607.md
+    - "3.27 Avoid ending up on watch lists": book3/g12-the-conservative-r-5a0dad/3.27-avoid-ending-up-on-watch-lists.md
+    - "3.28 Anti-monitoring routines": book3/g12-the-conservative-r-5a0dad/3.28-anti-monitoring-routines.md
+    - "3.29 How to stay motivated for longer periods – perform a daily mental check": book3/g12-the-conservative-r-5a0dad/3.29-how-to-stay-motivated-for-longer--4ba6b3.md
+    - "3.30 Diversify risk by dividing the operation into 4 phases": book3/g12-the-conservative-r-5a0dad/3.30-diversify-risk-by-dividing-the-op-86ae58.md
+    - "3.31 Equipment – weapons/ammo/armour etc.": book3/g12-the-conservative-r-5a0dad/3.31-equipment-weaponsammoarmour-etc.md
+    - "3.32 Armour Phase – KT guide to ballistic armour": book3/g12-the-conservative-r-5a0dad/3.32-armour-phase-kt-guide-to-ballisti-a3cc60.md
+    - "3.33 Related tactical equipment and miscellaneous": book3/g12-the-conservative-r-5a0dad/3.33-related-tactical-equipment-and-mi-2ddfc6.md
+    - "3.34 Weapons phase": book3/g12-the-conservative-r-5a0dad/3.34-weapons-phase.md
+    - "3.35 Physical training, packing gear and running simulations before the operation": book3/g12-the-conservative-r-5a0dad/3.35-physical-training-packing-gear-an-3e26f1.md
+    - "3.36 Safe storage of equipment in remote caches (elimination of evidence)": book3/g12-the-conservative-r-5a0dad/3.36-safe-storage-of-equipment-in-remo-37a6b8.md
+    - "3.37 Using foreign “black markets” when acquiring equipment": book3/g12-the-conservative-r-5a0dad/3.37-using-foreign-black-markets-when--ca3909.md
+    - "3.38 Services offered by European criminal syndicates/networks": book3/g12-the-conservative-r-5a0dad/3.38-services-offered-by-european-crim-63e156.md
+    - "3.39 Sending announcements before an operation": book3/g12-the-conservative-r-5a0dad/3.39-sending-announcements-before-an-o-c0b0db.md
+    - "3.40 Applying deceptive means in urban guerrilla warfare": book3/g12-the-conservative-r-5a0dad/3.40-applying-deceptive-means-in-urban-13832a.md
+    - "3.41 Western European primary targets (Phase 1)": book3/g12-the-conservative-r-5a0dad/3.41-western-european-primary-targets-phase-1.md
+    - "3.42 Western European primary targets - Priority list": book3/g12-the-conservative-r-5a0dad/3.42-western-european-primary-targets--0de1da.md
+    - "3.43 MA100 - political parties supporting Multiculturalism": book3/g12-the-conservative-r-5a0dad/3.43-ma100---political-parties-support-fbfe5b.md
+    - "3.44 Traitor – classification system - Category A, B and C traitors": book3/g12-the-conservative-r-5a0dad/3.44-traitor-classification-system---c-bcf967.md
+    - "3.45 Added or diminished emphasis on flagged targets": book3/g12-the-conservative-r-5a0dad/3.45-added-or-diminished-emphasis-on-f-feec4f.md
+    - "3.46 Killing women on the field of battle – directly or indirectly": book3/g12-the-conservative-r-5a0dad/3.46-killing-women-on-the-field-of-bat-9c3d15.md
+    - "3.47 Avoiding apprehension/arrest and death": book3/g12-the-conservative-r-5a0dad/3.47-avoiding-apprehensionarrest-and-death.md
+    - "3.48 Quick summary – overview of the planning and operational phases for your mission": book3/g12-the-conservative-r-5a0dad/3.48-quick-summary-overview-of-the-pla-917a26.md
+    - "3.49 Conventional shock attacks (non-WMD)": book3/g13-evaluating-attack--2756e8/3.49-conventional-shock-attacks-non-wmd.md
+    - "3.50 Creation of a secondary strategy (plan b) in case of exposure": book3/g13-evaluating-attack--2756e8/3.50-creation-of-a-secondary-strategy--7a87dd.md
+    - "3.51 Defence and Attack Methods - Field Strategies": book3/g13-evaluating-attack--2756e8/3.51-defence-and-attack-methods---fiel-1359a6.md
+    - "3.53 Obtaining and using WMD’s against the cultural Marxist/multiculturalist elites": book3/g13-evaluating-attack--2756e8/3.53-obtaining-and-using-wmds-against--864928.md
+    - "3.54 Sabotage operations - the most efficient ways to cripple the current Western European multiculturalist regimes": book3/g14-sabotage-operations/3.54-sabotage-operations---the-most-ef-9d9412.md
+    - "3.56 Evaluating the possibilities for acquiring and employing nuclear weapons in phase 1": book3/g14-sabotage-operations/3.56-evaluating-the-possibilities-for--a1e479.md
+    - "3.57 Using European nuclear power plants as a weapon of mass destruction": book3/g14-sabotage-operations/3.57-using-european-nuclear-power-plan-9f630f.md
+    - "3.58 Nuclear power plant assault strategy: “Operation Regime Ender”": book3/g14-sabotage-operations/3.58-nuclear-power-plant-assault-strat-8b2084.md
+    - "3.59 Radiological Dispersal Devices, RDDs; creating, deploying and detonating radiological bombs in Western European capitals": book3/g14-sabotage-operations/3.59-radiological-dispersal-devices-rd-211dc3.md
+    - "3.60 European resistance fighters and the importance of an appealing image and ideology - efficient marketing techniques": book3/g15-communication-and--02e2b1/3.60-european-resistance-fighters-and--443da6.md
+    - "3.61 After a successful operation - countering the misinformation campaign from the multiculturalist government – martyrdom or prison": book3/g15-communication-and--02e2b1/3.61-after-a-successful-operation---co-4fee61.md
+    - "3.62 Grand Master Overseer – the Overseer Organisation": book3/g15-communication-and--02e2b1/3.62-grand-master-overseer-the-oversee-e10799.md
+    - "3.63 Why bother with honouring fallen Martyrs and living Heroes of our struggle?": book3/g15-communication-and--02e2b1/3.63-why-bother-with-honouring-fallen--b55045.md
+    - "3.64 Knights Templar orders, commendations, uniform, title, tombstone and relevant information": book3/g15-communication-and--02e2b1/3.64-knights-templar-orders-commendati-e1a8c2.md
+    - "3.65 Military awards and commendations – decorations of the Knights Templar (armed and civilian efforts)": book3/g15-communication-and--02e2b1/3.65-military-awards-and-commendations-ea7259.md
+    - "3.66 Knights Templar offer 19 different commendations": book3/g15-communication-and--02e2b1/3.66-knights-templar-offer-19-differen-c0a387.md
+    - "3.67 Knights Templar uniform": book3/g15-communication-and--02e2b1/3.67-knights-templar-uniform.md
+    - "3.68 Knights Templar honourary tombstone": book3/g15-communication-and--02e2b1/3.68-knights-templar-honourary-tombstone.md
+    - "3.69 Background information – symbolism of insignia": book3/g15-communication-and--02e2b1/3.69-background-information-symbolism--719712.md
+    - "3.70 Court/trial statements for Justiciar Knight and other patriotic resistance fighters after an operation": book3/g15-communication-and--02e2b1/3.70-courttrial-statements-for-justici-eb2f0a.md
+    - "3.71 Finding the right defence attorney/legal counsel for your trial": book3/g15-communication-and--02e2b1/3.71-finding-the-right-defence-attorne-e9a146.md
+    - "3.72 The PCCTS, Knights Templar Oath – Ordination Rite": book3/g15-communication-and--02e2b1/3.72-the-pccts-knights-templar-oath-or-bc2c0b.md
+    - "3.73 Future compensation arrangements for European members of the resistance movement": book3/g15-communication-and--02e2b1/3.73-future-compensation-arrangements--0367de.md
+    - "3.74 Right of Revolution": book3/g15-communication-and--02e2b1/3.74-right-of-revolution.md
+    - "3.75 Non-violent resistance - civil disobedience/economical sabotage": book3/g15-communication-and--02e2b1/3.75-non-violent-resistance---civil-di-34fa90.md
+    - "3.76 National Intelligence Agencies": book3/g15-communication-and--02e2b1/3.76-national-intelligence-agencies.md
+    - "3.77 A request to the Police Forces (system protectors) of Western Europe": book3/g15-communication-and--02e2b1/3.77-a-request-to-the-police-forces-sy-1ab2ac.md
+    - "3.78 “Young Europeans Movement - YE” movement - rumours of an emerging mass consolidation of anti-Marxist/anti-multiculturalist forces": book3/g15-communication-and--02e2b1/3.78-young-europeans-movement---ye-mov-519535.md
+    - "3.79 Various info": book3/g15-communication-and--02e2b1/3.79-various-info.md
+    - "3.80 Reforming the European Church – from a diversified and un-appealing “Labour Church” to a united, strong and appealing “Traditional Church”": book3/g16-european-political-abbd20/3.80-reforming-the-european-church-fro-1724fb.md
+    - "3.81 The future of European Christendom": book3/g16-european-political-abbd20/3.81-the-future-of-european-christendom.md
+    - "3.82 Patriarchy will be re-implemented": book3/g16-european-political-abbd20/3.82-patriarchy-will-be-re-implemented.md
+    - "3.83 Re-creating the traditional patriarchal social structures": book3/g16-european-political-abbd20/3.83-re-creating-the-traditional-patri-d27263.md
+    - "3.85 The political significance of sex in a cultural conservative future": book3/g16-european-political-abbd20/3.85-the-political-significance-of-sex-c122f1.md
+    - "3.86 Sexual ethics/sexual morality in Western Europe has been destroyed by cultural Marxism and liberalism": book3/g16-european-political-abbd20/3.86-sexual-ethicssexual-morality-in-w-0bdda7.md
+    - "3.87 Sexually transmitted disease (STD) epidemic in Western Europe as a result of cultural Marxism costing as much as 350 billion Euro annually": book3/g16-european-political-abbd20/3.87-sexually-transmitted-disease-std--ab79eb.md
+    - "3.88 Various topics relating to social structures": book3/g16-european-political-abbd20/3.88-various-topics-relating-to-social-d65e59.md
+    - "3.89 Anti-feminist policies - Reviving the patriarchal model by deconstructing the Western European matriarchal systems": book3/g16-european-political-abbd20/3.89-anti-feminist-policies---reviving-ebdc9c.md
+    - "3.90 Preventing the European population decline – securing sustainability – future national reproduction policies": book3/g16-european-political-abbd20/3.90-preventing-the-european-populatio-0e8326.md
+    - "3.91 Future democracy model and monoculturalism": book3/g16-european-political-abbd20/3.91-future-democracy-model-and-monocu-9f5f69.md
+    - "3.92 The rapid extinction of the Nordic genotypes": book3/g16-european-political-abbd20/3.92-the-rapid-extinction-of-the-nordi-1c14c9.md
+    - "3.93 Reprogenetics and the future": book3/g16-european-political-abbd20/3.93-reprogenetics-and-the-future.md
+    - "3.94 Future economical model/public sector model/welfare program/economic zones/servant class": book3/g16-european-political-abbd20/3.94-future-economical-modelpublic-sec-40fd76.md
+    - "3.95 Future Western European educational systems": book3/g16-european-political-abbd20/3.95-future-western-european-education-3f1653.md
+    - "3.96 Alternative energy, scientific/technological evolution, overconsumption/ pollution/overpopulation,": book3/g16-european-political-abbd20/3.96-alternative-energy-scientifictech-29d59f.md
+    - "3.97 Future aid policy – Africa - The foreign cultural Marxist aid establishment and the harm it inflicts on Africa": book3/g16-european-political-abbd20/3.97-future-aid-policy-africa---the-fo-50563c.md
+    - "3.98 Future crime prevention, EF anthem, Independence Day, imperialism": book3/g16-european-political-abbd20/3.98-future-crime-prevention-ef-anthem-df4456.md
+    - "3.99 The destructive forces of the diversity/ethnic industries, comments and solutions": book3/g16-european-political-abbd20/3.99-the-destructive-forces-of-the-div-7badb6.md
+    - "3.100 Solutions for South Africa, Israel and the US": book3/g16-european-political-abbd20/3.100-solutions-for-south-africa-israel-8137b2.md
+    - "3.105 A new conservatism/nationalism - Vienna School of Thought": book3/g16-european-political-abbd20/3.105-a-new-conservatismnationalism---v-396edd.md
+    - "3.106 Creating patriotic youth movements in phase 1": book3/g16-european-political-abbd20/3.106-creating-patriotic-youth-movement-83b435.md
+    - "3.107 Consolidating moderate (non-military) European cultural conservative organisations – phase 1 and 2": book3/g16-european-political-abbd20/3.107-consolidating-moderate-non-milita-727510.md
+    - "3.108 Europe, Anti-immigration parties/orgs – Nationalist parties/orgs": book3/g16-european-political-abbd20/3.108-europe-anti-immigration-partiesor-fa48d0.md
+    - "3.109 European protectorates": book3/g16-european-political-abbd20/3.109-european-protectorates.md
+    - "3.110 Pan-European Movements": book3/g16-european-political-abbd20/3.110-pan-european-movements.md
+    - "3.111 National Anarchists (Anarcho-nationalists, certain ACAB-, oi-, RAC-, 14/88 nationalists)": book3/g16-european-political-abbd20/3.111-national-anarchists-anarcho-natio-712e7f.md
+    - "3.112 Estimating Western European battle-ready cultural conservatives 2009": book3/g16-european-political-abbd20/3.112-estimating-western-european-battl-df8905.md
+    - "3.113 Assistance from our European-American/Canadian/Australian brothers in the European civil war": book3/g16-european-political-abbd20/3.113-assistance-from-our-european-amer-c2a257.md
+    - "3.114 Participation from conservative individuals among the minority groups – Hindus, Buddhists and Christians": book3/g16-european-political-abbd20/3.114-participation-from-conservative-i-53286e.md
+    - "3.115 Defeating multiculturalism within the next 7 decades will involve the synchronised and combined efforts (unofficial) of 8 political fronts": book3/g16-european-political-abbd20/3.115-defeating-multiculturalism-within-e547b5.md
+    - "3.116 An official request/plead to all European patriots - Required administrative high priority tasks/objectives": book3/g16-european-political-abbd20/3.116-an-official-requestplead-to-all-e-67a6ef.md
+    - "3.117 Using Facebook and other social networking sites as a platform to consolidate and grow the European resistance movement": book3/g16-european-political-abbd20/3.117-using-facebook-and-other-social-n-58f57c.md
+    - "3.118 Online “recruiters” for patriotic armed resistance movements/8th front – a primary administrative tasks": book3/g16-european-political-abbd20/3.118-online-recruiters-for-patriotic-a-72d3cc.md
+    - "3.119 Teach your children the truth and do not allow them to be indoctrinated by cultural Marxist/multiculturalist propaganda": book3/g16-european-political-abbd20/3.119-teach-your-children-the-truth-and-989c5d.md
+    - "3.120 Christian/nationalist consolidation and considerations in Muslim-dominated Western European prisons": book3/g16-european-political-abbd20/3.120-christiannationalist-consolidatio-5a5052.md
+    - "3.121 From clandestine cells to more advanced military movements": book3/g16-european-political-abbd20/3.121-from-clandestine-cells-to-more-ad-9167ce.md
+    - "3.122 Objectives in Phase 2": book3/g16-european-political-abbd20/3.122-objectives-in-phase-2.md
+    - "3.123 Creating a PCCTS/Knights Templar political wing": book3/g16-european-political-abbd20/3.123-creating-a-pcctsknights-templar-p-1eacfd.md
+    - "3.124 A politically incorrect guide to the lynching of multiculturalist traitors (phase 2 and 3)": book3/g16-european-political-abbd20/3.124-a-politically-incorrect-guide-to--ee4717.md
+    - "3.125 Investments and wealth protection in Europe during phase 2 and 3 – civil war, how to protect your wealth": book3/g16-european-political-abbd20/3.125-investments-and-wealth-protection-0691cf.md
+    - "3.126 Building a cultural conservative paramilitary/militia organisation": book3/g16-european-political-abbd20/3.126-building-a-cultural-conservative--d9da53.md
+    - "3.127 A full or partial pardon may be granted to many category A, B and C traitors in phase 2": book3/g16-european-political-abbd20/3.127-a-full-or-partial-pardon-may-be-g-6be257.md
+    - "3.128 Preparation for Phase 3 (2070-2083) Coup d'état": book3/g16-european-political-abbd20/3.128-preparation-for-phase-3-2070-2083-a4b0e4.md
+    - "3.129 Recommendations for cultural conservative senior and junior military officers (phase 1, 2 and 3)": book3/g16-european-political-abbd20/3.129-recommendations-for-cultural-cons-d3d125.md
+    - "3.130 The political landscape in W. Europe, 2070-2080, before the initiation of Phase 3": book3/g16-european-political-abbd20/3.130-the-political-landscape-in-w-euro-561cda.md
+    - "3.131 European Civil War, Phase 3, 2070-2083": book3/g16-european-political-abbd20/3.131-european-civil-war-phase-3-2070-2083.md
+    - "3.132 Predicted actions from other cultural Marxist/multiculturalist regimes": book3/g16-european-political-abbd20/3.132-predicted-actions-from-other-cult-73cc2c.md
+    - "3.133 The cultural/economical American Empire - dealing with a tyrant - why the Democratic and the Republican Party cannot be trusted": book3/g16-european-political-abbd20/3.133-the-culturaleconomical-american-e-41e36c.md
+    - "3.134 Deportation policy (preventive measures)": book3/g16-european-political-abbd20/3.134-deportation-policy-preventive-measures.md
+    - "3.135 Economical/social impacts of mass deportations": book3/g16-european-political-abbd20/3.135-economicalsocial-impacts-of-mass--efe58c.md
+    - "3.136 Recommendations for future cultural conservative/nationalist regimes when forming and developing government": book3/g16-european-political-abbd20/3.136-recommendations-for-future-cultur-48e056.md
+    - "3.137 Cultural conservative/nationalist reforms during and after phase 3": book3/g16-european-political-abbd20/3.137-cultural-conservativenationalist--c29f53.md
+    - "3.138 After the civil war – how to win the peace, creating a sustainable balance between conservatism and liberalism": book3/g16-european-political-abbd20/3.138-after-the-civil-war-how-to-win-th-2dc4df.md
+    - "3.139 Distinguishing between cultural Christendom and religious Christendom – reforming our suicidal Church": book3/g16-european-political-abbd20/3.139-distinguishing-between-cultural-c-42b149.md
+    - "3.140 Creating a “European Federation”, economic, cultural and military alliance": book3/g16-european-political-abbd20/3.140-creating-a-european-federation-ec-ac86ed.md
+    - "3.141 The negotiations between the European Federation and the USASSR/EUSSR block and Muslim countries in the phase 3 transition period (prior to deportations) and the outlook for the European Federation companies’ current investments in the Muslim world": book3/g16-european-political-abbd20/3.141-the-negotiations-between-the-euro-cabb00.md
+    - "3.142 Future foreign policy – deportation and territorial claims": book3/g16-european-political-abbd20/3.142-future-foreign-policy-deportation-25778b.md
+    - "3.143 Creating a New Europe and a new Middle East (see map)": book3/g16-european-political-abbd20/3.143-creating-a-new-europe-and-a-new-m-fac220.md
+    - "3.144 European Federation military campaigns against Muslim Bosnia Herzegovina, Muslim Kosovo, Muslim Albania, Turkey, Syria (Lebanon), Jordan and Egypt": book3/g16-european-political-abbd20/3.144-european-federation-military-camp-474c9b.md
+    - "3.145 Logistical, military and diplomatic issues in regards to deporting Muslims from Europe": book3/g16-european-political-abbd20/3.145-logistical-military-and-diplomati-729b48.md
+    - "3.146 Evacuating Christians in the Middle East in regards to the new Christian nations": book3/g16-european-political-abbd20/3.146-evacuating-christians-in-the-midd-dc859a.md
+    - "3.147 Quick list suggestions – Future domestic and foreign policy": book3/g16-european-political-abbd20/3.147-quick-list-suggestions-future-dom-1246d6.md
+    - "3.148 Pope Urban II and Pope Innocent III granted indulgence to all future Crusaders (martyrs of the Church)": book3/g16-european-political-abbd20/3.148-pope-urban-ii-and-pope-innocent-i-549a77.md
+    - "3.149 The Bible and self-defence": book3/g16-european-political-abbd20/3.149-the-bible-and-self-defence.md
+    - "3.150 A Book for the Knights Templar: In Praise of the New Knighthood (Liber ad milites Templi: De laude novae militae)": book3/g16-european-political-abbd20/3.150-a-book-for-the-knights-templar-in-2063a6.md
+    - "3.151 There are no atheists in foxholes – preparing for martyrdom": book3/g16-european-political-abbd20/3.151-there-are-no-atheists-in-foxholes-24e273.md
+    - "3.152 Justiciar Knights, Martyrdom vs. Suicide": book3/g16-european-political-abbd20/3.152-justiciar-knights-martyrdom-vs-suicide.md
+    - "3.153 Interview with a Justiciar Knight Commander of the PCCTS, Knights Templar": book3/g17-further-studies/3.153-interview-with-a-justiciar-knight-d7245d.md
+    - "3.154 Knights Templar Log": book3/g17-further-studies/3.154-knights-templar-log.md
+    - "3.155 Successful militant organisations - Case studies": book3/g17-further-studies/3.155-successful-militant-organisations-2b9ddc.md
+    - "3.156 Failed European militant organisations - Case studies": book3/g17-further-studies/3.156-failed-european-militant-organisa-5d7355.md
+    - "3.157 PCCTS, Knights Templar stance towards other liberation organisations": book3/g17-further-studies/3.157-pccts-knights-templar-stance-towa-5e0d78.md
+    - "3.158 The state of the Indian/Hindu resistance - Indian nationalists": book3/g17-further-studies/3.158-the-state-of-the-indianhindu-resi-7d4091.md
+    - "3.159 Failed coup in Turkey (2007) – Case study of the Ergenekon Network": book3/g17-further-studies/3.159-failed-coup-in-turkey-2007-case-s-7ffab5.md
+    - "3.160 Fourth generation warfare": book3/g17-further-studies/3.160-fourth-generation-warfare.md
+    - "3.161 The Study of Revolutions": book3/g17-further-studies/3.161-the-study-of-revolutions.md
